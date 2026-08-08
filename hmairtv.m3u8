@@ -145,29 +145,43 @@ https://aboxbdix.ryvox-tb-8ae.workers.dev/live/COLORS_HD.m3u8?token=e1ea17c8fe26
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjT_ERdl4IK7FIB-pshOg6xTdAUi3XTEXjTl7zJoyhTo2-Ky7JWuwSCHeyLi5aos0xHr0s31SX4fNpRyl8iZ7kI2acSjewL7_t-_qtQzTxOlzk8BYO_OR_0BtIIC8w_YhndbWuYCw6iGBaLgOtIhK-21BlA_lh5K2zcRuwwk3MFBhUgupZkGTUjre5Yzhh3",Sony Entertainment Television
 https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tL2Nkbi9saXZlL3NvbnllbnRlcnRhaW5tbnRfaGQvLi4vc2xhbmcvc29ueWVudGVydGFpbm1udF9oZF81NzYvc29ueWVudGVydGFpbm1udF9oZF81NzYubTN1OD9iaXRyYXRlPTEwMDAwMDAmY2hhbm5lbD1zb255ZW50ZXJ0YWlubW50X2hkXzU3NiZncF9pZD18fHxUb2ZmZWUgKExpbnV4O0FuZHJvaWQgMTQpfHx8eyJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjE0MDQwMTpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT0zMG9oaDBrcVdNOHBKMlN4LURYeWtPZUdmdlQ5MWdvT2dqS1VlT3h4c1BZNmxVM1BSOFFRanFkbTEyQXNKVE51TEZEbmVrZ1NFMFF4am9qR0JZSGlDQSJ9/sonyentertainmnt_hd_576.m3u8
 
-#EXTINF:-1 tvg-name="Star jalsha" tvg-logo="https://i.pinimg.com/1200x/fb/81/ea/fb81ea77d70e3e57ce09ef50bd91710a.jpg" group-title="Indian Bangla",Star Jalsha HD
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Star jalsha" tvg-logo=" https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",Star Jalsha HD
 https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU3RhckphbHNoYUhELm0zdTg.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Indian Bangla",Zee Bangla HD
-https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
-#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Indian Bangla",Sony Aath
-https://s2.itcnbd.live/server-2/stream/sonyaath.m3u8
-#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Indian Bangla",ABP Ananda
+
+
+#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo=" https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee 24 Ghanta" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Indian Bangla",Zee 24 Ghanta
+
+#EXTINF:-1 tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",Zee 24 Ghanta
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Indian Bangla",TV9 Bangla
+
+#EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-name="News18 Bangla News" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Indian Bangla",News18 Bangla
+
+#EXTINF:-1 tvg-name="News18 Bangla News" tvg-logo=" https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",News18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-name="AAKASH AATH" group-title="Indian Bangla",Aakaash Aath
+
+#EXTINF:-1 tvg-name="AAKASH AATH"  tvg-logo=" https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",Aakaash Aath
 https://cdn-4.pishow.tv/live/969/master.m3u8
-#EXTINF:-1 tvg-name="Kolkata TV" group-title="Indian Bangla",Kolkata TV
+
+#EXTINF:-1 tvg-name="Kolkata TV"  tvg-logo=" https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
-#EXTINF:-1 tvg-name="R Plus Gold" group-title="Indian Bangla",R Plus Gold
+
+#EXTINF:-1 tvg-name="R Plus Gold"  tvg-logo=" https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",R Plus Gold
 https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
-#EXTINF:-1 tvg-name="Enter10 Bangla" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Indian Bangla",Enter10 Bangla
+
+#EXTINF:-1 tvg-name="Enter10 Bangla"  tvg-logo=" https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png"group-title="Indian Bangla",Enter10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="https://imgur.com/79g2kMA.png" group-title="Indian Bangla",Sangeet Bangla
+
+#EXTINF:-1 tvg-name="Sangeet Bangla"  tvg-logo=" https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 
