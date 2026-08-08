@@ -16,6 +16,9 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://otapp.store/uploads/tv_image/sm/mohona-tv.png",Mohona Tv
 https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tL2Nkbi9saXZlL21vaG9uYV90di8uLi9zbGFuZy9tb2hvbmFfdHZfNTc2L21vaG9uYV90dl81NzYubTN1OD9iaXRyYXRlPTEwMDAwMDAmY2hhbm5lbD1tb2hvbmFfdHZfNTc2JmdwX2lkPXx8fFRvZmZlZSAoTGludXg7QW5kcm9pZCAxNCl8fHx7ImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5RdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg2MTUzNDU3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPTA5V0xoRnZoOGpGWU8wYmFwVXZUWmh4M1ZxVkNtQlUwZTh6RHA4dlM2dlRoa21QcW94ZEMtVi1LWGhXS0FWRmhEb3VuSFpHMGVHOUFoYkpoWUI3Q0R3In0/mohona_tv_576.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/channels4_profile.jpg", Hum Tv
+https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png",Channel 1
 https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m3u8?
 
