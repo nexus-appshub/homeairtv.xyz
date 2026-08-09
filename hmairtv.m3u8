@@ -79,10 +79,10 @@ https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Global Tv HD
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" GTV
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,GTV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/gazi-television-gtv.m3u8?token=ebdfa7235121144b3960c0caaa7dc86b&time=1786268758&link_index=0
 
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" Deshi TV
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Deshi TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/deshi-tv.m3u8?token=34c5c3b689c43e0195a0ac72cb1088d6&time=1786268862&link_index=0
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" Deshebideshe
