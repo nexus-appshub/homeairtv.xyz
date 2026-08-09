@@ -76,7 +76,7 @@ https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj5xfBpa0O1v8VQbYz5abCb6PmjXOj5gfyNDdd0cLnIUuaXKja4JfHvIX2IkBYf-BCoeug7fK9gXFxjlQPmkcrRSG-UsFkz6kLqsb8_6jQqaITDvBohbLZDco_pdUxkNW9PZ4sSuB172FMLsSKNX-vj4oDqxYlUnRkGuLyvk3YiRYkHCVoU4soMxf6MDi_x",ATN Bangla TV
 https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png ,Global Tv HD
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Global Tv HD
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 
 
@@ -87,7 +87,7 @@ https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 
 # ==================== SPORTS ====================
 
-#EXTINF:-1 group-title="Sports"   tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png  ,Bein 1
+#EXTINF:-1 group-title="Sports"   tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png"  ,Bein 1
 https://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bein_sports_1&format=.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhDnUax2a49Dil4_ySjWYa_4JWX8a3aNNHZnghZu3OOrka803jWb7xbJFbWXRo5LJa8yt_5KX1gjhryXeo39kWzjIOs0ezv5ClGliwC7p0B0XVnfLbSPjOWgcohHoHEw-ff0_BFbe99rzs4Wc1gGSND6RjAzfb5p9fJIonZGD4JDrmFI1vAaUcbygXX8s5v",T Sports
@@ -215,7 +215,7 @@ https://aboxbdix.ryvox-tb-8ae.workers.dev/live/jalsha-movies.m3u8?token=43d9688a
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Pix
-https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tL2Nkbi9saXZlL3NvbnlwaXhfaGQvLi4vc2xhbmcvc29ueXBpeF9oZF81NzYvc29ueXBpeF9oZF81NzYubTN1OD9iaXRyYXRlPTEwMDAwMDAmY2hhbm5lbD1zb255cGl4X2hkXzU3NiZncF9pZD18fHxUb2ZmZWUgKExpbnV4O0FuZHJvaWQgMTQpfHx8eyJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjE1MzQ1NzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT0wOVdMaEZ2aDhqRllPMGJhcFV2VFpoeDNWcVZDbUJVMGU4ekRwOHZTNnZUaGttUHFveGRDLVYtS1hoV0tBVkZoRG91bkhaRzBlRzlBaGJKaFlCN0NEdyJ9/sonypix_hd_576.m3u8
+https://aboxbdix.ryvox-tb-8ae.workers.dev/live/nested?url=mG4L3uF4dRnTTmwR2UDKSLneX3xeRfJ98ajxyWpmegldH88YH7Sy_Fc7Jsc-E9cHyOhu-LnGqzZulb08UqocNd76xkoX-T1LuuFoX_d96yjGSpeUKtFcE9VUe8gSSolGBBEPsXhe9p7AoR4tT7b5Wa7vf8SUcbrDYEpjzCuqnw&token=a6532c22c432678bc7daa8ff121fbe04&time=1786268295
 
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Max2
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
