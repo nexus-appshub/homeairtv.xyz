@@ -275,6 +275,10 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png",Zee Cinema HD
 https://mflixott.com/tv/toffee-by-maruf/live.php?cid=zee_cinema_hd&chunks=11b14218bd165bbb5f58219a13a6c102be4015def38ed0808dec3235defd13fb17ce6f183c766d935d2c0e2848b99d6a136027c9b5b6bb88def441fd74e4a24b2e3c2b6089eafb278b858d8fb8d8a23449a4e16f7dfbbc3a8577618238d974fe3d740161b57697c94a63bee6ea1020ff
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png",Zee Cinema (ALT)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+
 #EXTINF:-1 group-title="Movies"    tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png"  ,Sony Max
  https://mflixott.com/tv/toffee-by-maruf/live.php?cid=sony_max_hd&chunks=960059037106d2ebf16e0c97a552dc596f2687458d9ea3f40ce216e5c4d9898c0b2f903dae1075cf1d7e85af90a3a9032fe77d5090f9c09935196c6d02203548759fca385942a96de01bd3df70c06f4e76b68fd0be61d9d4b94fa5d58f28e30d
 
@@ -290,11 +294,86 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Max2
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
 
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Max SD
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi6YndxSycNYAwD8qZNlYNv7ZcPpONkAiJZXb-lGhrwizNssxUfuf6gBS5WNNiuhOVqooJYFROR83LvjEFxJKK4sSx_rPjYw7KsywvpLxgb6R7oQ2QAS-mcKegKUDhMkqFnrUeca-SYY1dR5f2_iYAwGvQ2w1xXjlTRbw1TI14nBjDUBroQj6uePXzUdVr9",Sony Sub
 https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-name="AAKASH AATH"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", Movie Live
+http://ftp.ctgfun.com/English/Enola%20Holmes-3%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Enola%20Holmes-3%20%282026%29%20Hindi%20English%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+
+
+#EXTINF:-1 tvg-name="AAKASH AATH"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", Movie Live
+http://ftp.ctgfun.com/English/Elevation.2024.1080p.BluRay.x264%20%5BDDN%5D/Elevation.2024.1080p.BluRay.x264%20%5BDDN%5D.mp4.mp4
+
+
+
+
+#EXTINF:-1 tvg-name="AAKASH AATH"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", Movie Live
+http://ftp.ctgfun.com/English/Evil%20Dead%20Burn%20%282026%29%20Hindi%20English%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Evil%20Dead%20Burn%20%282026%29%20Hindi%20English%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+
+
+#EXTINF:-1 tvg-name="AAKASH AATH"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", Movie Live
+http://ftp.ctgfun.com/English/Moana%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Moana%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mp4
+
 # ==================== KIDS ====================
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,The Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Kid Toons
+https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Toons Legit
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Toons 22
+https://dc6v647pwrp79.cloudfront.net/matjr.m3u8
+
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Toons 23
+https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD5100001HL
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Smurf TV
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Barbie
+https://d1xqdnwy1bo05f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/barb.m3u8
+
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Cartoons Era
+https://d2z0ysa6dgxhlc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ajxyy4yaic6nq/kchan.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony AATH
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+
+
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Tinny Pop
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,The Yeti
+http://ftp.ctgfun.com/English/The.Yeti.2026.1080p.WEBRip.x264%20%5BDDN%5D/The.Yeti.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4
+
+ 
+
+
+
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEidSqszp8yI2CudD8sZttSOsp108tl-toue5O9TOdLQ0xdSf7sO8CysKIFWQboXqV9F2Hd0HX3GXwmNzGDsMufbEQJ7hJsvJAZo3MjZoD7PbXl5O3tMppxMsJK0O8a3uo6gYR4umXUFH3qUlMQlinx3xOPUwEhW-go5UV1wsNt3YNzPhBP6KHpz8-ltaUFA",ZB Cartoon TV
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
 
@@ -339,6 +418,9 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 # ==================== INTERNATIONAL ====================
 #EXTINF:-1 group-title="International" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Fox News
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="International"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Discovery
 https://stream.ottplus.live/live/discovery_hd_abr/live/discovery_hd/chunks.m3u8
