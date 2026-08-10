@@ -294,6 +294,12 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?cid=sonypix_hd&chunks=0905b407e
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Max2
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
 
+#EXTINF:-1 tvg-id="andtv.in" tvg-name="&TV HD" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Hindi Entertainment", &TV HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?cid=and_tv_hd&chunks=60dd1ef5b06fb2ea8a9f4a4a7ed811c81a0651434760c67046561fdebc2fa3cecbebbbbaa45a146d44730e47db99803f34e59a5194f282c91af8aa531b279b9493c80a5a363684545896649dc7fb04e056ab3c947ed0b8d0ebc5de14ca2eb465
+
+#EXTINF:-1 tvg-id="andpictures.in" tvg-name="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Hindi Movies", &Pictures HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=andpicture_hd&e=.m3u8
+
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Max SD
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
