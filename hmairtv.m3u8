@@ -223,7 +223,11 @@ https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvQ
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/SONY-TELEVISION.m3u8?token=937d6053894761a78de9592119e0526e&time=1786267178&link_index=0
 
 #EXTINF:-1 tvg-name="Star jalsha" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", & TV
- https://mflixott.com/tv/toffee-by-maruf/live.php?cid=and_tv_hd&chunks=60dd1ef5b06fb2ea8a9f4a4a7ed811c81a0651434760c67046561fdebc2fa3cecbebbbbaa45a146d44730e47db99803f34e59a5194f282c91af8aa531b279b9493c80a5a363684545896649dc7fb04e056ab3c947ed0b8d0ebc5de14ca2eb465
+https://mflixott.com/tv/toffee-by-maruf/live.php?cid=and_tv_hd&chunks=60dd1ef5b06fb2ea8a9f4a4a7ed811c81a0651434760c67046561fdebc2fa3cecbebbbbaa45a146d44730e47db99803f34e59a5194f282c91af8aa531b279b9493c80a5a363684545896649dc7fb04e056ab3c947ed0b8d0ebc5de14ca2eb465
+
+#EXTINF:-1 tvg-name="Star jalsha" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", & TV
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=andpicture_hd&e=.m3u8
+
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg", Z TV
 https://mflixott.com/tv/toffee-by-maruf/live.php?cid=zee_tv_hd&chunks=3445ac8e0ad55da854fb7be24d044935f81a6104d2cf98902f0a31c9d2a643277031cdc319ef7f1ad5064794f21ec713cbfdecc9972fae36f975f6aa2dd27387192bcc64eb26b789982216f7dfd67af4a21850d487312d456fcce36fdb5ed338
