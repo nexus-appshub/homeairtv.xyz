@@ -262,7 +262,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 # ==================== MOVIES ====================
 #EXTINF:-1 group-title="Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png",Zee Cinema HD
-https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
+https://mflixott.com/tv/toffee-by-maruf/live.php?cid=zee_cinema_hd&chunks=11b14218bd165bbb5f58219a13a6c102be4015def38ed0808dec3235defd13fb17ce6f183c766d935d2c0e2848b99d6a136027c9b5b6bb88def441fd74e4a24b2e3c2b6089eafb278b858d8fb8d8a23449a4e16f7dfbbc3a8577618238d974fe3d740161b57697c94a63bee6ea1020ff
 
 #EXTINF:-1 group-title="Movies"    tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png"  ,Sony Max
  https://mflixott.com/tv/toffee-by-maruf/live.php?cid=sony_max_hd&chunks=960059037106d2ebf16e0c97a552dc596f2687458d9ea3f40ce216e5c4d9898c0b2f903dae1075cf1d7e85af90a3a9032fe77d5090f9c09935196c6d02203548759fca385942a96de01bd3df70c06f4e76b68fd0be61d9d4b94fa5d58f28e30d
