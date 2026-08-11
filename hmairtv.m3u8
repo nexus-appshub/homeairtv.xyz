@@ -303,6 +303,9 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=andpicture_hd&e=.m3u8
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Max SD
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Yay
+https://s3.itcnbd.live/server-2/proxy/sonyyay/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fsonyyay_576%2Fsonyyay_576.m3u8%3Fbitrate%3D1000000%26channel%3Dsonyyay_576%26gp_id%3D
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi6YndxSycNYAwD8qZNlYNv7ZcPpONkAiJZXb-lGhrwizNssxUfuf6gBS5WNNiuhOVqooJYFROR83LvjEFxJKK4sSx_rPjYw7KsywvpLxgb6R7oQ2QAS-mcKegKUDhMkqFnrUeca-SYY1dR5f2_iYAwGvQ2w1xXjlTRbw1TI14nBjDUBroQj6uePXzUdVr9",Sony Sub
 https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
 
