@@ -23,7 +23,7 @@ https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/channels4_profile.jpg", Hum Tv
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_tv&=.m3u8
+https://s3.itcnbd.live/channel/6b0f236ae9a367ed.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/31930d760aa9ef491ca2c999e29fd42617659db5/Logos/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",Channel 1
 https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m3u8?
@@ -91,7 +91,7 @@ https://aboxbdix.ryvox-tb-8ae.workers.dev/live/deshebideshe-tv-canada.m3u8?token
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/channel%20S.png" ,Channel S BD
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/channel-s-bd.m3u8?token=c91bc2f7bdc967ae61746561a93ddda7&time=1786268994&link_index=0
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Bangla TV
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/bangla%20tv.jpg" ,Bangla TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/Bangla_TV.m3u8?token=5d54efe3f4f9e090601efae5d88f8fa7&time=1786269037&link_index=0
 
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Zee 24 
