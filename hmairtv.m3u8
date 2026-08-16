@@ -79,16 +79,16 @@ https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/2f25f2c0498dc8b268af3b0d39198a36ce6f81c2/Logos/01KVWJD176R6VT9GC3B9KEJBWK.png" ,Global Tv HD
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 
-#EXTINF:-1 group-title="News"https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/GTV.png" ,GTV
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/GTV.png" ,GTV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/gazi-television-gtv.m3u8?token=ebdfa7235121144b3960c0caaa7dc86b&time=1786268758&link_index=0
 
-#EXTINF:-1 group-title="News"https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/deshi%20tv.png" ,Deshi TV
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/deshi%20tv.png" ,Deshi TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/deshi-tv.m3u8?token=34c5c3b689c43e0195a0ac72cb1088d6&time=1786268862&link_index=0
 
-#EXTINF:-1 group-title="News"https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/deshebideshe%20%281%29.png" ,Deshebideshe TV
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/deshebideshe%20%281%29.png" ,Deshebideshe TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/deshebideshe-tv-canada.m3u8?token=4490ffb34238954121efd465180c8764&time=1786268918&link_index=0
 
-#EXTINF:-1 group-title="News"https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/channel%20S.png" ,Channel S BD
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/channel%20S.png" ,Channel S BD
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/channel-s-bd.m3u8?token=c91bc2f7bdc967ae61746561a93ddda7&time=1786268994&link_index=0
 
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Bangla TV
