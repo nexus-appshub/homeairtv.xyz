@@ -280,7 +280,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 
 #EXTINF:-1 group-title="Movies"    tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png"  ,Sony Max
- https://mflixott.com/tv/toffee-by-maruf/live.php?cid=sony_max_hd&chunks=960059037106d2ebf16e0c97a552dc596f2687458d9ea3f40ce216e5c4d9898c0b2f903dae1075cf1d7e85af90a3a9032fe77d5090f9c09935196c6d02203548759fca385942a96de01bd3df70c06f4e76b68fd0be61d9d4b94fa5d58f28e30d
+https://aboxbdix.ryvox-tb-8ae.workers.dev/live/nested?url=PmnJFzI-1Ch4Rl_mN9qxQ0WenU-w7LsrIDhQG_R5Xb8ncj_rlraSj9YEHk3j8CEIhzUwqbPr7qBQ0V2XsDT7Sf5OTiiA1myqOQHYDp5cUjPyeC__WmoxMg5lFG3R3RWWx-2zo8XDmqOFOl4Qcp53wY_XfsD1jgIauZRu&token=061f671d2ebb918bbf8ac73f48b2b3d2&time=1786897818
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png",Jalsha Movie
  https://footfytv.pro/proxy/direct?url=http%3A%2F%2F103.165.93.31%3A8095%2FjalshaMovies%2Ftracks-v1a1%2Fmono.m3u8
@@ -289,7 +289,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Pix
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonypix_hd&e=.m3u8
+https://aboxbdix.ryvox-tb-8ae.workers.dev/live/nested?url=Bt2n2rnwzFY-kuy6WyvLlwZICmERezUXWQfKfQYNOXHEVb30DbfezrCzdy1ZdHn3qw8kXYA9D9mNkDveWZtZM-kPrDVzMuNzWotIaJODlutshKgBjnkEc73aS7j-bxjzctedSahzhoQF3796S990A6MtjBPON2VOxParPNNqoEA&token=8a6ab82b1b6e05f1c0dd106b3f3029a6&time=1786898280
 
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Max2
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
