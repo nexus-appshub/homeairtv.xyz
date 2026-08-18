@@ -94,28 +94,28 @@ https://aboxbdix.ryvox-tb-8ae.workers.dev/live/channel-s-bd.m3u8?token=c91bc2f7b
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/bangla%20tv.jpg" ,Bangla TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/Bangla_TV.m3u8?token=5d54efe3f4f9e090601efae5d88f8fa7&time=1786269037&link_index=0
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Zee 24 
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/zee%2024.png" ,Zee 24 
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/zee-24-ghanta.m3u8?token=3dfd185d93fb89fedfaee7b54cbae0dd&time=1786269079&link_index=0
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Al-Jazeera
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/al%20jajeera.png" ,Al-Jazeera
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/al-jazeera.m3u8?token=1782eff331a32a24019896b783935da9&time=1786269145&link_index=0
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Ayna TV
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/39d3c30754c09e28fc23fa37013bec3d807a76fa/Logos/ayna%20tv.jpeg" ,Ayna TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/ayna-tv.m3u8?token=a0f388e04daf6b9cb88adba4d67d1f18&time=1786269192&link_index=0
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Azan TV
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/azan%20tv.jpg" ,Azan TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/azan-tv-canada.m3u8?token=1abba7725f7e67bed832200f9947f091&time=1786269234&link_index=0
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Bijoy TV
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/bijoy%20tv.jpg" ,Bijoy TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/bijoy-tv.m3u8?token=063ef61e15155cd36b597af5542dac9b&time=1786269303&link_index=0
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,DW TV
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/dw%20news.png" ,DW News
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/dw-news.m3u8?token=f7b70e6b0e1219e149a1556565cf64db&time=1786269367&link_index=0
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Galaxy TV
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/galaxy%20tv.jpg" ,Galaxy TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/galaxy-tv.m3u8?token=6c2fc4daf1f79b29df5f328eb307c780&time=1786269401&link_index=0
 
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", EP TV
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/ep%20tv.jpg", EP TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/ep-tv.m3u8?token=c3f20abc4f34de6041220c7b8f3a0c85&time=1786269437&link_index=0
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Green TV
