@@ -95,8 +95,11 @@ https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/GTV.png" ,GTV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/gazi-television-gtv.m3u8?token=ebdfa7235121144b3960c0caaa7dc86b&time=1786268758&link_index=0
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/deshi%20tv.png" ,Deshi TV
-https://aboxbdix.ryvox-tb-8ae.workers.dev/live/deshi-tv.m3u8?token=34c5c3b689c43e0195a0ac72cb1088d6&time=1786268862&link_index=0
+#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="SM All TV",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU" group-title="SM All TV",Sanonda Tv
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/deshebideshe%20%281%29.png" ,Deshebideshe TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/deshebideshe-tv-canada.m3u8?token=4490ffb34238954121efd465180c8764&time=1786268918&link_index=0
@@ -128,8 +131,8 @@ https://aboxbdix.ryvox-tb-8ae.workers.dev/live/dw-news.m3u8?token=f7b70e6b0e1219
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/galaxy%20tv.jpg" ,Galaxy TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/galaxy-tv.m3u8?token=6c2fc4daf1f79b29df5f328eb307c780&time=1786269401&link_index=0
 
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/ep%20tv.jpg", EP TV
-https://aboxbdix.ryvox-tb-8ae.workers.dev/live/ep-tv.m3u8?token=c3f20abc4f34de6041220c7b8f3a0c85&time=1786269437&link_index=0
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png" group-title="SM All TV",Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/green%20tv.jpg" ,Green TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/green-tv.m3u8?token=2844265e858ecc0b66777b7cb083f38a&time=1786269477&link_index=0
@@ -143,11 +146,11 @@ https://aboxbdix.ryvox-tb-8ae.workers.dev/live/madani-ch-bangla.m3u8?token=4e014
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/nexuas%20tv.jpg" ,Nexus TV
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/nexus-tv.m3u8?token=100ebfcb93f44b26cabf61e5c103312b&time=1786269604&link_index=0
 
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/rajdhani%20tv.png" ,Rajdhani TV
-https://aboxbdix.ryvox-tb-8ae.workers.dev/live/rajdhani-tv.m3u8?token=9adf5dc2a0cfc0b05f2abab4a1148601&time=1786269660&link_index=0
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="SM All TV",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/peace%20tv.png", Peace TV
-https://aboxbdix.ryvox-tb-8ae.workers.dev/live/peace-tv-bangla.m3u8?token=8d2bbc7d2a62682bdb4b9fb7cbf8bef0&time=1786269698&link_index=0
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/golsmines.jpg" ,Gold MInes Movies
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/goldmines.m3u8?token=fed2353684d3d956584f4e8817e142c2&time=1786269767&link_index=0
@@ -155,6 +158,35 @@ https://aboxbdix.ryvox-tb-8ae.workers.dev/live/goldmines.m3u8?token=fed2353684d3
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/b4u%20movies.jpg" ,B4U Movies
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/b4u-movies.m3u8?token=51572c31d09a43b886f5fd378fe513dd&time=1786269847&link_index=0
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png" group-title="SM All TV",Enterr 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" group-title="SM All TV", ZB Cartun TV
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+
+
+
+# ==================== Religious ====================
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png"group-title="SM All TV", Quran TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png"group-title="SM All TV", Quran TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png"group-title="SM All TV", Iqraa TV
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="SM All TV",QURAN
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="SM All TV",Azan Tv
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="SM All TV",Quran Live
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
 
 
