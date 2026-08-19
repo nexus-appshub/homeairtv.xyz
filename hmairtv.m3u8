@@ -327,8 +327,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=andpicture_hd&e=.m3u8
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Sony YAY" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" group-title="Toffee",Sony YAY
-#KODIPROP:inputstream.adaptive.stream_headers=Host=bldcmprod-cdn.toffeelive.com&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires%3D1787292015:KeyName%3Dprod_linear:Signature%3DXSnc-6vjQOR_xRyCq9V91TuhAtFXVdiPahTn3vlvQGXQ9xxhhTFWnCrkBStslNQPELwGwCU-Cyo-dGztxb3JAA&user-agent=okhttp/5.1.0&client-api-header=null&accept-encoding=gzip
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
+https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 
  
 
