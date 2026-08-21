@@ -141,15 +141,6 @@ https://stream.ottplus.bd/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",Ten Cricket
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
-https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp",Unite 8 Sports 1
-https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FSTAR_SPORTS_SELECT1%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp",Unite 8 Sports 2
-https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FSTAR_SPORTS_SELECT2%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
@@ -188,19 +179,6 @@ https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png",Sun Bangla
 https://footfytv.pro/proxy/direct?url=http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg",COLORS BANGLA
-https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/colorsbangla2_link_copy_kore_lav_nai_1h_por_automatic_change_hoye_jabe/playlist.m3u8?expires=1787050456&sig=WO_kYWezE6XX7R6vX0K9Hp_Cb1VLNED0tfEQ80W-bXM
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjT_ERdl4IK7FIB-pshOg6xTdAUi3XTEXjTl7zJoyhTo2-Ky7JWuwSCHeyLi5aos0xHr0s31SX4fNpRyl8iZ7kI2acSjewL7_t-_qtQzTxOlzk8BYO_OR_0BtIIC8w_YhndbWuYCw6iGBaLgOtIhK-21BlA_lh5K2zcRuwwk3MFBhUgupZkGTUjre5Yzhh3",Sony Entertainment Television
-https://aboxbdix.ryvox-tb-8ae.workers.dev/live/SONY-TELEVISION.m3u8?token=937d6053894761a78de9592119e0526e&time=1786267178&link_index=0
-
-#EXTINF:-1 tvg-name="Star jalsha" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", & TV
-https://mflixott.com/tv/toffee-by-maruf/live.php?cid=and_tv_hd&chunks=60dd1ef5b06fb2ea8a9f4a4a7ed811c81a0651434760c67046561fdebc2fa3cecbebbbbaa45a146d44730e47db99803f34e59a5194f282c91af8aa531b279b9493c80a5a363684545896649dc7fb04e056ab3c947ed0b8d0ebc5de14ca2eb465
-
-#EXTINF:-1 tvg-name="Star jalsha" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", & TV
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=andpicture_hd&e=.m3u8
-
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg", Z TV
 https://mflixott.com/tv/toffee-by-maruf/live.php?cid=zee_tv_hd&chunks=3445ac8e0ad55da854fb7be24d044935f81a6104d2cf98902f0a31c9d2a643277031cdc319ef7f1ad5064794f21ec713cbfdecc9972fae36f975f6aa2dd27387192bcc64eb26b789982216f7dfd67af4a21850d487312d456fcce36fdb5ed338
@@ -557,6 +535,24 @@ https://rangdhonu-proxy.tasinazad2009.workers.dev/?url=https%3A%2F%2Fs1.itcnbd.l
 
 #EXTINF:-1 group-title="Sports"   tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/bein%20sports.png"  ,Bein Sports
 https://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bein_sports_1&format=.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg",COLORS BANGLA
+https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/colorsbangla2_link_copy_kore_lav_nai_1h_por_automatic_change_hoye_jabe/playlist.m3u8?expires=1787050456&sig=WO_kYWezE6XX7R6vX0K9Hp_Cb1VLNED0tfEQ80W-bXM
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjT_ERdl4IK7FIB-pshOg6xTdAUi3XTEXjTl7zJoyhTo2-Ky7JWuwSCHeyLi5aos0xHr0s31SX4fNpRyl8iZ7kI2acSjewL7_t-_qtQzTxOlzk8BYO_OR_0BtIIC8w_YhndbWuYCw6iGBaLgOtIhK-21BlA_lh5K2zcRuwwk3MFBhUgupZkGTUjre5Yzhh3",Sony Entertainment Television
+https://aboxbdix.ryvox-tb-8ae.workers.dev/live/SONY-TELEVISION.m3u8?token=937d6053894761a78de9592119e0526e&time=1786267178&link_index=0
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp",Unite 8 Sports 1
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FSTAR_SPORTS_SELECT1%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp",Unite 8 Sports 2
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FSTAR_SPORTS_SELECT2%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
+
+
 
 
 
