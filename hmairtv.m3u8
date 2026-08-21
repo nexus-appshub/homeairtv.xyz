@@ -2,7 +2,8 @@
 # ==================== NEWS ====================
 #EXTINF:-1 group-title="News" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgcfzlU_Fv5aKuwivWyDh4q7gSq4rVkBoI6xZcyi9AaHL6JcTGCkY19kCOYakRgc1Qe_4rTymEk7BkoHr6IQ8ZIiTFWAsrR8qrnq26JBQBfkCaii8Hs_pqg6HYNDj4XImrPq8tn3wekbX9TKKf48g0_Ju7WiuGFRRdqagHuav-G_m1tm9wnWSoU19Z7FqCE",BTV LIVE
 https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:-1 group-title="News"    tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg" ,SRKTV
@@ -102,6 +103,8 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="btv_shangshad" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png" group-title="News",BTV Shangshad
 https://akash-backup.sm-monirul-islam-rs.workers.dev/btv_shangshad.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgcfzlU_Fv5aKuwivWyDh4q7gSq4rVkBoI6xZcyi9AaHL6JcTGCkY19kCOYakRgc1Qe_4rTymEk7BkoHr6IQ8ZIiTFWAsrR8qrnq26JBQBfkCaii8Hs_pqg6HYNDj4XImrPq8tn3wekbX9TKKf48g0_Ju7WiuGFRRdqagHuav-G_m1tm9wnWSoU19Z7FqCE",BTV LIVE
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 
 
