@@ -1,567 +1,339 @@
+ 
+
+#EXTINF:-1 tvg-id="" tvg-name="HUM TV" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="HOME AIR TV",HUM TV
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fdigitalotthub.com%2Ftv%2Ftoffee-by-maruf%2Flive.php%3Fid%3Dhum_tv%26e%3D.m3u8
 
 # ==================== NEWS ====================
+
 #EXTINF:-1 group-title="News" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgcfzlU_Fv5aKuwivWyDh4q7gSq4rVkBoI6xZcyi9AaHL6JcTGCkY19kCOYakRgc1Qe_4rTymEk7BkoHr6IQ8ZIiTFWAsrR8qrnq26JBQBfkCaii8Hs_pqg6HYNDj4XImrPq8tn3wekbX9TKKf48g0_Ju7WiuGFRRdqagHuav-G_m1tm9wnWSoU19Z7FqCE",BTV LIVE
-https://stream-proxy.xubilas-era.workers.dev/btvlive
-
-
-
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fakash-backup.sm-monirul-islam-rs.workers.dev%2Fbtv.m3u8
 
 #EXTINF:-1 group-title="News"    tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg" ,SRKTV
-https://stream-proxy.xubilas-era.workers.dev/srktv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fsrknowapp.ncare.live%2Fsrktvhlswodrm%2Fsrktv.stream%2Fplaylist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",NTV
-https://stream-proxy.xubilas-era.workers.dev/ntv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen5.aynaott.com%2FxV4jEKf3D9zc%2Ftracks-v1a1%2Fmono.ts.m3u8
 
 #EXTINF:-1 tvg-id="jamuna_tv" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="News",Jamuna TV
-https://stream-proxy.xubilas-era.workers.dev/jamunatv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen6.aynaott.com%2FKGdZEdA7qQ43dmPkgk1j%2Findex.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://otapp.store/uploads/tv_image/sm/mohona-tv.png",Mohona Tv
-https://stream-proxy.xubilas-era.workers.dev/mohonatv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fstream.ottplus.live%2Flive%2Fmohona_tv_abr%2Findex.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv.jpg",Ekhon TV
-https://stream-proxy.xubilas-era.workers.dev/ekhontv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fbox.bbaria.net%3A8083%2FNagorik_TV%2Fvideo.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/31930d760aa9ef491ca2c999e29fd42617659db5/Logos/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",Channel 1
-https://stream-proxy.xubilas-era.workers.dev/channel1
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fstream.ottplus.live%2Flive%2Fchannel_1_hd_abr%2Flive%2Fchannel_1_hd_720%2Fchunks.m3u8%3F
 
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",Channel 24 HD
-https://stream-proxy.xubilas-era.workers.dev/channel24hd
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen6.aynaott.com%2Fcdgr3tw6WoG7JyRnLbi0%2Findex.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor Tv
-https://stream-proxy.xubilas-era.workers.dev/ekattortv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen6.aynaott.com%2FEWDrV5QskgarZEUBb3pU%2Ftracks-v1a1%2Fmono.ts.m3u8%3F
 
 #EXTINF:-1 tvg-id="independent_tv" tvg-name="Independent TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV
-https://stream-proxy.xubilas-era.workers.dev/independenttv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fakash-backup.sm-monirul-islam-rs.workers.dev%2Findependent_tv.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/4qZQKjo.png",ATN News
-https://stream-proxy.xubilas-era.workers.dev/atnnews
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen6.aynaott.com%2Fda6WMXAk%2Ftracks-v1a1%2Fmono.ts.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/500px-Banglavision.svg.png",Bangla Vision
-https://stream-proxy.xubilas-era.workers.dev/banglavision
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen5.aynaott.com%2Fbanglavision%2Ftracks-v1a1%2Fmono.ts.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC News
-https://stream-proxy.xubilas-era.workers.dev/dbcnews
-
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen6.aynaott.com%2FpF66Tkz0qFwP2aMMqHyt%2Ftracks-v1a1%2Fmono.ts.m3u8%3F
 
 #EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png",News24
-https://stream-proxy.xubilas-era.workers.dev/news24
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen6.aynaott.com%2Fcdgr3tw6WoG7JyRnLbi0%2Ftracks-v1a1%2Fmono.ts.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg",Deepto TV
-https://stream-proxy.xubilas-era.workers.dev/deeptotv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fbyphdgllyk.gpcdn.net%2Fhls%2FDeeptoTV%2F0_1%2Findex.m3u8%3FsessId%3D1551305
 
 #EXTINF:-1 group-title="News" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png",Maasranga TV
-https://stream-proxy.xubilas-era.workers.dev/maasrangatv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmtv.sunplex.live%2FMAASRANGA%2Ftracks-v1a1%2Fmono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png",Channel I
-https://stream-proxy.xubilas-era.workers.dev/channeli
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen3.b-cdn.net%2FqUud8Nxs%2Ftracks-v1a1%2Fmono.ts.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",Somoy TV
-https://stream-proxy.xubilas-era.workers.dev/somoytv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen6.aynaott.com%2F4XcqdovJzbbC9WdJA9gk%2Findex.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj5xfBpa0O1v8VQbYz5abCb6PmjXOj5gfyNDdd0cLnIUuaXKja4JfHvIX2IkBYf-BCoeug7fK9gXFxjlQPmkcrRSG-UsFkz6kLqsb8_6jQqaITDvBohbLZDco_pdUxkNW9PZ4sSuB172FMLsSKNX-vj4oDqxYlUnRkGuLyvk3YiRYkHCVoU4soMxf6MDi_x",ATN Bangla TV
-https://stream-proxy.xubilas-era.workers.dev/atnbanglatv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen5.aynaott.com%2FP3y2URgG7LDe%2Ftracks-v1a1%2Fmono.ts.m3u8
 
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/2f25f2c0498dc8b268af3b0d39198a36ce6f81c2/Logos/01KVWJD176R6VT9GC3B9KEJBWK.png" ,Global Tv HD
-https://stream-proxy.xubilas-era.workers.dev/globaltvhd
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fstream.ottplus.live%2Flive%2Fglobal_tv_abr%2Findex.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="SM All TV",Deshi TV
-https://stream-proxy.xubilas-era.workers.dev/deshitv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fdeshitv.deshitv24.net%2Flive%2FmyStream%2Fplaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU" group-title="SM All TV",Sanonda Tv
-https://stream-proxy.xubilas-era.workers.dev/sanondatv
+https://stream-proxy.xubilas-era.workers.dev/?url=http%3A%2F%2Flive-stream.amarbanglatv.in%3A8080%2Fhls%2Fsanandatv%2Findex.m3u8
 
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/bangla%20tv.jpg" ,Bangla TV
-https://stream-proxy.xubilas-era.workers.dev/banglatv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Faboxbdix.ryvox-tb-8ae.workers.dev%2Flive%2FBangla_TV.m3u8%3Ftoken%3D5d54efe3f4f9e090601efae5d88f8fa7%26time%3D1786269037%26link_index%3D0
 
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/zee%2024.png" ,Zee 24 
-https://stream-proxy.xubilas-era.workers.dev/zee24
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Faboxbdix.ryvox-tb-8ae.workers.dev%2Flive%2Fzee-24-ghanta.m3u8%3Ftoken%3D3dfd185d93fb89fedfaee7b54cbae0dd%26time%3D1786269079%26link_index%3D0
 
 #EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/bijoy%20tv.jpg" ,Bijoy TV
-https://stream-proxy.xubilas-era.workers.dev/bijoytv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Faboxbdix.ryvox-tb-8ae.workers.dev%2Flive%2Fbijoy-tv.m3u8%3Ftoken%3D063ef61e15155cd36b597af5542dac9b%26time%3D1786269303%26link_index%3D0
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png" group-title="SM All TV",Bangla Plus
-https://stream-proxy.xubilas-era.workers.dev/banglaplus
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Flive-stream.utkalbongo.com%2Fhls%2Flivebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="SM All TV",Rajdhani TV
-https://stream-proxy.xubilas-era.workers.dev/rajdhanitv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fstream.shariarsuvo.com%2Fhls5%2Frajdhanicable.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/peace%20tv.png", Peace TV
-https://stream-proxy.xubilas-era.workers.dev/peacetv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fdzkyvlfyge.erbvr.com%2FPeaceTvBangla%2Ftracks-v3a1%2Fmono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/golsmines.jpg" ,Gold MInes Movies
-https://stream-proxy.xubilas-era.workers.dev/goldminesmovies
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Faboxbdix.ryvox-tb-8ae.workers.dev%2Flive%2Fgoldmines.m3u8%3Ftoken%3Dfed2353684d3d956584f4e8817e142c2%26time%3D1786269767%26link_index%3D0
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/b4u%20movies.jpg" ,B4U Movies
-https://stream-proxy.xubilas-era.workers.dev/b4umovies
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Faboxbdix.ryvox-tb-8ae.workers.dev%2Flive%2Fb4u-movies.m3u8%3Ftoken%3D51572c31d09a43b886f5fd378fe513dd%26time%3D1786269847%26link_index%3D0
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png" group-title="SM All TV",Enterr 10 Bangla
-https://stream-proxy.xubilas-era.workers.dev/enterr10bangla
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Flive-bangla.akamaized.net%2Fliveabr%2Fpub-iobanglakp3sff%2Flive_720p%2Fchunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" group-title="SM All TV", ZB Cartun TV
-https://stream-proxy.xubilas-era.workers.dev/zbcartuntv
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fserver.zillarbarta.com%2Fzbcatun%2Fvideo.m3u8
 
 #EXTINF:-1 tvg-id="btv_shangshad" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png" group-title="News",BTV Shangshad
-https://stream-proxy.xubilas-era.workers.dev/btvshangshad
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fakash-backup.sm-monirul-islam-rs.workers.dev%2Fbtv_shangshad.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgcfzlU_Fv5aKuwivWyDh4q7gSq4rVkBoI6xZcyi9AaHL6JcTGCkY19kCOYakRgc1Qe_4rTymEk7BkoHr6IQ8ZIiTFWAsrR8qrnq26JBQBfkCaii8Hs_pqg6HYNDj4XImrPq8tn3wekbX9TKKf48g0_Ju7WiuGFRRdqagHuav-G_m1tm9wnWSoU19Z7FqCE",BTV LIVE
-https://stream-proxy.xubilas-era.workers.dev/btvlive_1
+https://stream-proxy.xubilas-era.workers.dev/?url=http%3A%2F%2F103.165.93.31%3A8095%2Fbtv%2Ftracks-v1a1%2Fmono.m3u8
 
+# ==================== TOFFE ====================
 
+#EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png", Toffee TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvdG9mZmVlX2RyYW1hL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiVG9mZmVlIFRWIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png", Toffee Movies
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvdG9mZmVlX21vdmllL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiVG9mZmVlIE1vdmllcyIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWxMNWh3Y3J1ZjkyYnV3SjRDRjZTOTVCOGlEaHpIVm54YlF4U0g2RkxNNHNyTENKU0xNejkxRVBQVUlkeHpWSF9zMUpTZE9sMElQRXhHaFlTenZoMERBIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
 
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/4672bab6-2a8f-4700-b0e7-b5b71674abf9.png", EPL channel 1
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL3Byb2QtY2RuMDEtbGl2ZS50b2ZmZWVsaXZlLmNvbS9saXZlL0VQTC0yNi0yNy1DSC0xL2luZGV4Lm0zdTg_ZWRnZS1jYWNoZS10b2tlbj1FeHBpcmVzPTE3ODgwOTE1Mzd-U3RhcnRzPTE3ODgwOTEyMzd-VVJMUHJlZml4PWFIUjBjSE02THk5d2NtOWtMV05rYmpBeExXeHBkbVV1ZEc5bVptVmxiR2wyWlM1amIyMH5EYXRhPWV5SnpkV0p6WTNKcFltVnlYMmxrSWpvaU5UZzBObVZtTVRBdE16Z3pZUzAwWWpsaExUaGhaVEF0TkdaaU1URXpOV0l4TlRWa0luMH5TaWduYXR1cmU9WnBUUmZOS0JwTGgyc2xuSnVSYTdzNU1ubnRick9oeExzYkhsRzNuczg4SVh3dWRCdkhtV1BjOEZObTBqNWNnaUtGWVFwNUNuaXl0a2xpTnlpRkJCQWciLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiRVBMIGNoYW5uZWwgMSIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
 
-# ==================== Religious ====================
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png", WC Match Recap
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvZmlmYV93b3JsZF9jdXAvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJXQyBNYXRjaCBSZWNhcCIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM4OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWlUTkQ3bzNFUUs4MER6dF9HaHJKMHZVV1BJWEhKSkNqX25teHhqbEdxSVVhNTVaU080OFdtMnRGSXNnMlQ2Z1dRMlUwblBxbmlQYjQxTDhWQ2RoeEFRIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp", CNN
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvY25uL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiQ05OIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgwOTE1Mzg6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9VERLeFVST1lOWnM0RFBFQXZZUzRnajF0RkowZWNLSENiWEpqV3dYT2E1N1V1eWRIbGV3MVA5ZnR2VWdpZG9LUExFUjQzRkt1UnJuZmNhb0hONEVEQ2ciLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png"group-title="SM All TV", Quran TV
-https://stream-proxy.xubilas-era.workers.dev/qurantv
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png", Somoy TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc29tb3lfdHYvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJTb21veSBUViIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM4OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWlUTkQ3bzNFUUs4MER6dF9HaHJKMHZVV1BJWEhKSkNqX25teHhqbEdxSVVhNTVaU080OFdtMnRGSXNnMlQ2Z1dRMlUwblBxbmlQYjQxTDhWQ2RoeEFRIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png"group-title="SM All TV", Quran TV
-https://stream-proxy.xubilas-era.workers.dev/qurantv_1
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png", Jamuna TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvamFtdW5hX3R2L3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiSmFtdW5hIFRWIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzg6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9aVRORDdvM0VRSzgwRHp0X0dockowdlVXUElYSEpKQ2pfbm14eGpsR3FJVWE1NVpTTzQ4V20ydEZJc2cyVDZnV1EyVTBuUHFuaVBiNDFMOFZDZGh4QVEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png"group-title="SM All TV", Iqraa TV
-https://stream-proxy.xubilas-era.workers.dev/iqraatv
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png", Ananda TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvYW5hbmRhdHYvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJBbmFuZGEgVFYiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzODpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1pVE5EN28zRVFLODBEenRfR2hySjB2VVdQSVhISkpDal9ubXh4amxHcUlVYTU1WlNPNDhXbTJ0RklzZzJUNmdXUTJVMG5QcW5pUGI0MUw4VkNkaHhBUSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
 
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="SM All TV",QURAN
-https://stream-proxy.xubilas-era.workers.dev/quran
+#EXTINF:-1 group-title="Action" tvg-logo="https://assets-prod.services.toffeelive.com/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png", Bijoy TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvYmlqb3l0di9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IkJpam95IFRWIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzg6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9aVRORDdvM0VRSzgwRHp0X0dockowdlVXUElYSEpKQ2pfbm14eGpsR3FJVWE1NVpTTzQ4V20ydEZJc2cyVDZnV1EyVTBuUHFuaVBiNDFMOFZDZGh4QVEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
 
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="SM All TV",Azan Tv
-https://stream-proxy.xubilas-era.workers.dev/azantv
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png", NTV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvbl90di9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6Ik5UViIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM5OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPU1wUDM5ejJXLVZoaFpMdlVDR1Q3ZkIybnJGbUw3ZzBKOTRUSFpMbV81dHdOTDlkWElKUUFYbTN3dW5KbmQ0M2Y5cUJmdlQ4YzZlaE9ZSWxXeVBMRUF3IiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
 
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="SM All TV",Quran Live
-https://stream-proxy.xubilas-era.workers.dev/quranlive
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png", Global TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvZ2xvYmFsdHYvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJHbG9iYWwgVFYiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzOTpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1NcFAzOXoyVy1WaGhaTHZVQ0dUN2ZCMm5yRm1MN2cwSjk0VEhaTG1fNXR3Tkw5ZFhJSlFBWG0zd3VuSm5kNDNmOXFCZnZUOGM2ZWhPWUlsV3lQTEVBdyIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
 
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png", Channel S
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvY2hhbm5lbF9zX3R2L3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiQ2hhbm5lbCBTIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzk6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9TXBQMzl6MlctVmhoWkx2VUNHVDdmQjJuckZtTDdnMEo5NFRIWkxtXzV0d05MOWRYSUpRQVhtM3d1bkpuZDQzZjlxQmZ2VDhjNmVoT1lJbFd5UExFQXciLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
 
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png", Rajdhani TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvcmFqZGhhbmlfdHYvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJSYWpkaGFuaSBUViIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM5OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPU1wUDM5ejJXLVZoaFpMdlVDR1Q3ZkIybnJGbUw3ZzBKOTRUSFpMbV81dHdOTDlkWElKUUFYbTN3dW5KbmQ0M2Y5cUJmdlQ4YzZlaE9ZSWxXeVBMRUF3IiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
 
-# ==================== SPORTS ====================
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png", Bangla TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvYmFuZ2xhX3R2L3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiQmFuZ2xhIFRWIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzk6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9TXBQMzl6MlctVmhoWkx2VUNHVDdmQjJuckZtTDdnMEo5NFRIWkxtXzV0d05MOWRYSUpRQVhtM3d1bkpuZDQzZjlxQmZ2VDhjNmVoT1lJbFd5UExFQXciLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
 
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png", Asian TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvYXNpYW5fdHYvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJBc2lhbiBUViIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDQwOktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPVFQZjRJU2o5N19nQU1KRi03TDRIRVhlOURtQ0o0b08ySm0yT1c0ZGRJSzRxZU5NMTFRMko5TEdEa1BEMDhRM0xqYXhLTUZlQXNicXpoRDQtdEVtZ0R3IiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhDnUax2a49Dil4_ySjWYa_4JWX8a3aNNHZnghZu3OOrka803jWb7xbJFbWXRo5LJa8yt_5KX1gjhryXeo39kWzjIOs0ezv5ClGliwC7p0B0XVnfLbSPjOWgcohHoHEw-ff0_BFbe99rzs4Wc1gGSND6RjAzfb5p9fJIonZGD4JDrmFI1vAaUcbygXX8s5v",T Sports
-https://stream-proxy.xubilas-era.workers.dev/tsports
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png", Channel i
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvY2hhbm5lbF9pL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiQ2hhbm5lbCBpIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwNDA6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9UVBmNElTajk3X2dBTUpGLTdMNEhFWGU5RG1DSjRvTzJKbTJPVzRkZElLNHFlTk0xMVEySjlMR0RrUEQwOFEzTGpheEtNRmVBc2JxemhENC10RW1nRHciLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhDnUax2a49Dil4_ySjWYa_4JWX8a3aNNHZnghZu3OOrka803jWb7xbJFbWXRo5LJa8yt_5KX1gjhryXeo39kWzjIOs0ezv5ClGliwC7p0B0XVnfLbSPjOWgcohHoHEw-ff0_BFbe99rzs4Wc1gGSND6RjAzfb5p9fJIonZGD4JDrmFI1vAaUcbygXX8s5v",T Sports (Proxy)
-https://stream-proxy.xubilas-era.workers.dev/tsportsproxy
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png", Movie Bangla
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvbW92aWVfYmFuZ2xhL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiTW92aWUgQmFuZ2xhIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwNDA6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9UVBmNElTajk3X2dBTUpGLTdMNEhFWGU5RG1DSjRvTzJKbTJPVzRkZElLNHFlTk0xMVEySjlMR0RrUEQwOFEzTGpheEtNRmVBc2JxemhENC10RW1nRHciLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
 
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png", Nexus TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvbmV4dXNfdHYvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJOZXh1cyBUViIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDQwOktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPVFQZjRJU2o5N19nQU1KRi03TDRIRVhlOURtQ0o0b08ySm0yT1c0ZGRJSzRxZU5NMTFRMko5TEdEa1BEMDhRM0xqYXhLTUZlQXNicXpoRDQtdEVtZ0R3IiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png",P Tv Sports
-https://stream-proxy.xubilas-era.workers.dev/ptvsports
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png", Islamic TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvaXNsYW1pY190di9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IklzbGFtaWMgVFYiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-1.link",Sony Sports TEN 1
-https://stream-proxy.xubilas-era.workers.dev/sonysportsten1
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/JNQA_58BalKyvLQIhiVD/posters/11e764bf-7969-4dcb-a94c-937a3bde2a7f.png", Saudi Sunnah
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc2F1ZGlfc3VubmFoL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiU2F1ZGkgU3VubmFoIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgwOTE1NDA6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9NWtmUnpxYW1GS3R4WlY0TmY4cXN2YTNFNWJjTDNoNkxLTFNqU3E4SVJtZEtqN2ZBWXg0V21JOVhlRDdhdnplNDlxbS1TRHFnVV9feF84V0RCdkh5QXciLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-5.png",Sony Sports TEN 5
-https://stream-proxy.xubilas-era.workers.dev/sonysportsten5
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/FdT9_p8BalKyvLQIpCUP/posters/6b39f2c6-6fe8-4720-a986-379e09968b5b.png", Saudi Quran
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc2F1ZGlfcXVyYW4vcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJTYXVkaSBRdXJhbiIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWxMNWh3Y3J1ZjkyYnV3SjRDRjZTOTVCOGlEaHpIVm54YlF4U0g2RkxNNHNyTENKU0xNejkxRVBQVUlkeHpWSF9zMUpTZE9sMElQRXhHaFlTenZoMERBIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",Ten Cricket
-https://stream-proxy.xubilas-era.workers.dev/tencricket
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png", Desh TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvZGVzaF90di9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IkRlc2ggVFYiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",Caze TV
-https://stream-proxy.xubilas-era.workers.dev/cazetv
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png", Independent TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvaW5kZXBlbmRlbnRfdHYvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJJbmRlcGVuZGVudCBUViIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWxMNWh3Y3J1ZjkyYnV3SjRDRjZTOTVCOGlEaHpIVm54YlF4U0g2RkxNNHNyTENKU0xNejkxRVBQVUlkeHpWSF9zMUpTZE9sMElQRXhHaFlTenZoMERBIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgrdJvoOBmQsYvgrj4rKvt-MWxVC1Tr_d8Vg6NVDiH4X3ygIHLO_tGmYiUQpq16NJZF55Jl5p-5Cj_vvUA7cABueVFoizKzicTXkPotmLKe2UTijsXxOeFD9bR3ChvuVV6zDTn9MrJGszXPNmw5iUc8WeVgvqwH3-GfQQwc26sBuEVhyyllsqMF6jnOeWkX",A Sports
-https://stream-proxy.xubilas-era.workers.dev/asports
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png", Ekhon TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvZWtob25fdHYvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJFa2hvbiBUViIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWxMNWh3Y3J1ZjkyYnV3SjRDRjZTOTVCOGlEaHpIVm54YlF4U0g2RkxNNHNyTENKU0xNejkxRVBQVUlkeHpWSF9zMUpTZE9sMElQRXhHaFlTenZoMERBIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhdYpZiMNbi7sOcXz81FCpNrzLWSqCM4T5fG8BNtig5Cg_8zf1cmMxc3j2hRJBjg_E4K3Vy8ycvQf2tVcoDdKJD3hWaCSO6ueqXh4WsIsQqFSCDGG9phw2gRjXmPH_Bg2txiO8dhtBBuQmFrYyb5wm7eQHLx2gA-1COaTvjADJGsXuLcYBXXfBjPd_exwT2",Willow TV
-https://stream-proxy.xubilas-era.workers.dev/willowtv
-
-
-
-
-
-
-# ==================== ENTERTAINMENT ====================
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiufQfbxOv4bd2T_Htk1UyOYy2l1weBEXSoxP2yYrOLf6rucxc9CPVStyxzhiudUKN6D8ElDYRqV_67IqkV9UxbC4AZELVk4F9Tzh1lR31fQUXVLTmOpvJPFccBB-3l2-zzy3GdmliDRHY5eMfjUz7Y_c5XNQDx1vx4Ua1BkDF3ZS1rA8hGf_bmTzFeBdl1",Zee Bangla
-https://stream-proxy.xubilas-era.workers.dev/zeebangla
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha
-https://stream-proxy.xubilas-era.workers.dev/starjalsha
-
-#EXTINF:-1 tvg-id="ColorsHD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Entertainment",Colors HD
-https://stream-proxy.xubilas-era.workers.dev/colorshd
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5m9yGNnqjxKSwhExMYy6yfu5I5_h9nZ_5qLPVYz8sm_eoFIHhtpV_S_L-SDEBS_AZ-2TAFdI9nmHk4058Nl9Na3Htt2oBOOYxgzwfgUsZtKLHUWAmOeck0_GGr2hfXAyI_ebwPioyUY7k9fl2pSnTJbRbjmjz3USqa1rGjgvIl6LHRcsO7Qc8aDOOs3CN",Star Plus
-https://stream-proxy.xubilas-era.workers.dev/starplus
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhtArO0V7Tzv282MraRI2fiO6j638P3yy6t0tEOoI-38B2s1S1MsmVQkW1o2TmiZnjjCgPSvkfmZIVxc17GtNa4eY9DQjC0SqG8uvLee970KIJmha29u41YfMm1nuBLx3VOGkVOnjdwCyfq90h_ohehTaCkPwDKzIbACkptvirjH7fdSKKOmCsa2aV2gcac",SONY AATH
-https://stream-proxy.xubilas-era.workers.dev/sonyaath
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg4uxNGLfa6QuCARomG_g6mmtEfuOddrDDtjpw9qWnD2Gv96sD2NLX85BHj3vC3Wz6fC3aWPWFtm4YIybzBAvpH6kW0gAjakRPBLVu-VKKKAD5HgN9JY1-V-CJ7ehBIA4VFrRAb9KlQDAVYfy8CLlFpza5YayD1BmzOOs_ZisiHa2MU5m7ELzvyu5Y5Yofj",Enter 10 Bangla
-https://stream-proxy.xubilas-era.workers.dev/enter10bangla
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png",Z Bangla Sonar
-https://stream-proxy.xubilas-era.workers.dev/zbanglasonar
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://otapp.store/uploads/tv_image/sm/aakash-aath.png",AAKASH AATH
-https://stream-proxy.xubilas-era.workers.dev/aakashaath
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png",Sun Bangla
-https://stream-proxy.xubilas-era.workers.dev/sunbangla
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg", Z TV
-https://stream-proxy.xubilas-era.workers.dev/ztv
-
-
-#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",ABP Ananda
-https://stream-proxy.xubilas-era.workers.dev/abpananda
-
-#EXTINF:-1 tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",Zee 24 Ghanta
-https://stream-proxy.xubilas-era.workers.dev/zee24ghanta
-
-#EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",TV9 Bangla
-https://stream-proxy.xubilas-era.workers.dev/tv9bangla
-
- 
-#EXTINF:-1 tvg-name="AAKASH AATH"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",Aakaash Aath
-https://stream-proxy.xubilas-era.workers.dev/aakashaath_1
-
-#EXTINF:-1 tvg-name="Kolkata TV"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",Kolkata TV
-https://stream-proxy.xubilas-era.workers.dev/kolkatatv
-
-#EXTINF:-1 tvg-name="R Plus Gold"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",R Plus Gold
-https://stream-proxy.xubilas-era.workers.dev/rplusgold
-
-#EXTINF:-1 tvg-name="Enter10 Bangla"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png"group-title="Indian Bangla",Enter10 Bangla
-https://stream-proxy.xubilas-era.workers.dev/enter10bangla_1
-
-#EXTINF:-1 tvg-name="Sangeet Bangla"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla",Sangeet Bangla
-https://stream-proxy.xubilas-era.workers.dev/sangeetbangla
-
-
-# ==================== MOVIES ====================
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png",Zee Cinema (ALT)
-https://stream-proxy.xubilas-era.workers.dev/zeecinemaalt
-
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png"  ,Sony Max
-https://stream-proxy.xubilas-era.workers.dev/sonymax
-
-#EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Max SD
-https://stream-proxy.xubilas-era.workers.dev/sonymaxsd
-
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png",Jalsha Movie
-https://stream-proxy.xubilas-era.workers.dev/jalshamovie
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Goldmines_logo.png",Goldmines SD
-https://stream-proxy.xubilas-era.workers.dev/goldminessd
-
-#EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Pix
-https://stream-proxy.xubilas-era.workers.dev/sonypix
-
-#EXTINF:-1 group-title="Movies"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony Max2
-https://stream-proxy.xubilas-era.workers.dev/sonymax2
-
-#EXTINF:-1 tvg-id="andtv.in" tvg-name="&TV HD" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Hindi Entertainment", &TV HD
-https://stream-proxy.xubilas-era.workers.dev/andtvin
-
-#EXTINF:-1 tvg-id="andpictures.in" tvg-name="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Hindi Movies", &Pictures HD
-https://stream-proxy.xubilas-era.workers.dev/andpicturesin
-
-
-#EXTINF:-1 tvg-name="Sony YAY" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" group-title="Toffee",Sony YAY
-https://stream-proxy.xubilas-era.workers.dev/sonyyay
-
- 
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi6YndxSycNYAwD8qZNlYNv7ZcPpONkAiJZXb-lGhrwizNssxUfuf6gBS5WNNiuhOVqooJYFROR83LvjEFxJKK4sSx_rPjYw7KsywvpLxgb6R7oQ2QAS-mcKegKUDhMkqFnrUeca-SYY1dR5f2_iYAwGvQ2w1xXjlTRbw1TI14nBjDUBroQj6uePXzUdVr9",Sony Sub
-https://stream-proxy.xubilas-era.workers.dev/sonysub
-
-
-
-
-
-#EXTINF:-1 tvg-name="AAKASH AATH"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", Movie Live
-https://stream-proxy.xubilas-era.workers.dev/aakashaath_2
-
-
-#EXTINF:-1 tvg-name="AAKASH AATH"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", Movie Live
-https://stream-proxy.xubilas-era.workers.dev/aakashaath_3
-
-
-
-
-#EXTINF:-1 tvg-name="AAKASH AATH"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", Movie Live
-https://stream-proxy.xubilas-era.workers.dev/aakashaath_4
-
-
-#EXTINF:-1 tvg-name="AAKASH AATH"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Indian Bangla", Movie Live
-https://stream-proxy.xubilas-era.workers.dev/aakashaath_5
-
-# ==================== KIDS ====================
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,The Jungle Book
-https://stream-proxy.xubilas-era.workers.dev/thejunglebook
-
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Kid Toons
-https://stream-proxy.xubilas-era.workers.dev/kidtoons
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Toons Legit
-https://stream-proxy.xubilas-era.workers.dev/toonslegit
-
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Toons 22
-https://stream-proxy.xubilas-era.workers.dev/toons22
-
-
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Toons 23
-https://stream-proxy.xubilas-era.workers.dev/toons23
-
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Smurf TV
-https://stream-proxy.xubilas-era.workers.dev/smurftv
-
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Barbie
-https://stream-proxy.xubilas-era.workers.dev/barbie
-
-
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" , Cartoons Era
-https://stream-proxy.xubilas-era.workers.dev/cartoonsera
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony AATH
-https://stream-proxy.xubilas-era.workers.dev/sonyaath_1
-
-
-
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Tinny Pop
-https://stream-proxy.xubilas-era.workers.dev/tinnypop
-
-
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,The Yeti
-https://stream-proxy.xubilas-era.workers.dev/theyeti
-
- 
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="Toffee",Cartoon Network
-#KODIPROP:inputstream.adaptive.stream_headers=Host=bldcmprod-cdn.toffeelive.com&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires%3D1787292015:KeyName%3Dprod_linear:Signature%3DXSnc-6vjQOR_xRyCq9V91TuhAtFXVdiPahTn3vlvQGXQ9xxhhTFWnCrkBStslNQPELwGwCU-Cyo-dGztxb3JAA&user-agent=okhttp/5.1.0&client-api-header=null&accept-encoding=gzip
-https://stream-proxy.xubilas-era.workers.dev/cartoonnetwork
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="Cartoon",Duronto TV
-https://stream-proxy.xubilas-era.workers.dev/durontotv
-
-#EXTINF:-51 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png"group-title="Cartoon",Sony YaY!
-https://stream-proxy.xubilas-era.workers.dev/sonyyay_1
-
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",Discovery Kids
-https://stream-proxy.xubilas-era.workers.dev/discoverykids
-
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo
-https://stream-proxy.xubilas-era.workers.dev/pogo
-
-#EXTINF:-1  tvg-logo="" group-title="Cartoon",MINIMAX
-https://stream-proxy.xubilas-era.workers.dev/minimax
-
-#EXTINF:-1  tvg-logo="" group-title="Cartoon",MINI
-https://stream-proxy.xubilas-era.workers.dev/mini
-
-#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Cartoon",Disney Channel
-https://stream-proxy.xubilas-era.workers.dev/disneychannel
-
-#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Cartoon",Disney Channel
-https://stream-proxy.xubilas-era.workers.dev/disneychannel_1
-
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Cartoon",Cartoon Network
-https://stream-proxy.xubilas-era.workers.dev/cartoonnetwork_1
-
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Cartoon",Sony Yay Bangla
-https://stream-proxy.xubilas-era.workers.dev/sonyyaybangla
-
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Cartoon",Sonic Bangla
-https://stream-proxy.xubilas-era.workers.dev/sonicbangla
-
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Cartoon",Nick Bangla
-https://stream-proxy.xubilas-era.workers.dev/nickbangla
-
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png" group-title="Cartoon",Discovery Kids
-#http://45.171.64.30:8800/play/a06j
-
-#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Cartoon",Sony Yay
-https://stream-proxy.xubilas-era.workers.dev/discoverykids_1
-
-#EXTINF:-1 group-title="Cartoon",Zoo Moo
-https://stream-proxy.xubilas-era.workers.dev/zoomoo
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nXKXaGE0SkjvhnbFKc0dUWh1uwo.jpg" group-title="Cartoon",Motu Patlu
-https://stream-proxy.xubilas-era.workers.dev/motupatlu
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="Cartoon",Doraemon
-https://stream-proxy.xubilas-era.workers.dev/doraemon
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aFAN9aKm0OblOr30ROejJCV8rGf.jpg" group-title="Cartoon",Oggy
-https://stream-proxy.xubilas-era.workers.dev/oggy
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2YLtdalssU7ypT68jzzKyCZRfPr.jpg" group-title="Cartoon",Gopal Bhar
-https://stream-proxy.xubilas-era.workers.dev/gopalbhar
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zzCZIvKcfPNQ4RbaMIakmC7ISKQ.jpg" group-title="Cartoon",Bantul The Great
-https://stream-proxy.xubilas-era.workers.dev/bantulthegreat
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pApniCXhegDnhxQda7RcpG8gFP0.jpg" group-title="Cartoon",Tom & jary
-https://stream-proxy.xubilas-era.workers.dev/tomjary
-
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEidSqszp8yI2CudD8sZttSOsp108tl-toue5O9TOdLQ0xdSf7sO8CysKIFWQboXqV9F2Hd0HX3GXwmNzGDsMufbEQJ7hJsvJAZo3MjZoD7PbXl5O3tMppxMsJK0O8a3uo6gYR4umXUFH3qUlMQlinx3xOPUwEhW-go5UV1wsNt3YNzPhBP6KHpz8-ltaUFA",ZB Cartoon TV
-https://stream-proxy.xubilas-era.workers.dev/zbcartoontv
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEia89JIwcg5M47GssIZxvdOVOvRbeQe1GIi86BJODMeGZQyEEdx7pheOi0BS3w1vyva1PgiRI_YEk4Bzi4VsppYL5Ao_djaRGeWPht4JM6xyF1rad8VUd50kZ4dM6Wh2z3RCPM8Q07COtjZmoiYELZUR7b8LWXGfnJzIejSCgu1BvOmPbveyeG7bul2ITBD",Nicktoons
-https://stream-proxy.xubilas-era.workers.dev/nicktoons
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi2N677H2t6eBPGvnCzb9IRqwzhKvdfjn4Q6HZ2Fi5OJ4ZXz-rR9XY8feWh-lwfUnOowUouHqpRP-CIsxPBQBRjlntjsoP8U8mNk721y4Ahzm5I93xa5niRFOfhNuTOzBeee4e7JvSSl1jbi-qBqCfg6L-l-K2iL-qYuSVZK_RR_FcNWUMGbFeZfJl_pneg",Sony YAY
-https://stream-proxy.xubilas-era.workers.dev/sonyyay_2
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEheHFXILKNF4xiVY7MKviwdQ3eAOzMhfu_KRM85HlSzKxwBdX8izl6_5v_s9a9uXNaP40gnzK21dHYZku0uMhHnQGO9hP9_I0oosQ5TA61DGvHmbhVPfyFtSUJzf_-o__Dz_-N1Veh2NhNXcE-ai_14oEmm0Ej7vRAqDoDdpND2DC_gcgg15hzsXCXqRUNC",Duronto TV
-https://stream-proxy.xubilas-era.workers.dev/durontotv_1
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
-https://stream-proxy.xubilas-era.workers.dev/cartoonnetwork_2
-
-
-# ==================== MUSIC ====================
-#EXTINF:-1 group-title="Music" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEghztCvPxp11vfwUFCzxWoIcwHk2GQdup5SUCOYW_L3NTEBncY5o-wHrv6nfqIO9xmHHvNiAoyukVQuhlu6btjdSAH75Y_HP13xgZy8RDBuRRr3W3hAex5FbkxJQXugqjgiDr9bgqz0NHY5gTYExKKhsKAEaYXq8AzIL8d6LkSVPrO6igh1eRJ6CpqXFpjb",Sangeet Bangla
-https://stream-proxy.xubilas-era.workers.dev/sangeetbangla_1
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png",9XM Music
-https://stream-proxy.xubilas-era.workers.dev/9xmmusic
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjw6rB9rR0gk5DaiGJ6J57i6jXPRpNhWa4dxIuKa1XNAbP9vcy7UAf6-QamUmNM9F-LvOftb0iQiSVM1F4ZOJ6rBFVPMsgevQ1JdouYgBE5QIWA9700NLjVWO2VJJtRUa9U9usQfSCt8t-m9-kGas8yhagEiBYg_AVViTzqFsCuV4oBYPUkBpkgDUaSKjgp",ZOOM Music
-https://stream-proxy.xubilas-era.workers.dev/zoommusic
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-tashan.png",9X Tashan
-https://stream-proxy.xubilas-era.workers.dev/9xtashan
-
-# ==================== INTERNATIONAL ====================
-#EXTINF:-1 group-title="International" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png",BBC News
-https://stream-proxy.xubilas-era.workers.dev/bbcnews
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Fox News
-https://stream-proxy.xubilas-era.workers.dev/foxnews
-
-#EXTINF:-1 group-title="International"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Discovery
-https://stream-proxy.xubilas-era.workers.dev/discovery
-
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi85sOrPcpJnbhytOUUYVYK9Tdl9jf-HCpqj1L2keWFv36q-r8mh7I55xXleI7woNUfrHNxoGRm_uNBgKiCJRSd3YPDiJwMLDVmrJrHSaY9m6EUSun_aCWzKrTiei-mCRf7wGyGdeVpFSrJIdXOd3REeydpfvHpZ9rC-FHek4i4u6N419r4zYZ67GbWA8e_",Animal Planet
-https://stream-proxy.xubilas-era.workers.dev/animalplanet
-
-
-
-# ==================== INDIAN ====================
-
-#EXTINF:-1 group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg",India Today
-https://stream-proxy.xubilas-era.workers.dev/indiatoday
-
-#EXTINF:-1 group-title="Indian" tvg-logo="https://images.tv9bangla.com/wp-content/themes/tv9bangla/images/tv9-bangla-logo.svg",TV9 Bangla
-https://stream-proxy.xubilas-era.workers.dev/tv9bangla_1
-
-#EXTINF:-1 group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/R.Bangla_logo_with_tagline.jpg",Republic Bangla
-https://stream-proxy.xubilas-era.workers.dev/republicbangla
-
-
-
-
-
-# ==================== HOME ====================
-
-
-
-#EXTINF:-1 tvg-id="al_jazeera" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" group-title="News",Al Jazeera
-https://stream-proxy.xubilas-era.workers.dev/aljazeera
-
-#EXTINF:-1 tvg-id="channel_i_hd" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Entertainment",Channel I HD
-https://stream-proxy.xubilas-era.workers.dev/channelihd
-
-#EXTINF:-1 tvg-id="bangla_vision" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Entertainment",Bangla Vision
-https://stream-proxy.xubilas-era.workers.dev/banglavision_1
-
-#EXTINF:-1 tvg-id="sports_legends" tvg-name="Sports Legends" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png" group-title="Sports",Sports Legends
-https://stream-proxy.xubilas-era.workers.dev/sportslegends
-
-#EXTINF:-1 tvg-id="party_universe" tvg-name="Party Universe" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png" group-title="Music",Party Universe
-https://stream-proxy.xubilas-era.workers.dev/partyuniverse
-
-#EXTINF:-1 tvg-id="thunder_er" tvg-name="Thunder Er" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png" group-title="Sports",Thunder Er
-https://stream-proxy.xubilas-era.workers.dev/thunderer
-
-#EXTINF:-1 tvg-id="fighters" tvg-name="Fighters" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="Sports",Fighters
-https://stream-proxy.xubilas-era.workers.dev/fighters
-
-#EXTINF:-1 tvg-id="flash_guys_hd" tvg-name="Flash Guys HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="Sports",Flash Guys HD
-https://stream-proxy.xubilas-era.workers.dev/flashguyshd
-
-#EXTINF:-1 tvg-id="srk_tv" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Entertainment",SRK TV
-https://stream-proxy.xubilas-era.workers.dev/srktv_1
-
-#EXTINF:-1 tvg-id="nikki" tvg-name="Nikki" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png" group-title="Kids",Nikki
-https://stream-proxy.xubilas-era.workers.dev/nikki
-
-#EXTINF:-1 tvg-id="channel_1" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="News",Channel 1
-https://stream-proxy.xubilas-era.workers.dev/channel1_1
-
-#EXTINF:-1 tvg-id="originals" tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png" group-title="Movies",Originals
-https://stream-proxy.xubilas-era.workers.dev/originals
-
-#EXTINF:-1 tvg-id="joy" tvg-name="Joy" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png" group-title="Kids",Joy
-https://stream-proxy.xubilas-era.workers.dev/joy
-
-#EXTINF:-1 tvg-id="delicious" tvg-name="Delicious" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378370876.png" group-title="Infotainment",Delicious
-https://stream-proxy.xubilas-era.workers.dev/delicious
-
-#EXTINF:-1 tvg-id="funny_junior_hd" tvg-name="Funny Junior HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png" group-title="Kids",Funny Junior HD
-https://stream-proxy.xubilas-era.workers.dev/funnyjuniorhd
-
-#EXTINF:-1 tvg-id="kids_stars" tvg-name="Kids Stars" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" group-title="Kids",Kids Stars
-https://stream-proxy.xubilas-era.workers.dev/kidsstars
-
-#EXTINF:-1 tvg-id="cineedge_hd" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
-https://stream-proxy.xubilas-era.workers.dev/cineedgehd
-
-#EXTINF:-1 tvg-id="crimes" tvg-name="Crimes" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" group-title="Movies",Crimes
-https://stream-proxy.xubilas-era.workers.dev/crimes
-
-#EXTINF:-1 tvg-id="screem" tvg-name="Screem" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="Movies",Screem
-https://stream-proxy.xubilas-era.workers.dev/screem
-
-#EXTINF:-1 tvg-id="superrix_hd" tvg-name="Superrix HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="Movies",Superrix HD
-https://stream-proxy.xubilas-era.workers.dev/superrixhd
-
-#EXTINF:-1 tvg-id="uniques_hd" tvg-name="Uniques HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="Movies",Uniques HD
-https://stream-proxy.xubilas-era.workers.dev/uniqueshd
-
-#EXTINF:-1 tvg-id="buddystar_hd" tvg-name="BuddyStar HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png" group-title="Kids",BuddyStar HD
-https://stream-proxy.xubilas-era.workers.dev/buddystarhd
-
-#EXTINF:-1 tvg-id="lucky_family" tvg-name="Lucky Family" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png" group-title="Kids",Lucky Family
-https://stream-proxy.xubilas-era.workers.dev/luckyfamily
-
-#EXTINF:-1 tvg-id="smarty" tvg-name="Smarty" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png" group-title="Kids",Smarty
-https://stream-proxy.xubilas-era.workers.dev/smarty
-
-#EXTINF:-1 tvg-id="intelligence" tvg-name="Intelligence" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" group-title="Movies",Intelligence
-https://stream-proxy.xubilas-era.workers.dev/intelligence
-
-#EXTINF:-1 tvg-id="true_stories" tvg-name="True Stories" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png" group-title="Movies",True Stories
-https://stream-proxy.xubilas-era.workers.dev/truestories
-
-#EXTINF:-1 tvg-id="luxell_hd" tvg-name="Luxell HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png" group-title="Infotainment",Luxell HD
-https://stream-proxy.xubilas-era.workers.dev/luxellhd
-
-#EXTINF:-1 tvg-id="program_promo" tvg-name="Program Promo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1783925099346.png" group-title="Infotainment",Program Promo
-https://stream-proxy.xubilas-era.workers.dev/programpromo
-
-
- 
-
-
-
-
-
-
-
- 
-
-
-
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png", Ekattor TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvZWthdHRvcl90di9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IkVrYXR0b3IgVFYiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/rYOv_p8BJIOHmUelrnXh/posters/d537453f-7e5b-45f3-9b52-42f6f65950c8.png", Channel News Asia
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvY2hhbm5lbHNfbmV3c19hc2lhL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiQ2hhbm5lbCBOZXdzIEFzaWEiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/1YPq_p8BJIOHmUelSHXc/posters/f65b0273-0f23-4b56-93dd-417224369105.png", TRT World
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvdHJ0X3dvcmxkL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiVFJUIFdvcmxkIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/7oPt_p8BJIOHmUelhXWj/posters/d6328092-9437-4806-8dc7-d00732d56832.png", DW
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvZHdfdHYvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJEVyIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWxMNWh3Y3J1ZjkyYnV3SjRDRjZTOTVCOGlEaHpIVm54YlF4U0g2RkxNNHNyTENKU0xNejkxRVBQVUlkeHpWSF9zMUpTZE9sMElQRXhHaFlTenZoMERBIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/CNT2_p8BalKyvLQIBSUG/posters/1e937055-a014-4274-bb69-b1b56d18c434.png", Russia Today
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvcnVzc2lhX3RvZGF5L3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiUnVzc2lhIFRvZGF5Iiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/G4ML_58BJIOHmUelNXZr/posters/becc2fba-4ed5-4f43-af2d-3c1ea2b4ee57.png", France 24
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvZnJhbmNlXzI0L3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiRnJhbmNlIDI0Iiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/DYMI_58BJIOHmUelm3aK/posters/d8436322-804a-47b6-9a3f-62764c4622d5.png", CGTN
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvY2d0bi9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IkNHVE4iLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp", Eurosport HD
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvZXVyb19zcG9ydHNfaGQvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJFdXJvc3BvcnQgSEQiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp", Sony Ten Sports 1 HD
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc29ueV9zcG9ydHNfMV9oZC9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IlNvbnkgVGVuIFNwb3J0cyAxIEhEIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png", Sony Ten Sports 2 HD
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc29ueV9zcG9ydHNfMl9oZC9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IlNvbnkgVGVuIFNwb3J0cyAyIEhEIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png", Sony Ten Sports 5 HD
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc29ueV9zcG9ydHNfNV9oZC9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IlNvbnkgVGVuIFNwb3J0cyA1IEhEIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp", Sony Ten Cricket
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvdGVuX2NyaWNrZXQvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJTb255IFRlbiBDcmlja2V0Iiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Teen" tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp", Cartoon Network HD +
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvY2FydG9vbl9uZXR3b3JrX2hkL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiQ2FydG9vbiBOZXR3b3JrIEhEICsiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Teen" tvg-logo="https://assets-prod.services.toffeelive.com/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp", Cartoon Network
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvY2FydG9vbl9uZXR3b3JrX3NkL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiQ2FydG9vbiBOZXR3b3JrIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Teen" tvg-logo="https://assets-prod.services.toffeelive.com/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp", POGO
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvcG9nb19zZC9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IlBPR08iLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Teen" tvg-logo="https://assets-prod.services.toffeelive.com/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp", Discovery Kids
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvZGlzY292ZXJ5X2tpZHMvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJEaXNjb3ZlcnkgS2lkcyIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWxMNWh3Y3J1ZjkyYnV3SjRDRjZTOTVCOGlEaHpIVm54YlF4U0g2RkxNNHNyTENKU0xNejkxRVBQVUlkeHpWSF9zMUpTZE9sMElQRXhHaFlTenZoMERBIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
+
+#EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp", Sony YAY
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc29ueXlheS9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IlNvbnkgWUFZIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png", Zee Anmol
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvemVlX2FubW9sL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiWmVlIEFubW9sIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://assets-prod.services.toffeelive.com/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png", Zing
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvemluZ19zZC9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IlppbmciLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png", HUM
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvaHVtX3R2L3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiSFVNIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png", HUM Masala
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvaHVtX21hc2FsYS9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IkhVTSBNYXNhbGEiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png", HUM Sitaray
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvaHVtX3NpdGFyYXkvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJIVU0gU2l0YXJheSIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWxMNWh3Y3J1ZjkyYnV3SjRDRjZTOTVCOGlEaHpIVm54YlF4U0g2RkxNNHNyTENKU0xNejkxRVBQVUlkeHpWSF9zMUpTZE9sMElQRXhHaFlTenZoMERBIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png", Sony Aath
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc29ueWFhdGgvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJTb255IEFhdGgiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp", Sony Entertainment Television HD
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc29ueWVudGVydGFpbm1udF9oZC9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IlNvbnkgRW50ZXJ0YWlubWVudCBUZWxldmlzaW9uIEhEIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp", Sony Entertainment Television
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc29ueV9lbnRlcnRhaW5tZW50L3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiU29ueSBFbnRlcnRhaW5tZW50IFRlbGV2aXNpb24iLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Musical" tvg-logo="https://assets-prod.services.toffeelive.com/PS6F-JQBv9knK3AHqjVz/posters/0f83ee72-be0f-4861-94df-30b158d3df8d.webp", B4U Music
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvYjR1X211c2ljL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiQjRVIE11c2ljIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp", Sony SAB HD
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc29ueXNhYl9oZC9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IlNvbnkgU0FCIEhEIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/ltPQX5UBm1RY_In7b3F1/posters/d039d9df-9877-4969-a0b6-56888ebe2385.png", Zee TV HD
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvemVlX3R2X2hkL3BsYXlsaXN0Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiWmVlIFRWIEhEIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJ1c2VyLWFnZW50Ijoib2todHRwLzUuMS4wIiwiY29va2llIjoiRWRnZS1DYWNoZS1Db29raWU9VVJMUHJlZml4PWFIUjBjSE02THk5aWJHUmpiWEJ5YjJRdFkyUnVMblJ2Wm1abFpXeHBkbVV1WTI5dDpFeHBpcmVzPTE3ODgyNjQwMzc6S2V5TmFtZT1wcm9kX2xpbmVhcjpTaWduYXR1cmU9bEw1aHdjcnVmOTJidXdKNENGNlM5NUI4aURoekhWbnhiUXhTSDZGTE00c3JMQ0pTTE16OTFFUFBVSWR4elZIX3MxSlNkT2wwSVBFeEdoWVN6dmgwREEiLCJjbGllbnQtYXBpLWhlYWRlciI6ImFuZ00xYVhDSFFMbW1TVzZjRGxwWE1ENnRMZHduaE1vVWVhQkJGS21kOThiWDZWcmFlNXhDTWJtNGdnMCt1MzNybnhlR1FEWk5yMkdEMXRXMGNXd0tFcFdpbU5sR3FYVlFHaHBpSUJ6MUpGeE4rT3hYY1FxYU1Qcmp3VWhDeUk1bU8xREd5TnYxOCtaMkVwbUh0Vm5MelY5U3JHc1FXdTRvUktqeEU4UUlNc1JzNkxydkw2aFdHUGxPR1FrZS9xYjVReFFaTmV0UHpJMzlqSGhYN1ppMlhyQ01JVDRhK2drMld1MWMzd0l5YndrcWtuUGNUcDRCajFjRUYzUStxMWRWMDVTQmh6cEVEZm9SMkJMeVE2ZFYzTHZtWTZNTkt4YlVqYnk3aE1zZzM1bEZsMkRmMm1ac3I3QzI3MzA5dy9xV2k4bExYRGpCN0IxTW96SUdLbjhydzNiWFk1WWxyUEtCS3p0eWlpc0FqUVFpN2tjNUlTWHlHU3dSbWhjaXdrY2l1aXRzU0wwTGxxSFk3L1Fra2g3MUV0YUszWEVnVnBMZEg4elJDc1R3ZnUxaUlWUGlEd1R5Y3V1Qnk0WFdrY05uZDBpTEIzNXlmdFFwaUw4SGZwTzJqUW5yQXd6ZVB4c3pKN21ld1ZHK00wUC9xeVRCRDUyTmtQUjh1VzBBWm1ES3A1TEhUQ0dmN3NxbGREenBadlUrZ3NTZHZ0c0JVY21IempJTkdFb3lYaz0ifX0.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp", Sony MAX HD
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc29ueV9tYXhfaGQvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJTb255IE1BWCBIRCIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWxMNWh3Y3J1ZjkyYnV3SjRDRjZTOTVCOGlEaHpIVm54YlF4U0g2RkxNNHNyTENKU0xNejkxRVBQVUlkeHpWSF9zMUpTZE9sMElQRXhHaFlTenZoMERBIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png", Zee Bangla Cinema
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvemVlX2JhbmdsYV9jaW5lbWEvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJaZWUgQmFuZ2xhIENpbmVtYSIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWxMNWh3Y3J1ZjkyYnV3SjRDRjZTOTVCOGlEaHpIVm54YlF4U0g2RkxNNHNyTENKU0xNejkxRVBQVUlkeHpWSF9zMUpTZE9sMElQRXhHaFlTenZoMERBIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png", Zee Bollywood
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvemVlX2JvbGx5d29vZC9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IlplZSBCb2xseXdvb2QiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png", Zee Action
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvemVlX2FjdGlvbi9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IlplZSBBY3Rpb24iLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp", Sony MAX
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fmedia.hmair.xyz%2Fapi%2Fstream%2FeyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvc29ueV9tYXgvcGxheWxpc3QubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsImNoYW5uZWwiOiJTb255IE1BWCIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Im9raHR0cC81LjEuMCIsImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg4MjY0MDM3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPWxMNWh3Y3J1ZjkyYnV3SjRDRjZTOTVCOGlEaHpIVm54YlF4U0g2RkxNNHNyTENKU0xNejkxRVBQVUlkeHpWSF9zMUpTZE9sMElQRXhHaFlTenZoMERBIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQI seem to be encountering an error. Can I try something else for you?
