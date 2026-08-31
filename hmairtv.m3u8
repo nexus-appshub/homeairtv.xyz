@@ -130,53 +130,53 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 
-#EXTINF:-1 group-title="Live", SA TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", SA TV
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3R2c2VuNi5heW5hb3R0LmNvbS9yRUxYaXVVWHFiZ3pQYjA2TnBvbS9pbmRleC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlNBIFRWIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8ifX0.m3u8
 
-#EXTINF:-1 group-title="Live", My Tv
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", My Tv
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3R2c2VuNi5heW5hb3R0LmNvbS9YTXBIYUVmMEFOQmh2OHc2TldSNy90cmFja3MtdjFhMS9tb25vLnRzLm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiTXkgVHYiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.ts
 
-#EXTINF:-1 group-title="Live", Bijoy TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Bijoy TV
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3R2c2VuNi5heW5hb3R0LmNvbS9OOFhibzV2ZHdWVTZzRjQzUnNXMC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiU3RhciBOZXdzIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8ifX0.ts
 
-#EXTINF:-1 group-title="Live", R TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", R TV
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3R2c2VuNS5heW5hb3R0LmNvbS9iYTQ3ZEhwRGszU2UvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlIgVFYiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.ts
 
-#EXTINF:-1 group-title="Live", Star Sports 1
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Star Sports 1
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2JvbGQtc2t5LWEzNTAudGFzaW5hemFkMjM0LndvcmtlcnMuZGV2L3N0cmVhbS9qdW11bmF0djVfY29weV9rb3JlX2xhdl9uYWlfbWNfdG9yX2tpX2JhcHJlcl9saW5rL3BsYXlsaXN0Lm0zdTg_ZXhwaXJlcz0xNzkwNzA0ODkyJnNpZz1uNHBZRXo5UERiYkF1QS1yb05sa0pUMHBVblFnVDRhaW93bXhKQ0VwVU1VIiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlN0YXIgU3BvcnRzIDEiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.m3u8
-#EXTINF:-1 group-title="Live", Star Sports 1
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Star Sports 1
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2JvbGQtc2t5LWEzNTAudGFzaW5hemFkMjM0LndvcmtlcnMuZGV2L3N0cmVhbS9qdW11bmF0djVfY29weV9rb3JlX2xhdl9uYWlfbWNfdG9yX2tpX2JhcHJlcl9saW5rL3BsYXlsaXN0Lm0zdTg_ZXhwaXJlcz0xNzkwNzA0ODkyJnNpZz1uNHBZRXo5UERiYkF1QS1yb05sa0pUMHBVblFnVDRhaW93bXhKQ0VwVU1VIiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlN0YXIgU3BvcnRzIDEiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.m3u8
-#EXTINF:-1 group-title="Live", Star Sports SL 1
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Star Sports SL 1
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3MzLml0Y25iZC5saXZlL2NoYW5uZWwvMGVkODBiNzQ4ZDM2NmQxOC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlN0YXIgU3BvcnRzIFNMIDEiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.m3u8
-#EXTINF:-1 group-title="Live", PTV Sports
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", PTV Sports
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3R2c2VuNy5heW5hc2NvcGUubmV0L3pZM2hKN3BRMnZNNWdEOHMvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlBUViBTcG9ydHMiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.ts
-#EXTINF:-1 group-title="Live", Sony Sports TEN 1
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Sony Sports TEN 1
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2RpZ2l0YWxvdHRodWIuY29tL3R2L3RvZmZlZS1ieS1tYXJ1Zi9saXZlLnBocD9pZD1zb255X3Nwb3J0c18xX2hkJmU9Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiU29ueSBTcG9ydHMgVEVOIDEiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.m3u8
-#EXTINF:-1 group-title="Live", Sony Sports TEN 1
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Sony Sports TEN 1
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2RpZ2l0YWxvdHRodWIuY29tL3R2L3RvZmZlZS1ieS1tYXJ1Zi9saXZlLnBocD9pZD1zb255X3Nwb3J0c18xX2hkJmU9Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiU29ueSBTcG9ydHMgVEVOIDEiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.m3u8
-#EXTINF:-1 group-title="Live", Sony Sports TEN 3
+#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Sony Sports TEN 3
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3MzLml0Y25iZC5saXZlL2NoYW5uZWwvNDBjNmMxYTI1MmNmMThjOS5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlNvbnkgU3BvcnRzIFRFTiAzIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8ifX0.m3u8
-#EXTINF:-1 group-title="Live", Sony Sports TEN 3
+#EXTINF:-1 group-title="Live"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Sony Sports TEN 3
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3MzLml0Y25iZC5saXZlL2NoYW5uZWwvNDBjNmMxYTI1MmNmMThjOS5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlNvbnkgU3BvcnRzIFRFTiAzIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8ifX0.m3u8
-#EXTINF:-1 group-title="Live", Sony Sports TEN 5
+#EXTINF:-1 group-title="Live"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Sony Sports TEN 5
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2RpZ2l0YWxvdHRodWIuY29tL3R2L3RvZmZlZS1ieS1tYXJ1Zi9saXZlLnBocD9pZD1zb255X3Nwb3J0c181X2hkJmU9Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiU29ueSBTcG9ydHMgVEVOIDUiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.m3u8
-#EXTINF:-1 group-title="Live", Euro Sports
+#EXTINF:-1 group-title="Live"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Euro Sports
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2RpZ2l0YWxvdHRodWIuY29tL3R2L3RvZmZlZS1ieS1tYXJ1Zi9saXZlLnBocD9pZD1ldXJvX3Nwb3J0c19oZCZlPS5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IkV1cm8gU3BvcnRzIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8ifX0.m3u8
-#EXTINF:-1 group-title="Live", Ten Cricket
+#EXTINF:-1 group-title="Live"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Ten Cricket
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2RpZ2l0YWxvdHRodWIuY29tL3R2L3RvZmZlZS1ieS1tYXJ1Zi9saXZlLnBocD9pZD10ZW5fY3JpY2tldCZlPS5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlRlbiBDcmlja2V0Iiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8ifX0.m3u8
 
