@@ -134,17 +134,6 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3R2c2VuNi5heW5hb3R0LmNvbS9yRUxYaXVVWHFiZ3pQYjA2TnBvbS9pbmRleC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlNBIFRWIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8ifX0.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", My Tv
-#EXTVLCOPT:http-referrer=https://rangdhonu.live/
-https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3R2c2VuNi5heW5hb3R0LmNvbS9YTXBIYUVmMEFOQmh2OHc2TldSNy90cmFja3MtdjFhMS9tb25vLnRzLm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiTXkgVHYiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.ts
-
-#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Bijoy TV
-#EXTVLCOPT:http-referrer=https://rangdhonu.live/
-https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3R2c2VuNi5heW5hb3R0LmNvbS9OOFhibzV2ZHdWVTZzRjQzUnNXMC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiU3RhciBOZXdzIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8ifX0.ts
-
-#EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", R TV
-#EXTVLCOPT:http-referrer=https://rangdhonu.live/
-https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3R2c2VuNS5heW5hb3R0LmNvbS9iYTQ3ZEhwRGszU2UvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlIgVFYiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.ts
 
 #EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", Star Sports 1
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
