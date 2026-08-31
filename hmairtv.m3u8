@@ -59,8 +59,8 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live", G TV
+ 
+#EXTINF:-1 group-title="Live" tvg-logo="https://pub-b6d03c1f15fe43a0a04728217ba1bff4.r2.dev/channels4_profile.jpg", G TV
 #EXTVLCOPT:http-referrer=https://rangdhonu.live/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2FwcC5uY2FyZS5saXZlL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1ERTBHSURVNlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjR1ZNWkVKQ1RFRldlVk4zUFRPbWRGc2FXUnRhVzUxYWlQaG5QVEkyL2dhemliZHouc3RyZWFtL2xpdmUtb3JnaW4vZ2F6aWJkei5zdHJlYW0vY2h1bmtzLm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiRyBUViIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIn19.m3u8
 
@@ -102,7 +102,7 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/0_1/index.m3u8?sessId=1551305
 
-#EXTINF:-1 group-title="News" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png",Maasranga TV
+#EXTINF:-1 group-title="News" tvg-logo="https://pub-b6d03c1f15fe43a0a04728217ba1bff4.r2.dev/images%20(1).jpg",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png",Channel I
