@@ -66,6 +66,19 @@ https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Ftvsen6.aynaott.c
 #EXTINF:-1 group-title="News" tvg-logo="https://otapp.store/uploads/tv_image/sm/mohona-tv.png",Mohona Tv
 https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fstream.ottplus.live%2Flive%2Fmohona_tv_abr%2Findex.m3u8
 
+#EXTINF:-1 group-title="Live", G TV
+#EXTVLCOPT:http-referrer=https://rangdhonu.live/
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2FwcC5uY2FyZS5saXZlL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1ERTBHSURVNlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjR1ZNWkVKQ1RFRldlVk4zUFRPbWRGc2FXUnRhVzUxYWlQaG5QVEkyL2dhemliZHouc3RyZWFtL2xpdmUtb3JnaW4vZ2F6aWJkei5zdHJlYW0vY2h1bmtzLm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiRyBUViIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIn19.m3u8
+
+#EXTINF:-1 tvg-id="independent_tv" tvg-name="Independent TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV
+#EXTVLCOPT:http-referrer=https://rangdhonu.live/
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2xpdmUucmFuZ2Rob251LmxpdmUvc3RyZWFtL2luZGVwaW5kZW4vcGxheWxpc3QubTN1OD9leHBpcmVzPTE3ODk2NjAyODEmc2lnPW5aeTROZm5jM19BYUx2SWNoaWlOT1lBcUZtMzNWdVdTemtKNy1MSUhxT3ciLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiaW5kZXBlbmRlbnQiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgcfzlU_Fv5aKuwivWyDh4q7gSq4rVkBoI6xZcyi9AaHL6JcTGCkY19kCOYakRgc1Qe_4rTymEk7BkoHr6IQ8ZIiTFWAsrR8qrnq26JBQBfkCaii8Hs_pqg6HYNDj4XImrPq8tn3wekbX9TKKf48g0_Ju7WiuGFRRdqagHuav-G_m1tm9wnWSoU19Z7FqCE",BTV LIVE
+#EXTVLCOPT:http-referrer=https://rangdhonu.live/
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2JvbGQtc2t5LWEzNTAudGFzaW5hemFkMjM0LndvcmtlcnMuZGV2L3N0cmVhbS9idHYvcGxheWxpc3QubTN1OD9leHBpcmVzPTE3OTA3MDI0OTUmc2lnPWlDVjJOQVVMSGg0VXQ5eGhXeXhYM1pvM3BaWDd6R0d0YXhLVk1oWndBNkEiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiQlRWIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8ifX0.m3u8
+
+
 #EXTINF:-1 group-title="News" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv.jpg",Ekhon TV
 https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fbox.bbaria.net%3A8083%2FNagorik_TV%2Fvideo.m3u8
 
@@ -397,6 +410,33 @@ https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fs3.itcnbd.live%2
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" ,Sony AATH
 https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Fstream.ottplus.bd%2Flive%2Fsony_aath_abr%2Flive%2Fsony_aath_720%2Fchunks.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiufQfbxOv4bd2T_Htk1UyOYy2l1weBEXSoxP2yYrOLf6rucxc9CPVStyxzhiudUKN6D8ElDYRqV_67IqkV9UxbC4AZELVk4F9Tzh1lR31fQUXVLTmOpvJPFccBB-3l2-zzy3GdmliDRHY5eMfjUz7Y_c5XNQDx1vx4Ua1BkDF3ZS1rA8hGf_bmTzFeBdl1",Zee Bangla
+#EXTVLCOPT:http-referrer=https://rangdhonu.live/
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2JvbGQtc2t5LWEzNTAudGFzaW5hemFkMjM0LndvcmtlcnMuZGV2L3N0cmVhbS96ZWViYW5nbGEvcGxheWxpc3QubTN1OD9leHBpcmVzPTE3OTA3MDIwMzYmc2lnPVZjUmtTNTBjRlRQTGhXQ3lGdUI3YlNMQ25JYWJLOUtkUXFuSnJFSGpyclUiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiWmVlIEJhbmdsYSIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIn19.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg",Colors Bangla HD
+#EXTVLCOPT:http-referrer=https://rangdhonu.live/
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2JvbGQtc2t5LWEzNTAudGFzaW5hemFkMjM0LndvcmtlcnMuZGV2L3N0cmVhbS9uYWdvcmlrdHYvcGxheWxpc3QubTN1OD9leHBpcmVzPTE3OTA3MDQzMzgmc2lnPTI0OGloc1dQVU8waDV1OGlpWVpOQmFtamRqcnlla2hRQXpNemRUZ1ZsQk0iLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiQ09MT1JTIEJBTkdMQSIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIn19.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5m9yGNnqjxKSwhExMYy6yfu5I5_h9nZ_5qLPVYz8sm_eoFIHhtpV_S_L-SDEBS_AZ-2TAFdI9nmHk4058Nl9Na3Htt2oBOOYxgzwfgUsZtKLHUWAmOeck0_GGr2hfXAyI_ebwPioyUY7k9fl2pSnTJbRbjmjz3USqa1rGjgvIl6LHRcsO7Qc8aDOOs3CN", Star Plus
+#EXTVLCOPT:http-referrer=https://rangdhonu.live/
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2JvbGQtc2t5LWEzNTAudGFzaW5hemFkMjM0LndvcmtlcnMuZGV2L3N0cmVhbS9zdGFyc3BsdXMvcGxheWxpc3QubTN1OD9leHBpcmVzPTE3OTA3MDQ1NTUmc2lnPV9HWkJsWGZCb1hGa2t4akp6STM1TGdCTWhlM2p5ZjZKYUNmZ08zSGNVY2siLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiU3RhciBQbHVzIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZS8ifX0.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhtArO0V7Tzv282MraRI2fiO6j638P3yy6t0tEOoI-38B2s1S1MsmVQkW1o2TmiZnjjCgPSvkfmZIVxc17GtNa4eY9DQjC0SqG8uvLee970KIJmha29u41YfMm1nuBLx3VOGkVOnjdwCyfq90h_ohehTaCkPwDKzIbACkptvirjH7fdSKKOmCsa2aV2gcac",SONY AATH
+#EXTVLCOPT:http-referrer=https://rangdhonu.live/
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2RpZ2l0YWxvdHRodWIuY29tL3R2L3RvZmZlZS1ieS1tYXJ1Zi9saXZlLnBocD9pZD1zb255YWF0aCZlPS5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlNPTlkgQUFUSCIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIn19.m3u8
+
+#EXTINF:-1 group-title="Entertainment",tvg-logo="https://pub-b6d03c1f15fe43a0a04728217ba1bff4.r2.dev/unnamed.png", Star Gold HD 
+#EXTVLCOPT:http-referrer=https://rangdhonu.live/
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3MzLml0Y25iZC5saXZlL2NoYW5uZWwvZjVkZDg3YTVjM2IwMzEzMS5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlN0YXIgR29sZCBIRCAiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png",Jalsha Movie
+#EXTVLCOPT:http-referrer=https://rangdhonu.live/
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2xpdmUucmFuZ2Rob251LmxpdmUvc3RyZWFtL3N0YXJqYWxzaGExX2xpbmtfY29weV9rb3JlX2xhdl9uYWlfMWhfcG9yX2F1dG9tYXRpY19jaGFuZ2VfaG95ZV9qYWJlL3BsYXlsaXN0Lm0zdTg_ZXhwaXJlcz0xNzg5OTYyNjQwJnNpZz14R0JacTBtR3YxeUVKdTBXekZpd3NlRWpOaGFKLVpYSVFTWlRYTUhUekdZIiwicmVmZXJlciI6Imh0dHBzOi8vcmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IkphbHNoYSBNb3ZpZXMiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InJlZmVyZXIiOiJodHRwczovL3JhbmdkaG9udS5saXZlLyJ9fQ.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg4uxNGLfa6QuCARomG_g6mmtEfuOddrDDtjpw9qWnD2Gv96sD2NLX85BHj3vC3Wz6fC3aWPWFtm4YIybzBAvpH6kW0gAjakRPBLVu-VKKKAD5HgN9JY1-V-CJ7ehBIA4VFrRAb9KlQDAVYfy8CLlFpza5YayD1BmzOOs_ZisiHa2MU5m7ELzvyu5Y5Yofj",Enter 10 Bangla
 https://stream-proxy.xubilas-era.workers.dev/?url=https%3A%2F%2Flive-bangla.akamaized.net%2Fliveabr%2Fpub-iobanglakp3sff%2Flive_360p%2Fchunks.m3u8
