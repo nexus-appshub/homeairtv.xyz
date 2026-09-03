@@ -91,6 +91,39 @@ https://tvsen5.aynaott.com/banglavision/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/tracks-v1a1/mono.ts.m3u8?
 
+#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png",News24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://pub-b6d03c1f15fe43a0a04728217ba1bff4.r2.dev/unnamed.jpg",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/0_1/index.m3u8?sessId=1551305
+
+#EXTINF:-1 group-title="News" tvg-logo="https://pub-b6d03c1f15fe43a0a04728217ba1bff4.r2.dev/images%20(1).jpg",Maasranga TV
+https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png",Channel I
+https://tvsen3.b-cdn.net/qUud8Nxs/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",Somoy TV
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj5xfBpa0O1v8VQbYz5abCb6PmjXOj5gfyNDdd0cLnIUuaXKja4JfHvIX2IkBYf-BCoeug7fK9gXFxjlQPmkcrRSG-UsFkz6kLqsb8_6jQqaITDvBohbLZDco_pdUxkNW9PZ4sSuB172FMLsSKNX-vj4oDqxYlUnRkGuLyvk3YiRYkHCVoU4soMxf6MDi_x",ATN Bangla TV
+https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/2f25f2c0498dc8b268af3b0d39198a36ce6f81c2/Logos/01KVWJD176R6VT9GC3B9KEJBWK.png" ,Global Tv HD
+https://stream.ottplus.live/live/global_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="Homai TV",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU" group-title="Homai TV",Sanonda Tv
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png" group-title="Homai TV",Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="Homai TV",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
 # ==================== TOFFE ====================
 
 #EXTINF:-1 group-title="Family" tvg-logo="https://pub-b6d03c1f15fe43a0a04728217ba1bff4.r2.dev/Gemini_Generated_Image_gmzg8jgmzg8jgmzg%20(1).jpg", Homai TV
@@ -316,40 +349,6 @@ https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZ
 #EXTVLCOPT:http-referrer=https://toffeelive.com/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2JsZGNtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20vY2RuL2xpdmUvYW5kcGljdHVyZV9oZC9wbGF5bGlzdC5tM3U4IiwicmVmZXJlciI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20vIiwiY2hhbm5lbCI6IiYgUGljdHVyZXMgSEQiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJva2h0dHAvNS4xLjAiLCJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4ODI2NDAzNzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1sTDVod2NydWY5MmJ1d0o0Q0Y2Uzk1QjhpRGh6SFZueGJReFNINkZMTTRzckxDSlNMTXo5MUVQUFVJZHh6VkhfczFKU2RPbDBJUEV4R2hZU3p2aDBEQSIsImNsaWVudC1hcGktaGVhZGVyIjoiYW5nTTFhWENIUUxtbVNXNmNEbHBYTUQ2dExkd25oTW9VZWFCQkZLbWQ5OGJYNlZyYWU1eENNYm00Z2cwK3UzM3JueGVHUURaTnIyR0QxdFcwY1d3S0VwV2ltTmxHcVhWUUdocGlJQnoxSkZ4TitPeFhjUXFhTVByandVaEN5STVtTzFER3lOdjE4K1oyRXBtSHRWbkx6VjlTckdzUVd1NG9SS2p4RThRSU1zUnM2THJ2TDZoV0dQbE9HUWtlL3FiNVF4UVpOZXRQekkzOWpIaFg3WmkyWHJDTUlUNGErZ2syV3UxYzN3SXlid2txa25QY1RwNEJqMWNFRjNRK3ExZFYwNVNCaHpwRURmb1IyQkx5UTZkVjNMdm1ZNk1OS3hiVWpieTdoTXNnMzVsRmwyRGYybVpzcjdDMjczMDl3L3FXaThsTFhEakI3QjFNb3pJR0tuOHJ3M2JYWTVZbHJQS0JLenR5aWlzQWpRUWk3a2M1SVNYeUdTd1JtaGNpd2tjaXVpdHNTTDBMbHFIWTcvUWtraDcxRXRhSzNYRWdWcExkSDh6UkNzVHdmdTFpSVZQaUR3VHljdXVCeTRYV2tjTm5kMGlMQjM1eWZ0UXBpTDhIZnBPMmpRbnJBd3plUHhzeko3bWV3VkcrTTBQL3F5VEJENTJOa1BSOHVXMEFabURLcDVMSFRDR2Y3c3FsZER6cFp2VStnc1NkdnRzQlVjbUh6aklOR0VveVhrPSJ9fQ.m3u8
 
-
-
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png",News24
-https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://pub-b6d03c1f15fe43a0a04728217ba1bff4.r2.dev/unnamed.jpg",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/0_1/index.m3u8?sessId=1551305
-
-#EXTINF:-1 group-title="News" tvg-logo="https://pub-b6d03c1f15fe43a0a04728217ba1bff4.r2.dev/images%20(1).jpg",Maasranga TV
-https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png",Channel I
-https://tvsen3.b-cdn.net/qUud8Nxs/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",Somoy TV
-https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj5xfBpa0O1v8VQbYz5abCb6PmjXOj5gfyNDdd0cLnIUuaXKja4JfHvIX2IkBYf-BCoeug7fK9gXFxjlQPmkcrRSG-UsFkz6kLqsb8_6jQqaITDvBohbLZDco_pdUxkNW9PZ4sSuB172FMLsSKNX-vj4oDqxYlUnRkGuLyvk3YiRYkHCVoU4soMxf6MDi_x",ATN Bangla TV
-https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="News"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/2f25f2c0498dc8b268af3b0d39198a36ce6f81c2/Logos/01KVWJD176R6VT9GC3B9KEJBWK.png" ,Global Tv HD
-https://stream.ottplus.live/live/global_tv_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="Homai TV",Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU" group-title="Homai TV",Sanonda Tv
-http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png" group-title="Homai TV",Bangla Plus
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="Homai TV",Rajdhani TV
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 
 #EXTINF:-1 group-title="Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png", SA TV
