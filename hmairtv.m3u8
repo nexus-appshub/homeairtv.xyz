@@ -47,6 +47,8 @@
 #EXTINF:-1 tvg-name="HOME AIR TV"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="HOME AIR TV", HOME AIR TV
 https://cdn.xubilaswebdevcorp.shop/video6124945349204254256.mp4
 
+#EXTINF:-1 tvg-id="HOME AIR TV" tvg-name="HOME AIR TV", Home Air Live
+https://live-stream-kv21.onrender.com/live.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiufQfbxOv4bd2T_Htk1UyOYy2l1weBEXSoxP2yYrOLf6rucxc9CPVStyxzhiudUKN6D8ElDYRqV_67IqkV9UxbC4AZELVk4F9Tzh1lR31fQUXVLTmOpvJPFccBB-3l2-zzy3GdmliDRHY5eMfjUz7Y_c5XNQDx1vx4Ua1BkDF3ZS1rA8hGf_bmTzFeBdl1",Zee Bangla
 #EXTVLCOPT:http-referrer=https://rangdhonu.live
