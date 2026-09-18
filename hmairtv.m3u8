@@ -77,37 +77,23 @@ https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2lwdHYuYWJveGJkaXgtMDAxL
 
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="Bangladesh",Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" group-title="Bangladesh",ATN Music (360p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-id="BanglaVision.bd@SD" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="Bangladesh",Bangla Vision (720p)
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1 tvg-id="BoishakhiTV.bd@SD" tvg-logo="https://i.imgur.com/gxL05Y4.png" group-title="Bangladesh",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd@SD" tvg-logo="https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="Bangladesh",Channel S
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Bangladesh",Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Bangladesh",Disney International HD (1080p)
-http://202.70.146.135:8000/play/a04p/index.m3u8
  
 #EXTINF:-1 tvg-id="EkusheyTV.bd@SD" tvg-logo="https://i.imgur.com/lRpkGHj.png" group-title="Bangladesh",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
- 
-#EXTINF:-1 tvg-id="GreenTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="Bangladesh",Green TV (1080p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
  
 #EXTINF:-1 tvg-id="MovieBangla.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" group-title="Bangladesh",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="MyTV.bd@SD" tvg-logo="https://i.imgur.com/475qK5T.png" group-title="Bangladesh",My TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540" group-title="Bangladesh",National Geographic (576p) [Geo-blocked]
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
-
 #EXTINF:-1 tvg-id="NexusTV.bd@SD" tvg-logo="https://i.imgur.com/XcJZKg4.png" group-title="Bangladesh",Nexus TV (576p)
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
- 
 #EXTINF:-1 tvg-id="NTV.bd@SD" tvg-logo="https://i.imgur.com/l75bDTx.png" group-title="Bangladesh",NTV (720p)
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae@SD" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="Bangladesh",Peace TV Bangla (1080p)
@@ -815,6 +801,30 @@ https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m
 #EXTINF:-1 group-title="Headless Intercepted", Star News
 #EXTVLCOPT:http-referrer=https://rangdhonu.live
 https://u1dc-1.onrender.com/api/stream/eyJ1cmwiOiJodHRwczovL3UxZGMtMS5vbnJlbmRlci5jb20vYXBpL3N0cmVhbS9leUoxY213aU9pSm9kSFJ3Y3pvdkwzUjJjMlZ1Tmk1aGVXNWhiM1IwTG1OdmJTOU9PRmhpYnpWMlpIZFdWVFp6UmpRelVuTlhNQzkwY21GamEzTXRkakZoTVM5dGIyNXZMblJ6TG0wemRUZ2lMQ0p5WldabGNtVnlJam9pYUhSMGNITTZMeTl5WVc1blpHaHZiblV1YkdsMlpTSXNJbTl5YVdkcGJpSTZJbWgwZEhCek9pOHZjbUZ1WjJSb2IyNTFMbXhwZG1VaUxDSmphR0Z1Ym1Wc0lqb2lVM1JoY2lCT1pYZHpJaXdpYUdWaFpHVnljeUk2ZXlKU1pXWmxjbVZ5SWpvaWFIUjBjSE02THk5eVlXNW5aR2h2Ym5VdWJHbDJaU0lzSWs5eWFXZHBiaUk2SW1oMGRIQnpPaTh2Y21GdVoyUm9iMjUxTG14cGRtVWlMQ0pWYzJWeUxVRm5aVzUwSWpvaVRXOTZhV3hzWVM4MUxqQWdLRmRwYm1SdmQzTWdUbFFnTVRBdU1Ec2dWMmx1TmpRN0lIZzJOQ2tpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5eVlXNW5aR2h2Ym5VdWJHbDJaU0o5ZlEudHMiLCJyZWZlcmVyIjoiaHR0cHM6Ly9yYW5nZGhvbnUubGl2ZSIsImNoYW5uZWwiOiJTdGFyIE5ld3MiLCJvcmlnaW4iOiIifQ.ts
+ 
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" group-title="Bangladesh",ATN Music (360p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelS.bd@SD" tvg-logo="https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="Bangladesh",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Bangladesh",Disney International HD (1080p)
+http://202.70.146.135:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="GreenTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="Bangladesh",Green TV (1080p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540" group-title="Bangladesh",National Geographic (576p) [Geo-blocked]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
