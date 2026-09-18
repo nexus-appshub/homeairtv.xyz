@@ -52,13 +52,14 @@ https://cdn.xubilaswebdevcorp.shop/video6124945349204254256.mp4
 #https://lonely-hired-synthesis-venture.trycloudflare.com/live/stream/index.m3u8
 https://cdn.xubilaswebdevcorp.shop/gemini_generated_video_90637ce7.mp4
 
+ 
+#EXTINF:-1  tvg-name="Bein"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/i5666mages%20(2).jpg"  group-title="BEIN", Bein Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/Colors_tv2017eee.png", COLORS HD
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2JvbGQtc2t5LWEzNTAudGFzaW5hemFkMjM0LndvcmtlcnMuZGV2L3N0cmVhbS9jb2xvcnNoZC9wbGF5bGlzdC5tM3U4P2V4cGlyZXM9MTc5MTQ0MDI2OSZzaWc9SjNPM0dtaHhhNHRjbk44NFJ4SlhYQnpycUJCZzF5b08zeVdHUVM3ZVZZTSIsInJlZmVyZXIiOiJodHRwczovL3d3dy5yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiQ09MT1JTIEJBTkdMQSAoU2VydmVyIDIpIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJSZWZlcmVyIjoiaHR0cHM6Ly93d3cucmFuZ2Rob251LmxpdmUvIiwiT3JpZ2luIjoiaHR0cHM6Ly93d3cucmFuZ2Rob251LmxpdmUiLCJVc2VyLUFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNS4wLjAuMCBTYWZhcmkvNTM3LjM2In19.m3u8
-
-#EXTINF:-1  tvg-name="Bein"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/i5666mages%20(2).jpg"  group-title="BEIN", Bein Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg", Star Jalsha
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
