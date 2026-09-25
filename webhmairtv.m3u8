@@ -83,6 +83,8 @@ http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Home Air",Colors Bangla
 http://live.balajibroadband.com:3500/live/756.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/starplus.png" group-title="Entertainment",Star Plus
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2JvbGQtc2t5LWEzNTAudGFzaW5hemFkMjM0LndvcmtlcnMuZGV2L3N0cmVhbS9zdGFyc3BsdXMvcGxheWxpc3QubTN1OD9leHBpcmVzPTE3OTExMzIxNjImc2lnPXV1Rko1VmVvNHlCSkNGVldqSFFYYzhwU3dGQmlhZ1pYQWlCTlQ3OEdrazQiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cucmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlN0YXIgUGx1cyIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsiUmVmZXJlciI6Imh0dHBzOi8vd3d3LnJhbmdkaG9udS5saXZlLyIsIk9yaWdpbiI6Imh0dHBzOi8vd3d3LnJhbmdkaG9udS5saXZlIiwiVXNlci1BZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjUuMC4wLjAgU2FmYXJpLzUzNy4zNiJ9fQ.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiufQfbxOv4bd2T_Htk1UyOYy2l1weBEXSoxP2yYrOLf6rucxc9CPVStyxzhiudUKN6D8ElDYRqV_67IqkV9UxbC4AZELVk4F9Tzh1lR31fQUXVLTmOpvJPFccBB-3l2-zzy3GdmliDRHY5eMfjUz7Y_c5XNQDx1vx4Ua1BkDF3ZS1rA8hGf_bmTzFeBdl1",Zee Bangla
 #EXTVLCOPT:http-referrer=https://rangdhonu.live
