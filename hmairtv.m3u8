@@ -49,15 +49,8 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Colors Bangla", Colors Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
-#EXTINF:-1 tvg-name="Colors Bangla" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Colors Bangla", Colors Bangla
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
-
-#EXTINF:-1 tvg-name="Colors Bangla" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Colors Bangla", Colors Bangla
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
-
-#EXTINF:-1 tvg-name="Colors Bangla" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Colors Bangla", Colors Bangla
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
- 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y88mJsQC/20240823_020415.png" group-title="Home Air",Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg" group-title="Entertainment",Star Jalsha
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
@@ -721,7 +714,7 @@ https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1657
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png" group-title="Home Air",Colors Bangla
-http://flowutc.com:80/live/MAGTF8AV71/bUiJLEJKG5/76179.ts
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y88mJsQC/20240823_020415.png" group-title="Home Air",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
