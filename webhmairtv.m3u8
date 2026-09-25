@@ -65,9 +65,6 @@ https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU
 
  
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Home Air",Zee Bangla HD
-http://103.159.180.34:5001/live/625.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="Home Air",Zee Bangla
 https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
  
@@ -77,10 +74,7 @@ https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
 https://prod-linear-media.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8?edge-cache-token=Expires=1790290850~Starts=1790287250~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=prMNFLQvBWtkMTVJ0xI6RM2BJ0dS907T2A98NbGnKQXU5A99vcIGAlbB8wSsbzFcsgcyNJAvMW4CDRf1O1N6AA
 ############## Colors Bangla ##############
 
-
-#EXTINF:-1 group-title="Home Air" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",Colors Bangla
-http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Home Air",Colors Bangla
 http://live.balajibroadband.com:3500/live/756.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/starplus.png" group-title="Entertainment",Star Plus
