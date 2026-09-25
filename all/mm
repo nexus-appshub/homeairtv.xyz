@@ -1,0 +1,48 @@
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Adventure",Discovery HD
+https://iptv.aboxbdix-001.workers.dev/discovery/tm2lhr_e185fa3bce991af7.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Goldmines%20Logo_Transparent.png" group-title="Movies",Goldmines
+https://iptv.aboxbdix-001.workers.dev/goldmines/tm2lid_8a6e0081cac952e3.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-name="Sony PIX" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png" group-title="Movies",Sony PIX
+https://iptv.aboxbdix-001.workers.dev/SONY-PIX/tm2ljl_60c872f208b2f803.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in@SD" tvg-name="Animal Planet" tvg-logo="https://dtil.tmsimg.com/assets/s157574_ld_h15_aa.png" group-title="Entertainment",Animal Planet
+https://iptv.aboxbdix-001.workers.dev/animal/tm2lk6_9afaebe1f12a6b97.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in@SD" tvg-name="Investigation Discovery" tvg-logo="https://dtil.tmsimg.com/assets/s157811_ld_h15_aa.png" group-title="Entertainment",Investigation Discovery (ID HD)
+https://iptv.aboxbdix-001.workers.dev/id_hd/tm2lld_0b8eca6ad4e65d18.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="Discovery Science" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png" group-title="Entertainment",Discovery Science
+https://iptv.aboxbdix-001.workers.dev/discovery_science/tm2llw_4e9144768d7d9680.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies
+https://iptv.aboxbdix-001.workers.dev/b4u-movies/tm2lmh_911afdb24d80ca85.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-name="Sony SAB" tvg-logo="https://dtil.tmsimg.com/assets/s159125_ld_h15_aa.png" group-title="Entertainment",Sony SAB
+https://iptv.aboxbdix-001.workers.dev/SONY-SAV/tm2lo2_c20f63966e3bc38d.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen2.in@SD" tvg-name="Sony Sports Ten 2" tvg-logo="https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png" group-title="Sports",Sony Ten 2
+https://iptv.aboxbdix-001.workers.dev/Sony-Ten-2/tm2luj_058d3b641061dfa0.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-name="Star Sports 2" tvg-logo="https://dtil.tmsimg.com/assets/s143844_ld_h15_aa.png" group-title="Sports",Star Sports 2
+https://iptv.aboxbdix-001.workers.dev/Star-Sports-2/tm2m4s_3852bac2443fb2ac.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6CT.png" group-title="Bangla",Zee Bangla
+https://iptv.aboxbdix-001.workers.dev/ZEE-BANGLA/tm2mb2_3abd6ac807d5a4b4.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-name="Star Jalsha" tvg-logo="https://dtil.tmsimg.com/assets/s143819_ld_h15_aa.png" group-title="Bangla",Star Jalsha
+https://iptv.aboxbdix-001.workers.dev/STAR-JALSHA/tm2mc9_aba7bf49f798bcb7.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png" group-title="Drama",Sony Aath
+https://iptv.aboxbdix-001.workers.dev/SONY-AATH/tm2mcn_b8253ac652f9f936.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in@SD" tvg-name="Jalsha Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JALSHA_MOVIES/images/LOGO_HD/image.png" group-title="Bangla",Jalsha Movies
+https://iptv.aboxbdix-001.workers.dev/jalsha-movies/tm2md8_af8059767fe67bb5.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-name="Colors Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="Bangla",Colors Bangla
+https://iptv.aboxbdix-001.workers.dev/COLORS-BANGLA/tm2mds_2df98945ea88730f.m3u8
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD" tvg-name="Colors Bangla Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png" group-title="Bangla",Colors Bangla Cinema
+https://iptv.aboxbdix-001.workers.dev/Colors-Bangla-CM/tm2me7_9ed8ab1669df2099.m3u
+#EXTINF:-1 tvg-id="Enterr10.in" tvg-name="Enterr10" tvg-logo="https://dtil.tmsimg.com/assets/s143018_ld_h15_aa.png" group-title="Entertainment",Enterr10
+https://iptv.aboxbdix-001.workers.dev/enter-10/tm2mfj_9e44c2ad81e12e52.m3u8
+#EXTINF:-1 tvg-id="SunBangla.in@SD" tvg-name="Sun Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143871_ld_h15_aa.png" group-title="Bangla",Sun Bangla
+https://iptv.aboxbdix-001.workers.dev/sun-bangla/tm2mev_9358fe6d7039d71c.m3u8
+#EXTINF:-1 tvg-id="MovieBangla.bd" tvg-name="Movie Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg" group-title="Bangla",Movie Bangla
+https://iptv.aboxbdix-001.workers.dev/movie-bangla/tm2mge_29128fd6223b6b14.m3u8
+#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports
+https://iptv.aboxbdix-001.workers.dev/tsports/tm2mh5_7b03303349621b55.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-name="Star Plus" tvg-logo="https://dtil.tmsimg.com/assets/s143831_ld_h15_aa.png" group-title="Entertainment",Star Plus
+https://iptv.aboxbdix-001.workers.dev/star-plus/tm2mhr_973a7cca4ce62542.m3u8
+#EXTINF:-1 tvg-id="Colors.in@SD" tvg-name="Colors HD" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png" group-title="Entertainment",Colors HD
+https://iptv.aboxbdix-001.workers.dev/COLORS_HD/tm2miz_357e32ec897092e8.m3u8
+#EXTINF:-1 tvg-id="Willow" tvg-name="Willow Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Willow Live
+https://iptv.aboxbdix-001.workers.dev/WILLOW_LIVE/tm2mjg_cf3e63e087e8e17b.m3u8
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",HUM TV
+https://iptv.aboxbdix-001.workers.dev/hum-tv/tm2ml4_1c33c9e03a7bd834.m3u8
