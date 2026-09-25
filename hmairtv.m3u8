@@ -41,7 +41,8 @@
 https://cdn.xubilaswebdevcorp.shop/video6124945349204254256.mp4
 #EXTINF:-1 tvg-id="Homai Periodic Live" tvg-name="Homai Periodic Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/Gemini_Generated_Image_4pozl74pozl74poz%20(1).jpg",Homai Periodic Live
 #https://live-homai.onrender.com/playlist.m3u
-
+#https://lonely-hired-synthesis-venture.trycloudflare.com/live/stream/index.m3u8
+https://cdn.xubilaswebdevcorp.shop/gemini_generated_video_90637ce7.mp4
 
 #EXTINF:-1 tvg-id="Discovery.in" tvg-name="Discovery" tvg-logo="https://dtil.tmsimg.com/assets/s157573_ld_h15_aa.png" group-title="Entertainment",Discovery
 https://iptv.aboxbdix-001.workers.dev/discovery/tm2lhr_e185fa3bce991af7.m3u8
@@ -114,7 +115,7 @@ https://iptv.aboxbdix-001.workers.dev/WILLOW_LIVE/tm2mjg_cf3e63e087e8e17b.m3u8
 
 #EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",HUM TV
 https://iptv.aboxbdix-001.workers.dev/hum-tv/tm2ml4_1c33c9e03a7bd834.m3u8
-#https://lonely-hired-synthesis-venture.trycloudflare.com/live/stream/index.m3u8
+ 
 https://cdn.xubilaswebdevcorp.shop/gemini_generated_video_90637ce7.mp4
 #EXTINF:-1 tvg-name="Bein" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/i5666mages%20(2).jpg" group-title="BEIN",Bein Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
