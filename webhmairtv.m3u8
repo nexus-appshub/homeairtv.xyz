@@ -53,14 +53,7 @@ https://cdn.xubilaswebdevcorp.shop/video6124945349204254256.mp4
 #EXTINF:-1 tvg-id="Homai Live" tvg-name="Homai Live"  tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/Gemini_Generated_Image_4pozl74pozl74poz%20(1).jpg", Homai Live
 https://lonely-hired-synthesis-venture.trycloudflare.com/live/stream/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Home Air",Colors Bangla HD
-https://iptv.aboxbdix-001.workers.dev/COLORS-BANGLA/tm2kyr_449dcf8128c524f4.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5m9yGNnqjxKSwhExMYy6yfu5I5_h9nZ_5qLPVYz8sm_eoFIHhtpV_S_L-SDEBS_AZ-2TAFdI9nmHk4058Nl9Na3Htt2oBOOYxgzwfgUsZtKLHUWAmOeck0_GGr2hfXAyI_ebwPioyUY7k9fl2pSnTJbRbjmjz3USqa1rGjgvIl6LHRcsO7Qc8aDOOs3CN", Star Plus
-#EXTVLCOPT:http-referrer=https://rangdhonu.live
-https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2JvbGQtc2t5LWEzNTAudGFzaW5hemFkMjM0LndvcmtlcnMuZGV2L3N0cmVhbS9zdGFyc3BsdXMvcGxheWxpc3QubTN1OD9leHBpcmVzPTE3OTExMzIxNjImc2lnPXV1Rko1VmVvNHlCSkNGVldqSFFYYzhwU3dGQmlhZ1pYQWlCTlQ3OEdrazQiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cucmFuZ2Rob251LmxpdmUvIiwiY2hhbm5lbCI6IlN0YXIgUGx1cyIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsicmVmZXJlciI6Imh0dHBzOi8vd3d3LnJhbmdkaG9udS5saXZlLyJ9fQ.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Entertainment", Jalsha Movies HD
-https://iptv.aboxbdix-001.workers.dev/jalsha-movies/tm2l1l_1f07c522e3bb0df1.m3u8
+ 
 ############## Star Jalsha ##############
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="Home Air",Star Jalsha HD
