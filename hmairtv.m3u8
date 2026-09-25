@@ -44,52 +44,6 @@ https://cdn.xubilaswebdevcorp.shop/gemini_generated_video_50d4032e.mp4
 #https://lonely-hired-synthesis-venture.trycloudflare.com/live/stream/index.m3u8
 https://cdn.xubilaswebdevcorp.shop/gemini_generated_video_90637ce7.mp4
 
- 
-#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Goldmines%20Logo_Transparent.png" group-title="Movies",Goldmines
-https://iptv.aboxbdix-001.workers.dev/goldmines/tm2lid_8a6e0081cac952e3.m3u8
-
- 
- 
-#EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-name="Star Sports 2" tvg-logo="https://dtil.tmsimg.com/assets/s143844_ld_h15_aa.png" group-title="Sports",Star Sports 2
-https://iptv.aboxbdix-001.workers.dev/Star-Sports-2/tm2m4s_3852bac2443fb2ac.m3u8
-
-#EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6CT.png" group-title="Bangla",Zee Bangla
-https://iptv.aboxbdix-001.workers.dev/ZEE-BANGLA/tm2mb2_3abd6ac807d5a4b4.m3u8
-
-#EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-name="Star Jalsha" tvg-logo="https://dtil.tmsimg.com/assets/s143819_ld_h15_aa.png" group-title="Bangla",Star Jalsha
-https://iptv.aboxbdix-001.workers.dev/STAR-JALSHA/tm2mc9_aba7bf49f798bcb7.m3u8
-
-#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png", Sony Aath
-https://iptv.aboxbdix-001.workers.dev/SONY-AATH/tm2mcn_b8253ac652f9f936.m3u8
-
-#EXTINF:-1 tvg-id="JalshaMovies.in@SD" tvg-name="Jalsha Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JALSHA_MOVIES/images/LOGO_HD/image.png" group-title="Bangla",Jalsha Movies
-https://iptv.aboxbdix-001.workers.dev/jalsha-movies/tm2md8_af8059767fe67bb5.m3u8
-
-#EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-name="Colors Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="Bangla",Colors Bangla
-https://iptv.aboxbdix-001.workers.dev/COLORS-BANGLA/tm2mds_2df98945ea88730f.m3u8
-
- 
-#EXTINF:-1 tvg-id="Enterr10.in" tvg-name="Enterr10" tvg-logo="https://dtil.tmsimg.com/assets/s143018_ld_h15_aa.png" group-title="Entertainment",Enterr10
-https://iptv.aboxbdix-001.workers.dev/enter-10/tm2mfj_9e44c2ad81e12e52.m3u8
-
-#EXTINF:-1 tvg-id="SunBangla.in@SD" tvg-name="Sun Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143871_ld_h15_aa.png" group-title="Bangla",Sun Bangla
-https://iptv.aboxbdix-001.workers.dev/sun-bangla/tm2mev_9358fe6d7039d71c.m3u8
-
- 
-#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports
-https://iptv.aboxbdix-001.workers.dev/tsports/tm2mh5_7b03303349621b55.m3u8
-
-#EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-name="Star Plus" tvg-logo="https://dtil.tmsimg.com/assets/s143831_ld_h15_aa.png" group-title="Entertainment",Star Plus
-https://iptv.aboxbdix-001.workers.dev/star-plus/tm2mhr_973a7cca4ce62542.m3u8
-
-#EXTINF:-1 tvg-id="Colors.in@SD" tvg-name="Colors HD" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png" group-title="Entertainment",Colors HD
-https://iptv.aboxbdix-001.workers.dev/COLORS_HD/tm2miz_357e32ec897092e8.m3u8
-
-#EXTINF:-1 tvg-id="Willow" tvg-name="Willow Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Willow Live
-https://iptv.aboxbdix-001.workers.dev/WILLOW_LIVE/tm2mjg_cf3e63e087e8e17b.m3u8
-
-#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",HUM TV
-https://iptv.aboxbdix-001.workers.dev/hum-tv/tm2ml4_1c33c9e03a7bd834.m3u8
 
 #EXTINF:-1 tvg-name="Bein" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/i5666mages%20(2).jpg" group-title="BEIN",Bein Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
