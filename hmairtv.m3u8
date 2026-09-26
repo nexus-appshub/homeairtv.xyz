@@ -66,6 +66,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Bangladesh",Zee Bangla HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/starplus.png" group-title="Entertainment",Star Plus
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3JhbmdkaG9udS1wcm94eS50YXNpbmF6YWQyMDA5LndvcmtlcnMuZGV2L3N0cmVhbS9zdGFycGx1c2hkc2VydmVyMy9wbGF5bGlzdC5tM3U4P2V4cGlyZXM9MTc5Mjk3NTY5MyZzaWc9SGlQX0tZelM2WnN5MWU2TW4wSFpHT2FmcTFBMUJmUmo5ZDJ4YmxzRWF1byIsInJlZmVyZXIiOiJodHRwczovL3d3dy5yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiU3RhciBQbHVzIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJSZWZlcmVyIjoiaHR0cHM6Ly93d3cucmFuZ2Rob251LmxpdmUvIiwiT3JpZ2luIjoiaHR0cHM6Ly93d3cucmFuZ2Rob251LmxpdmUiLCJVc2VyLUFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNS4wLjAuMCBTYWZhcmkvNTM3LjM2In19.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Home Air",Colors Bangla
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2lwdHYuYWJveGJkaXgtMDAxLndvcmtlcnMuZGV2L0NPTE9SUy1CQU5HTEEvdG0zdHZrX2I2OGY2MGM0ODQ0M2U3OTIubTN1OCIsInJlZmVyZXIiOiJodHRwczovL3d3dy5yYW5nZGhvbnUubGl2ZS8iLCJjaGFubmVsIjoiQ09MT1JTIEJBTkdMQSIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsiUmVmZXJlciI6Imh0dHBzOi8vd3d3LnJhbmdkaG9udS5saXZlLyIsIk9yaWdpbiI6Imh0dHBzOi8vd3d3LnJhbmdkaG9udS5saXZlIiwiVXNlci1BZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjUuMC4wLjAgU2FmYXJpLzUzNy4zNiJ9fQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/srk-tv-bd.png" group-title="Home Air",SRKTV Bangla
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp", Sony Ten Sports 1 HD
