@@ -39,11 +39,9 @@
 # ==================== Home Air TV ====================
 #EXTINF:-1 tvg-name="HOME AIR" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="HOME AIR",HOME AIR
 https://cdn.xubilaswebdevcorp.shop/gemini_generated_video_50d4032e.mp4
-#EXTINF:-1 tvg-id="Homai Periodic Live" tvg-name="Homai Periodic Live" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/Gemini_Generated_Image_4pozl74pozl74poz%20(1).jpg",Homai Periodic Live
-#https://live-homai.onrender.com/playlist.m3u
-#https://lonely-hired-synthesis-venture.trycloudflare.com/live/stream/index.m3u8
-https://cdn.xubilaswebdevcorp.shop/gemini_generated_video_90637ce7.mp4
 
+#EXTINF:-1 tvg-id="Homai Live" tvg-name="UEFA NATIONS LEAGUE"  tvg-logo="https://scontent.xx.fbcdn.net/v/t39.105495-1/834903611_1938087603826062_2081891810118900875_n.webp?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=106&_nc_ohc=EyEUumT0MdUQ7kNvwHtqD4Q&sdl=0&ccb=14-4&oh=00_AQPwmy_jQ4tk3Mu91MsJ3AVJdZoAoFl4-rJ2Pb-RNhR3GQ&oe=6AC5D3B2&_nc_sid=a21977", UEFA NATIONS LEAGUE
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp", Sony Ten Sports 1 HD
 #EXTVLCOPT:http-referrer=https://toffeelive.com/
@@ -61,6 +59,17 @@ https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3Byb2QtbGluZWFyLW1lZGlhL
 #EXTINF:-1 tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png" group-title="Sports",T Sports
 https://mycoffeetime.net/auth/MGmglcrAPlaOVitsxtrxPdAbzfTqZ1RaiXwflKz88wgICOb8ZIJMq4je_zFkXwOt2vqe6Qwn-IGltPPRFvWMEMO8-o12NBEz-HzWDuZSGe6aIgBA0dmPCV989XBcZG54_XVDA6VHO4vrx3PIwng0a8ddeFzSgp0Q4gXco_5WsT9eSJGBIumJVMa5oNZ_wV1QCtORDnU9gutHoCoY1JAaeuyMM7pj1cZiKH0KZ4jYKuWri8_X-vRE0IPGzdnrz6h_qub-73DoMlVXm-Yf71u55j4_OmRQkdJkym56EgUIJ-4tsGFwdVDnXsJXNPurUNdzmmuSxGUW6mc63y4KRbDg-cvTG43MoElQhdA-ISkxBy89GidcXvCxAjEiFbML43NMlGps-uY68THvVAyQvrCuPuZThHpCyIOSJsZwtabLLMXxhhJbDiTnHLwIZvx4CTVVX_q2KJa17ryac-XCdLn7sgsMwHxzG7tidVUjtQVLXPl_wxBWc6ss5CPDQay-E2wMzUi61xGM7x1IspOObCEaLSqb-Vc8cOF2dfBHR6CaJIYu-RCeW2WMePSa4l_Rdde8_aTpYn-LCsv7CmgGPWxGQ4KuHH3gxaTCAJP4oJ0IWFdrnZA8lZTko8sXPO9ObE1B
 
+#EXTINF:-1 tvg-name="Poland vs Romania" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790673176540x302.jpg" group-title="UEFA Nations League",Poland vs Romania
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-name="Belgium vs Turkiye" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790673614540x302.jpg" group-title="UEFA Nations League",Belgium vs Turkiye
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-name="Hungary vs Georgia" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790673877540x302.jpg" group-title="UEFA Nations League",Hungary vs Georgia
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+
+#EXTINF:-1 tvg-name="France vs Italy" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790674509540x302.jpg" group-title="UEFA Nations League",France vs Italy
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 # ==========================International==============================
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/dw-news.png" group-title="Home Air",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
