@@ -69,18 +69,10 @@ https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3Byb2QtbGluZWFyLW1lZGlhL
 #EXTINF:-1 tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png" group-title="Sports",T Sports
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 
-#EXTINF:-1 tvg-name="Poland vs Romania" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790673176540x302.jpg" group-title="UEFA Nations League",Poland vs Romania
+#EXTINF:-1 tvg-name="Poland vs Romania" tvg-logo="https://scontent.xx.fbcdn.net/v/t39.105495-1/834903611_1938087603826062_2081891810118900875_n.webp?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=106&_nc_ohc=EyEUumT0MdUQ7kNvwHtqD4Q&sdl=0&ccb=14-4&oh=00_AQPwmy_jQ4tk3Mu91MsJ3AVJdZoAoFl4-rJ2Pb-RNhR3GQ&oe=6AC5D3B2&_nc_sid=a21977" group-title="UEFA Nations League",UEFA NATIONS LEAGUE
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-name="Belgium vs Turkiye" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790673614540x302.jpg" group-title="UEFA Nations League",Belgium vs Turkiye
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
-
-#EXTINF:-1 tvg-name="Hungary vs Georgia" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790673877540x302.jpg" group-title="UEFA Nations League",Hungary vs Georgia
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-
-#EXTINF:-1 tvg-name="France vs Italy" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790674509540x302.jpg" group-title="UEFA Nations League",France vs Italy
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-
+ 
 ############## Star Jalsha ##############
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="Home Air",Star Jalsha HD
