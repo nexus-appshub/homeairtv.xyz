@@ -1,0 +1,48 @@
+name: Normalize playlist group titles
+
+on:
+  push:
+    paths-ignore:
+      - 'hmairtv.m3u8'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Normalize all group-title values
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path('hmairtv.m3u8')
+          text = path.read_text(encoding='utf-8')
+          updated = re.sub(r'group-title="[^"]*"', 'group-title="Home Air TV"', text)
+
+          if updated == text:
+              print('No group-title changes needed.')
+          else:
+              path.write_text(updated, encoding='utf-8')
+              print('All group-title values normalized to Home Air TV.')
+          PY
+
+      - name: Commit and push playlist update
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add hmairtv.m3u8
+          if git diff --cached --quiet; then
+            echo 'Playlist already normalized.'
+            exit 0
+          fi
+          git commit -m 'Normalize all playlist group titles'
+          git push
