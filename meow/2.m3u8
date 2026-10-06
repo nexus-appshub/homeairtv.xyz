@@ -1,0 +1,1868 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/guides/bd.epg.xml"
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTxpr24R/1000114119.jpg" group-title="SM All TV", G-Series
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/G-Series.m3u8
+#EXTINF:-1 tvg-id="240000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="SM All TV", BTV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/BTV.m3u8
+#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="SM All TV", BTV National
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/BTV%20National.m3u8
+#EXTINF:-1 tvg-id="98000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg" group-title="SM All TV", Channel 1
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Channel%201.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="SM All TV", Somoy TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Somoy%20TV.m3u8
+#EXTINF:-1 tvg-id="97000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="SM All TV", Jamuna TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Jamuna%20TV.m3u8
+#EXTINF:-1 tvg-id="185000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="SM All TV", DBC News HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DBC%20News%20HD.m3u8
+#EXTINF:-1 tvg-id="229000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="SM All TV", Maasranga TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Maasranga%20TV.m3u8
+#EXTINF:-1 tvg-id="102000" tvg-logo="https://cdn.ekattorbd.com/contents/cache/images/1200x630x1/uploads/media/2023/08/13/default-f5a63c8327b98eafee564f28c3a9ebdb.png" group-title="SM All TV", Ekattor HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ekattor%20HD.m3u8
+#EXTINF:-1 tvg-id="94000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="SM All TV", Channel 24 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Channel%2024%20HD.m3u8
+#EXTINF:-1 tvg-id="93000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="SM All TV", ATN News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ATN%20News.m3u8
+#EXTINF:-1 tvg-id="223000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="SM All TV", Islamic TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Islamic%20TV.m3u8
+#EXTINF:-1 tvg-id="134000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="SM All TV", Deepto TV HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Deepto%20TV%20HD.m3u8
+#EXTINF:-1 tvg-id="141000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="SM All TV", SRK TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SRK%20TV.m3u8
+#EXTINF:-1 tvg-id="132000" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Channel_i_logo.svg/512px-Channel_i_logo.svg.png" group-title="Live", Channel I HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Channel%20I%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Fnhpyvgz7fkc&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Fnhpyvgz7fkce10pwthm
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Fnhpyvgz7fkce10pwthm.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SM All TV", T SPORTS
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/T%20SPORTS.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="SM All TV", w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="SM All TV",Ten Cricket
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2Fra2x_pQBrjBfS2_RWG9l%2Fposters%2F795170c2-ec78-457e-9fa0-54a23d23361c.webp%22%20group-title%3D%22SM%20All%20TV%22%2CTen%20Cricket.m3u8
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="SM All TV", Willow HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Willow%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png" group-title="SM All TV", Bein Sports xtra
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Bein%20Sports%20xtra.m3u8
+#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="SM All TV", PTV Sports HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/PTV%20Sports%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/3a36a406fcc9616cd0b32514bb29eb36.jpg" group-title="SM All TV", ATN Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ATN%20Bangla.m3u8
+#EXTINF:-1 tvg-id="99000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="SM All TV", NTV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NTV.m3u8
+#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d6c5ece652161d2d88ed547f00343687_playmist_rtv_400x400.jpg" group-title="SM All TV", RTV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/RTV.m3u8
+#EXTINF:-1 tvg-id="100000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="SM All TV", Bangla Vision
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Bangla%20Vision.m3u8
+#EXTINF:-1 tvg-id="BOISHAKHITV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/Boishakhi_TV_HD_logo_2022.png" group-title="SM All TV", BOISHAKHI TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/BOISHAKHI%20TV.m3u8
+#EXTINF:-1 tvg-id="ekushey.bd" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="SM All TV", Ekushay TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ekushay%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png" group-title="SM All TV", Channel 1 News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Channel%201%20News.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="SM All TV", Ekattor TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ekattor%20TV.m3u8
+#EXTINF:-1 tvg-id="247000" tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png" group-title="SM All TV", News 24
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/News%2024.m3u8
+#EXTINF:-1 tvg-id="97000" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="SM All TV", w_300,q_85/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="SM All TV",Jamuna TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FPiL635oBEef-9-uV2uCe%2Fposters%2F36f380e0-6c71-4b27-a73b-2afb3ce7e982.png%22%20group-title%3D%22SM%20All%20TV%22%2CJamuna%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="SM All TV", GAZI TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/GAZI%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENyPcL0.png" group-title="SM All TV", Mohona TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Mohona%20TV.m3u8
+#EXTINF:-1 tvg-id="deshitv.bd" tvg-logo="https://otapp.store/uploads/tv_image/sm/my-tv.png" group-title="SM All TV", MY TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MY%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sa-tv.png" group-title="SM All TV", SATV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SATV.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="SM All TV", Deshe Bideshe
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Deshe%20Bideshe.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png" group-title="SM All TV", Desh TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Desh%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="SM All TV", Deshi TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Deshi%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="SM All TV", w_300,q_85/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="SM All TV",Bijoy TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2Fbns4l5sBcqxnFHJBVZ32%2Fposters%2Ffeaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png%22%20group-title%3D%22SM%20All%20TV%22%2CBijoy%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png" group-title="SM All TV", w_300,q_85/MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png" group-title="SM All TV",Asian TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FMyK__poBEef-9-uVmf5l%2Fposters%2F1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png%22%20group-title%3D%22SM%20All%20TV%22%2CAsian%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzayWMQexbfPV-jTx3ZNoq-XOmlHKSX1SCjg&s" group-title="SM All TV", Probashi TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Probashi%20TV.m3u8
+#EXTINF:-1 tvg-id="188000" tvg-logo="https://otapp.store/uploads/tv_image/sm/nagorik-tv.png" group-title="SM All TV", Nagorik TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Nagorik%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="SM All TV", w_300,q_85/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="SM All TV",Anando TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FwCM3l5sBEef-9-uVXFvD%2Fposters%2Fd80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png%22%20group-title%3D%22SM%20All%20TV%22%2CAnando%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="SM All TV", Deepto TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Deepto%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="SM All TV", w_300,q_85/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="SM All TV",Bangla TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FJiK-_poBEef-9-uVZv6L%2Fposters%2F757a328e-70d6-45de-b093-0a843c69ade7.png%22%20group-title%3D%22SM%20All%20TV%22%2CBangla%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv.jpg" group-title="SM All TV", AKHON TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/AKHON%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="SM All TV", w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="SM All TV",Global TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2F0y_tDJsBNnOkwJLWNrdE%2Fposters%2F2ff058e1-630f-4657-8dc6-b677e65642c5.png%22%20group-title%3D%22SM%20All%20TV%22%2CGlobal%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png" group-title="SM All TV", Green TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Green%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="SM All TV", w_300,q_85/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="SM All TV",Channel S
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FWyPuDJsBEef-9-uVUA_z%2Fposters%2Fea20055c-a824-443c-8083-ce8e2da8b922.png%22%20group-title%3D%22SM%20All%20TV%22%2CChannel%20S.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="SM All TV", Star News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20News.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png" group-title="SM All TV", Channel 16
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Channel%2016.m3u8
+#EXTINF:-1 tvg-id="MUSICBANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Music_Bangla_new.jpeg" group-title="SM All TV", MUSIC BANGLA
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MUSIC%20BANGLA.m3u8
+#EXTINF:-1 tvg-logo="https://news21bangla.tv/wp-content/uploads/2025/07/Screenshot_23.png" group-title="SM All TV", NEWS 21 BANGLA
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NEWS%2021%20BANGLA.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="SM All TV", w_300,q_85/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="SM All TV",Rajdhani TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FKECGB54BuUSiBsg_dHyj%2Fposters%2F58af9c58-ed80-458c-af13-cf381680cec6.png%22%20group-title%3D%22SM%20All%20TV%22%2CRajdhani%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="SM All TV", w_300,q_85/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="SM All TV",Movie Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FCXz4PJwBcqxnFHJBPwrG%2Fposters%2F2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png%22%20group-title%3D%22SM%20All%20TV%22%2CMovie%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/rb.png" group-title="SM All TV", Ruposhi Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ruposhi%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png" group-title="SM All TV", JonmoBhumi TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/JonmoBhumi%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://www.metvbd.com/media/common/logo-fb.png" group-title="SM All TV", ME TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ME%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://www.tbn24.com/logo.png" group-title="SM All TV", TBN 24
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/TBN%2024.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/jagonews.jpg" group-title="SM All TV", Jago News 24
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Jago%20News%2024.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctL8rD_FYfZ1rHUDhs_Q3rJwRYGSDbMX0-XHpHFXLjeTC2D9iYwo8Gq3J&s=10" group-title="SM All TV", NRB HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NRB%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBhxAik9rvkpRV33kdDl-2drT2X3Y2cU_-lrjlMpmIxzBAGCN50afZnqx8vvxgmbaTVZmYITeOyTW1Fg_CAItfNfgRwsrTcxaB1pecb0Z74oky6LcgXFGIAOz8w8IijqMpMo4dUJ8aMsAF4A0x9Xwt57UCZYxhtEpRfOdqTzmfwVjICILOqg9QPbOFww/s1080/1000021053.png" group-title="SM All TV", Ayna TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ayna%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="SM All TV", Peace TV Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Peace%20TV%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/madina-live-tv-sunnah-tv.png" group-title="SM All TV", Saudi Sunnah HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Saudi%20Sunnah%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="SM All TV", SONY AATH kids
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SONY%20AATH%20kids.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="SM All TV", Nick Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Nick%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png" group-title="SM All TV", Discovery Kids
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Discovery%20Kids.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp" group-title="SM All TV", Pogo
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Pogo.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbKqj0w3/1000086946.jpg" group-title="SM All TV", Motu Patlu
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Motu%20Patlu.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="SM All TV", Gopal Bhar TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Gopal%20Bhar%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208314.jpg" group-title="SM All TV", Tom & Jerry TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Tom%20%26%20Jerry%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="SM All TV", Doraemon TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Doraemon%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="SM All TV", Mr Bean Animated
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Mr%20Bean%20Animated.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/HBO_Movies_2025.svg" group-title="SM All TV", EN | HBO Movies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/EN%20%7C%20HBO%20Movies.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1zW8RLLNCQm6UHcIIJZlscOB5vhs7BF2I7SfTthYGv3LtHeRSut2-Ag&s=10" group-title="SM All TV", Action Hollywood Movies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Action%20Hollywood%20Movies.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k3QXzvt/20240823_022853.png" group-title="SM All TV", STAR PLUS
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/STAR%20PLUS.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp" group-title="SM All TV", w_300,q_85/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp" group-title="SM All TV",Sony Sab
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FES55-JQBv9knK3AHNDWC%2Fposters%2F13411be9-62b9-4a99-a062-b6e91dfb1099.webp%22%20group-title%3D%22SM%20All%20TV%22%2CSony%20Sab.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png" group-title="SM All TV", Star Jalsha HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Jalsha%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="SM All TV", Colors Bangla Cinema
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Bangla%20Cinema.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="SM All TV", w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="SM All TV",Zee Bangla HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FkK2aX5UBrjBfS2_RBcKf%2Fposters%2Fba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png%22%20group-title%3D%22SM%20All%20TV%22%2CZee%20Bangla%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y88mJsQC/20240823_020415.png" group-title="SM All TV", Sun Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sun%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png" group-title="SM All TV", Sananda Tv
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sananda%20Tv.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="SM All TV", w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="SM All TV",Discovery
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FKS6x-JQBv9knK3AHwDZy%2Fposters%2F6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp%22%20group-title%3D%22SM%20All%20TV%22%2CDiscovery.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="SM All TV", w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="SM All TV",Discovery Bangla 2
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FKS6x-JQBv9knK3AHwDZy%2Fposters%2F6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp%22%20group-title%3D%22SM%20All%20TV%22%2CDiscovery%20Bangla%202.m3u8
+#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg" group-title="SM All TV", National Geography HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/National%20Geography%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png" group-title="SM All TV", Love Natural
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Love%20Natural.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png" group-title="SM All TV", Animal Planet
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Animal%20Planet.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" group-title="SM All TV", SANGEET BANGLA
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SANGEET%20BANGLA.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="SM All TV", Zoom
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zoom.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/dhoom-music-bangla.png" group-title="SM All TV", Dhoom Music
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Dhoom%20Music.m3u8
+#EXTINF:-1 tvg-logo="https://images.tv9bangla.com/wp-content/themes/tv9bangla/images/tv9-bangla-logo.svg" group-title="SM All TV", TV9 Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/TV9%20Bangla.m3u8
+#EXTINF:-1 tvg-id="DangalTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="SM All TV", ENT | Dangal TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ENT%20%7C%20Dangal%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp" group-title="SM All TV", w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp" group-title="SM All TV",Sony Max
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/w_300%2Cq_85%2FAy52-JQBv9knK3AHFDWt%2Fposters%2F00afb30b-3c19-4c4c-abd8-891db94e4767.webp%22%20group-title%3D%22SM%20All%20TV%22%2CSony%20Max.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" group-title="SM All TV", DANGAL2
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DANGAL2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png" group-title="SM All TV", DD Bharati
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Bharati.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png" group-title="SM All TV", DD National HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20National%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png" group-title="SM All TV", Aaj Tak HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Aaj%20Tak%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-LKDkXmG8y-gkKDzES5aUI8SYFtDXR8F7351cCACb8OP0ap9MkI5moxwFLoAWNRjVEXKJmH3pQ=s72-c-k-c0x00ffffff-no-rj" group-title="SM All TV", Aap Ki Adalat
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Aap%20Ki%20Adalat.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg" group-title="SM All TV", Republic TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Republic%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg" group-title="SM All TV", ZEE BUSINESS
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ZEE%20BUSINESS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="SM All TV", GOAL TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/GOAL%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png" group-title="SM All TV", Funny Junior HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Funny%20Junior%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="SM All TV", Fighters HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Fighters%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" group-title="SM All TV", Crazy Ex HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Crazy%20Ex%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png" group-title="SM All TV", Delicious HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Delicious%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="SM All TV", history
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/history.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn6Gyrqn/20240823-024051.png" group-title="SM All TV", Travel XP English
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Travel%20XP%20English.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="SM All TV", Al Jazeera HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Al%20Jazeera%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp" group-title="SM All TV", CNN
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/CNN.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/dw-news.png" group-title="SM All TV", DW NEWS
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DW%20NEWS.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="SM All TV", Sheemaroo Bollywood
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sheemaroo%20Bollywood.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="SM All TV", Hindi Movies 3
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Hindi%20Movies%203.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-movies.png" group-title="SM All TV", Goldmines Movies 2
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Goldmines%20Movies%202.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg" group-title="SM All TV", B4U Kadak
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/B4U%20Kadak.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-movies.png" group-title="SM All TV", Goldmines Movies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Goldmines%20Movies.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines.link" group-title="SM All TV", Goldmines
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Goldmines.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-movies.png" group-title="SM All TV", B4U Movies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/B4U%20Movies.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRKS6TwR/20240823_022008.png" group-title="SM All TV", 9XM
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/9XM.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="SM All TV", E24
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/E24.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="SM All TV", Music India
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Music%20India.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgPKgJu.png" group-title="SM All TV", Hindi Hits HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Hindi%20Hits%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="SM All TV", Music Mastii
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Music%20Mastii.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4QJIbm5AJUR2DxA4ChOekh2jveNwgRSfqjvBkoyomA&s=10" group-title="SM All TV", Baallee
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Baallee.m3u8
+#EXTINF:-1 tvg-id="169000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="SM All TV", Al Jazeera
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Al%20Jazeera.m3u8
+#EXTINF:-1 tvg-id="channel_9" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0f3afa480f77dd7d97d49b449a05f3fa_playmist_channel_9_400x400.jpg" group-title="SM All TV", Channel 9
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Channel%209.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ec/BHI_Channel_logo.png" group-title="SM All TV", Bhi Channel
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Bhi%20Channel.m3u8
+#EXTINF:-1 tvg-logo="https://chsuk.tv/wp-content/uploads/2025/11/CHS-Side-Text.png" group-title="SM All TV", Channel S UK
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Channel%20S%20UK.m3u8
+#EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png" group-title="SM All TV", Channel Europe
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Channel%20Europe.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNvkbdL4/1000114150.png" group-title="SM All TV", Star movies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20movies.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x49520" group-title="SM All TV", iON TV UK
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/iON%20TV%20UK.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg" group-title="SM All TV", Asian TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Asian%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="SM All TV", G TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/G%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg" group-title="SM All TV", Ananda TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ananda%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png" group-title="SM All TV", Movie Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Movie%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cd/Ekushey_Television_logo_2000-2002%2C_2007.png" group-title="SM All TV", Ekushey TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ekushey%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/dd/Ekhon_TV_logo.png" group-title="SM All TV", Ekhon TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ekhon%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="SM All TV", Mohona TV HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Mohona%20TV%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png" group-title="SM All TV", Bangla Plus
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Bangla%20Plus.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png" group-title="SM All TV", Enterr 10 Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Enterr%2010%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png" group-title="SM All TV", T Sports HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/T%20Sports%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Desh_TV_logo.svg/512px-Desh_TV_logo.svg.png" group-title="Live", %e2%9c%85%e2%9c%85%20bangladeshi%20%e2%9c%85%e2%9c%85
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/%25e2%259c%2585%25e2%259c%2585%2520bangladeshi%2520%25e2%259c%2585%25e2%259c%2585.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" group-title="SM All TV", ZB Cartun TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ZB%20Cartun%20TV.m3u8
+#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/C16.jpg" group-title="SM All TV", Makkah TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Makkah%20TV.m3u8
+#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/Desh_Bangla_Tv.png" group-title="SM All TV", Desh Bangla TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Desh%20Bangla%20TV.m3u8
+#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/citigen_tv.jpeg" group-title="SM All TV", Citizen TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Citizen%20TV.m3u8
+#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/EPTV-Logo-400x400.png" group-title="SM All TV", EP TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/EP%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="SM All TV", Jalsha Movies HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Jalsha%20Movies%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="SM All TV", Zee Bangla HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Bangla%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Bn%20Ch%201&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Bn Ch 1
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Bn%20Ch%201.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="SM All TV", Colors Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://www.tbn24.com/logo.png" group-title="SM All TV", Star Gold
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Gold.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="SM All TV", Saudi Quran
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Saudi%20Quran.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="SM All TV", COLORS CINEPLEX HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/COLORS%20CINEPLEX%20HD.m3u8
+#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="SM All TV", Colors Cineplex Bollywood
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Cineplex%20Bollywood.m3u8
+#EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="SM All TV", Colors Cineplex Superhit
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Cineplex%20Superhit.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="SM All TV", Akash Aath
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Akash%20Aath.m3u8
+#EXTINF:-1 tvg-id="77" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png" group-title="SM All TV", Jalsha Movies🇮🇳
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Jalsha%20Movies%F0%9F%87%AE%F0%9F%87%B3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="SM All TV", Star Jalsha
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Jalsha.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="SM All TV", Zee Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="SM All TV", ,Colors HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/%2CColors%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxW1Tk5YcPMJtI5hh47SGGuJnQWY9YwkYZS9vOt_dJtQ5lRsS1vXarCGc6ixKgdEBAp2Y-K8xJyVSdiv3D62oWv_E5An9kHP_wSawaYiflPVttCjb8BW8ayfJV0JfR-TzcMD75P5hsyNzYGmHe6BK2KvXABCLMtYBANLhYQ8RUyZVXTNQHqggCb42qYg/s1080/1000023429.png" group-title="SM All TV", Rongeen TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Rongeen%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2LWHMLeQR_RCoxUGae5HTqqA7y7a-0A2IUfR6aNVjFPRHOa-iiP8Hv3HK_iTuJKpiUBPCNGgBSMmXPjbqprI3t2YeLf-_QhE1ZhafnGD6FEFxGXcw5g1yE2dz2TEhF7eXoTTpmcS4TlOd75ptLZEuJVdnTo2qCY_mxKm2wbpZL4QqudSaRat3I9Qphg/s600/Nur_20251226_221413_0000.png" group-title="SM All TV", Jhankar TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Jhankar%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="SM All TV", Amar Bangla🇮🇳
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Amar%20Bangla%F0%9F%87%AE%F0%9F%87%B3.m3u8
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="SM All TV", Zee Bangla Sonar
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Bangla%20Sonar.m3u8
+#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png" group-title="SM All TV", Kolkata TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Kolkata%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=NK&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="SM All TV", NK
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NK.m3u8
+#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_04/story_31381/assets/2.png?time=1681544765&size=*:900" group-title="SM All TV", GNT
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/GNT.m3u8
+#EXTINF:-1 tvg-id="117" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg" group-title="SM All TV", q_85,w_250/dhome/posters/ea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg" group-title="SM All TV", SAB HD🇮🇳
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/q_85%2Cw_250%2Fdhome%2Fposters%2Fea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg%22%20group-title%3D%22SM%20All%20TV%22%2C%20SAB%20HD%F0%9F%87%AE%F0%9F%87%B3.m3u8
+#EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SM All TV", Sony Pal
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20Pal.m3u8
+#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SM All TV", Sony Aath
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20Aath.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=group-title%3D&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="SM All TV", group-title="SM All TV",SONY KAL
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/group-title%3D%22SM%20All%20TV%22%2CSONY%20KAL.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/T_Sports_logo.svg/512px-T_Sports_logo.svg.png" group-title="SM All TV", T-sport
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/T-sport.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="SM All TV", beIN sports Xtra HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/beIN%20sports%20Xtra%20HD.m3u8
+#EXTINF:-1 tvg-id="enter10bangla.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="SM All TV", Enter10 Bangla HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Enter10%20Bangla%20HD.m3u8
+#EXTINF:-1 tvg-id="RPlusGould" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png" group-title="SM All TV", R Plus Gold
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/R%20Plus%20Gold.m3u8
+#EXTINF:-1 tvg-id="BanglaJagoTV" tvg-logo="https://banglajagotv.com/wp-content/themes/BANGLAJAGOTV/images/logo.png" group-title="SM All TV", IN | Bangla Jago TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/IN%20%7C%20Bangla%20Jago%20TV.m3u8
+#EXTINF:-1 tvg-id="CalcuttaNews" tvg-logo="https://assets.calcuttatelevisionnetwork.in/cn.png" group-title="SM All TV", IN | Calcutta News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/IN%20%7C%20Calcutta%20News.m3u8
+#EXTINF:-1 tvg-id="R Plus News" tvg-logo="https://rplus.in/wp-content/uploads/2025/06/RPLUS_NEWS.png" group-title="SM All TV", IN | R Plus News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/IN%20%7C%20R%20Plus%20News.m3u8
+#EXTINF:-1 tvg-id="RepublicBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/R.Bangla_logo_with_tagline.jpg" group-title="SM All TV", IN | Republic Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/IN%20%7C%20Republic%20Bangla.m3u8
+#EXTINF:-1 tvg-id="dd-urdu" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1423354137DD_URDU______720x960.webp" group-title="SM All TV", ENT | DD URDU
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ENT%20%7C%20DD%20URDU.m3u8
+#EXTINF:-1 tvg-id="indiatoday.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg" group-title="SM All TV", NEWS | India Today
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NEWS%20%7C%20India%20Today.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg" group-title="SM All TV", NEWS | India TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NEWS%20%7C%20India%20TV.m3u8
+#EXTINF:-1 tvg-id="ndtvenglish" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj" group-title="SM All TV", NEWS | NDTV English
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NEWS%20%7C%20NDTV%20English.m3u8
+#EXTINF:-1 tvg-id="ndtvindia" tvg-logo="https://logodix.com/logo/2131933.jpg" group-title="SM All TV", NEWS | NDTV Hindi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NEWS%20%7C%20NDTV%20Hindi.m3u8
+#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://yt3.googleusercontent.com/tWgKmMIT4YwdmT0z5S1MN2bIvoFN8_RvIsAWZbLwQVIpq21RO-_Y4sDzVdpj9l6wWRRz8YeUSg=s72-c-k-c0x00ffffff-no-rj" group-title="SM All TV", NEWS | News Nation
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NEWS%20%7C%20News%20Nation.m3u8
+#EXTINF:-1 tvg-id="News24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20250430T011913SQUARE.png" group-title="SM All TV", NEWS | News24
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NEWS%20%7C%20News24.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png" group-title="SM All TV", Iqra Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Iqra%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="SM All TV", Quran TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Quran%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png" group-title="SM All TV", Iqraa TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Iqraa%20TV.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="SM All TV", QURAN
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/QURAN.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="SM All TV", Azan Tv
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Azan%20Tv.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="SM All TV", Quran Live
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Quran%20Live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png" group-title="SM All TV", Radio Bangla Net
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Radio%20Bangla%20Net.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png" group-title="SM All TV", BBC Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/BBC%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="SM All TV", Spice FM
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Spice%20FM.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="Cartoon", Duronto TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Duronto%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png" group-title="Cartoon", Sony YaY!
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20YaY!.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=MINIMAX&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Cartoon", MINIMAX
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MINIMAX.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=MINI&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Cartoon", MINI
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MINI.m3u8
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Cartoon", Disney Channel
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Disney%20Channel.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Cartoon", Cartoon Network
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Cartoon%20Network.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Cartoon", Sony Yay Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20Yay%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Cartoon", Sonic Bangla
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sonic%20Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zoom_TV_logo.svg/512px-Zoom_TV_logo.svg.png" group-title="Cartoon", Zoo Moo
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zoo%20Moo.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aFAN9aKm0OblOr30ROejJCV8rGf.jpg" group-title="Cartoon", Oggy
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Oggy.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zzCZIvKcfPNQ4RbaMIakmC7ISKQ.jpg" group-title="Cartoon", Bantul The Great
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Bantul%20The%20Great.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NTV_%28Bangladesh%29_logo.svg/512px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Cartoon", group-title="Cartoon",RONGEEN TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/group-title%3D%22Cartoon%22%2CRONGEEN%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Toffee", Toffee TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Toffee%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Toffee", Toffee Movies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Toffee%20Movies.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/f030066c-0649-4d82-836f-c85321381d67.png" group-title="Toffee", EPL channel 1
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/EPL%20channel%201.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/26ad6992-9fc5-4254-8374-a99673582577.png" group-title="Toffee", FC | Live 1
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FC%20%7C%20Live%201.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Toffee", WC Match Recap
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/WC%20Match%20Recap.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Toffee", Bijoy TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Bijoy%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Toffee", Global TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Global%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Toffee", Channel S
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Channel%20S.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="Toffee", Rajdhani TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Rajdhani%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Toffee", Bangla TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Bangla%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="Toffee", Channel i
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Channel%20i.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="Toffee", Nexus TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Nexus%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png" group-title="Toffee", Independent TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Independent%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/rYOv_p8BJIOHmUelrnXh/posters/d537453f-7e5b-45f3-9b52-42f6f65950c8.png" group-title="Toffee", Channel News Asia
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Channel%20News%20Asia.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/1YPq_p8BJIOHmUelSHXc/posters/f65b0273-0f23-4b56-93dd-417224369105.png" group-title="Toffee", TRT World
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/TRT%20World.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7oPt_p8BJIOHmUelhXWj/posters/d6328092-9437-4806-8dc7-d00732d56832.png" group-title="Toffee", DW
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DW.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/CNT2_p8BalKyvLQIBSUG/posters/1e937055-a014-4274-bb69-b1b56d18c434.png" group-title="Toffee", Russia Today
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Russia%20Today.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/G4ML_58BJIOHmUelNXZr/posters/becc2fba-4ed5-4f43-af2d-3c1ea2b4ee57.png" group-title="Toffee", France 24
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/France%2024.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DYMI_58BJIOHmUelm3aK/posters/d8436322-804a-47b6-9a3f-62764c4622d5.png" group-title="Toffee", CGTN
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/CGTN.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp" group-title="Toffee", Eurosport HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Eurosport%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/JNQA_58BalKyvLQIhiVD/posters/11e764bf-7969-4dcb-a94c-937a3bde2a7f.png" group-title="Toffee", Saudi Sunnah
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Saudi%20Sunnah.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp" group-title="Toffee", Sony Ten Sports 1 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20Ten%20Sports%201%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png" group-title="Toffee", Sony Ten Sports 2 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20Ten%20Sports%202%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png" group-title="Toffee", Sony Ten Sports 5 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20Ten%20Sports%205%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Toffee", Sony Ten Cricket
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20Ten%20Cricket.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="Toffee", Cartoon Network HD +
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Cartoon%20Network%20HD%20%2B.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png" group-title="Toffee", Zee Anmol
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Anmol.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png" group-title="Toffee", Zing
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zing.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png" group-title="Toffee", HUM
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/HUM.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png" group-title="Toffee", HUM Masala
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/HUM%20Masala.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" group-title="Toffee", HUM Sitaray
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/HUM%20Sitaray.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="Toffee", Sony Entertainment Television HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20Entertainment%20Television%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Toffee", Sony Entertainment Television
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20Entertainment%20Television.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/PS6F-JQBv9knK3AHqjVz/posters/0f83ee72-be0f-4861-94df-30b158d3df8d.webp" group-title="Toffee", B4U Music
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/B4U%20Music.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp" group-title="Toffee", Sony SAB HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20SAB%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ltPQX5UBm1RY_In7b3F1/posters/d039d9df-9877-4969-a0b6-56888ebe2385.png" group-title="Toffee", Zee TV HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20TV%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Toffee", Sony MAX HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20MAX%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png" group-title="Toffee", Zee Bangla Cinema
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Bangla%20Cinema.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png" group-title="Toffee", Zee Bollywood
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Bollywood.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png" group-title="Toffee", Zee Action
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Action.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp" group-title="Toffee", Sony MAX
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20MAX.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Toffee", Sony PIX HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20PIX%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png" group-title="Toffee", Zee Cafe
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Cafe.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp" group-title="Toffee", B4U Movies APAC
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/B4U%20Movies%20APAC.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp" group-title="Toffee", Sony MAX 2
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20MAX%202.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png" group-title="Toffee", Zee Cinema HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Cinema%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7S6j-JQBv9knK3AHbzXC/posters/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp" group-title="Toffee", TLC HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/TLC%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7C6j-JQBv9knK3AHVzUA/posters/e8f84105-5efe-4e91-a0d4-18a0849cf2f2.webp" group-title="Toffee", TLC
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp" group-title="Toffee", Animal Planet HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Animal%20Planet%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="Toffee", Sony BBC Earth HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20BBC%20Earth%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Toffee", Discovery HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Discovery%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Toffee", Discovery
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp" group-title="Toffee", Discovery Science
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Discovery%20Science.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp" group-title="Toffee", Discovery Turbo
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Discovery%20Turbo.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png" group-title="Toffee", Investigation Discovery HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Investigation%20Discovery%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png" group-title="Toffee", &TV HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/%26TV%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png" group-title="Toffee", & Pictures HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/%26%20Pictures%20HD.m3u8
+#EXTINF:-1 tvg-id="AIRTEL_MINIPLEX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_MINIPLEX/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Airtel Special", Airtel Miniplex
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Airtel%20Miniplex.m3u8
+#EXTINF:-1 tvg-id="STAR_UTSAV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Entertainment", Star Utsav
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Utsav.m3u8
+#EXTINF:-1 tvg-id="STAR_BHARAT_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Entertainment", Star Bharat HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Bharat%20HD.m3u8
+#EXTINF:-1 tvg-id="STAR_PLUS_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Entertainment", Star Plus HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Plus%20HD.m3u8
+#EXTINF:-1 tvg-id="SET_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Entertainment", SET HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SET%20HD.m3u8
+#EXTINF:-1 tvg-id="BIG_MAGIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_MAGIC/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Entertainment", Big Magic
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Big%20Magic.m3u8
+#EXTINF:-1 tvg-id="EPIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Entertainment", Epic
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Epic.m3u8
+#EXTINF:-1 tvg-id="DISNEY_INTERNATIONAL_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Entertainment", Disney International HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Disney%20International%20HD.m3u8
+#EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Entertainment", Dangal
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Dangal.m3u8
+#EXTINF:-1 tvg-id="ISHARA_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISHARA_TV/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Entertainment", Ishara TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ishara%20TV.m3u8
+#EXTINF:-1 tvg-id="54" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58022-khxpmalc-v1/imageContent-58022-khxpmalc-m4.png" group-title="AIRTEL🧧Entertainment", The Q
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/The%20Q.m3u8
+#EXTINF:-1 tvg-id="ZEE_MARATHI_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Entertainment", Zee Marathi HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Marathi%20HD.m3u8
+#EXTINF:-1 tvg-id="ETV_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Entertainment", ETV HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ETV%20HD.m3u8
+#EXTINF:-1 tvg-id="GEMINI_TV_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Entertainment", Gemini TV HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Gemini%20TV%20HD.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY_HD_WORLD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_HD_WORLD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Infotainment", Discovery HD World
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Discovery%20HD%20World.m3u8
+#EXTINF:-1 tvg-id="HISTORY_TV18_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Infotainment", History TV18 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/History%20TV18%20HD.m3u8
+#EXTINF:-1 tvg-id="NAT_GEO_WILD_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Infotainment", Nat Geo Wild HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Nat%20Geo%20Wild%20HD.m3u8
+#EXTINF:-1 tvg-id="ZEE_ZEST_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Infotainment", ZEE ZEST HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ZEE%20ZEST%20HD.m3u8
+#EXTINF:-1 tvg-id="NICK_HDSYMPLUS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Kids", NICK HD+
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NICK%20HD%2B.m3u8
+#EXTINF:-1 tvg-id="DISNEY_JUNIOR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Kids", Disney Junior
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Disney%20Junior.m3u8
+#EXTINF:-1 tvg-id="HUNGAMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Kids", HUNGAMA
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/HUNGAMA.m3u8
+#EXTINF:-1 tvg-id="PERMAN_kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ40BGblxkPEXTTm9ei2y2TLok6LsxuyO4_AQ&s" group-title="AIRTEL🧧Kids", PERMAN HINDI
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/PERMAN%20HINDI.m3u8
+#EXTINF:-1 tvg-id="MASHA_AND_BEAR_kid" tvg-logo="https://play-lh.googleusercontent.com/x-0xi5j42U7XuvyoPQBTSjGjA_a8yA_nkgqlgm0VjykuzySBBP9kczwh0YpCRU_x51o=w526-h296-rw" group-title="AIRTEL🧧Kids", MASHA AND BEAR
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MASHA%20AND%20BEAR.m3u8
+#EXTINF:-1 tvg-id="NINJA_HATTORI_kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYvUxQgr_Mr_lGGrYbMWNG2Becq-_iCqnJg&s" group-title="AIRTEL🧧Kids", NINJA HATTORI RETURNS HINDI
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NINJA%20HATTORI%20RETURNS%20HINDI.m3u8
+#EXTINF:-1 tvg-id="NINJA_kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYvUxQgr_Mr_lGGrYbMWNG2Becq-_iCqnJg&s" group-title="AIRTEL🧧Kids", NINJA HATTORI HINDI
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NINJA%20HATTORI%20HINDI.m3u8
+#EXTINF:-1 tvg-id="SHINCHAN_kid" tvg-logo="https://www.partysuppliesindia.com/cdn/shop/products/A1_39_cdd62d5e-1c73-4b7d-a9a6-afa5cf22a7e5.jpg" group-title="AIRTEL🧧Kids", SHINCHAN HINDI
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SHINCHAN%20HINDI.m3u8
+#EXTINF:-1 tvg-id="DORAEMON_kid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJSPyLeBXQstZ_EwDIxE_QmD-i3yLK-5FBg&s" group-title="AIRTEL🧧Kids", DORAEMON HINDI
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DORAEMON%20HINDI.m3u8
+#EXTINF:-1 tvg-id="ACTION_CINEMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Movies", Action Cinema
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Action%20Cinema.m3u8
+#EXTINF:-1 tvg-id="ZEE_CLASSIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Movies", Zee Classic
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Classic.m3u8
+#EXTINF:-1 tvg-id="STAR_UTSAV_MOVIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Movies", STAR UTSAV MOVIES
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/STAR%20UTSAV%20MOVIES.m3u8
+#EXTINF:-1 tvg-id="STAR_GOLD_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Movies", Star Gold HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Gold%20HD.m3u8
+#EXTINF:-1 tvg-id="STAR_GOLD_2_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Movies", Star Gold 2 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Gold%202%20HD.m3u8
+#EXTINF:-1 tvg-id="STAR_GOLD_SELECT_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Movies", Star Gold Select HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Gold%20Select%20HD.m3u8
+#EXTINF:-1 tvg-id="SONY_WAH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Movies", Sony Wah
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20Wah.m3u8
+#EXTINF:-1 tvg-id="STAR_GOLD_THRILLS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Movies", Star Gold Thrills
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Gold%20Thrills.m3u8
+#EXTINF:-1 tvg-id="64" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11091-j95hdiq8-v1/imageContent-11091-j95hdiq8-m1.jpg" group-title="AIRTEL🧧Movies", Zee Anmol Cinema
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Anmol%20Cinema.m3u8
+#EXTINF:-1 tvg-id="MNX_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Movies", MNX HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MNX%20HD.m3u8
+#EXTINF:-1 tvg-id="562" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12093-j9ooixfs-v1/imageContent-12093-j9ooixfs-m1.jpg" group-title="AIRTEL🧧Movies", Movies Now HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Movies%20Now%20HD.m3u8
+#EXTINF:-1 tvg-id="SYMANDFLIX_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Movies", &flix HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/%26flix%20HD.m3u8
+#EXTINF:-1 tvg-id="STAR_GOLD_ROMANCE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Movies", Star Gold Romance
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Gold%20Romance.m3u8
+#EXTINF:-1 tvg-id="SUN_MARATHI_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Movies", Sun Marathi HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sun%20Marathi%20HD.m3u8
+#EXTINF:-1 tvg-id="ZEE_TALKIES_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Movies", Zee Talkies HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Talkies%20HD.m3u8
+#EXTINF:-1 tvg-id="GEMINI_MOVIES_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Movies", Gemini Movies HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Gemini%20Movies%20HD.m3u8
+#EXTINF:-1 tvg-id="UDAYA_MUSIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MUSIC/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Music", Udaya Music
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Udaya%20Music.m3u8
+#EXTINF:-1 tvg-id="SANGEET_MARATHI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Music", Sangeet Marathi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sangeet%20Marathi.m3u8
+#EXTINF:-1 tvg-id="PTC_CHAKDE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Music", PTC Chakde
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/PTC%20Chakde.m3u8
+#EXTINF:-1 tvg-id="RAJ_MUSIX_TELUGU" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Music", Raj Musix Telugu
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Raj%20Musix%20Telugu.m3u8
+#EXTINF:-1 tvg-id="GEMINI_MUSIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MUSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Music", Gemini Music
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Gemini%20Music.m3u8
+#EXTINF:-1 tvg-id="ZEE_BHARAT" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧News", Zee Bharat
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Bharat.m3u8
+#EXTINF:-1 tvg-id="ZEE_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧News", Zee News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20News.m3u8
+#EXTINF:-1 tvg-id="ZEE_RAJASTHAN_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧News", Zee Rajasthan News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Rajasthan%20News.m3u8
+#EXTINF:-1 tvg-id="1380" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/News21_BoxCover-v1/News21_BoxCover.png" group-title="AIRTEL🧧News", News 21
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/News%2021.m3u8
+#EXTINF:-1 tvg-id="RAJ_NEWS_KANNADA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧News", Raj News Kannada
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Raj%20News%20Kannada.m3u8
+#EXTINF:-1 tvg-id="TV9_KANNADA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧News", TV9 Kannada
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/TV9%20Kannada.m3u8
+#EXTINF:-1 tvg-id="SUN_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEWS/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧News", Sun News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sun%20News.m3u8
+#EXTINF:-1 tvg-id="ZEE_24_TAAS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_TAAS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧News", Zee 24 Taas
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%2024%20Taas.m3u8
+#EXTINF:-1 tvg-id="ABP_MAJHA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ABP_MAJHA/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧News", ABP Majha
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ABP%20Majha.m3u8
+#EXTINF:-1 tvg-id="NDTV_INDIA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧News", NDTV India
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NDTV%20India.m3u8
+#EXTINF:-1 tvg-id="1060" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/LIVPU_BoxCover-v1/LIVPU_BoxCover.jpg" group-title="AIRTEL🧧News", Live Punjabi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Live%20Punjabi.m3u8
+#EXTINF:-1 tvg-id="LIVING_INDIA_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_LIVING_INDIA_NEWS/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧News", Living India News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Living%20India%20News.m3u8
+#EXTINF:-1 tvg-id="FM_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FM_NEWS/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧News", FM NEWS
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FM%20NEWS.m3u8
+#EXTINF:-1 tvg-id="NEWS18_PUNJAB_HARYANA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧News", News18 Punjab Haryana
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/News18%20Punjab%20Haryana.m3u8
+#EXTINF:-1 tvg-id="PTC_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧News", PTC News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/PTC%20News.m3u8
+#EXTINF:-1 tvg-id="CVR_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CVR_NEWS/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧News", CVR NEWS1
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/CVR%20NEWS1.m3u8
+#EXTINF:-1 tvg-id="RAJ_NEWS_TELUGU" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TELUGU/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧News", Raj News Telugu
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Raj%20News%20Telugu.m3u8
+#EXTINF:-1 tvg-id="V6_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_V6_NEWS/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧News", V6 NEWS
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/V6%20NEWS.m3u8
+#EXTINF:-1 tvg-id="VANITHA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VANITHA/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧News", Vanitha
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vanitha.m3u8
+#EXTINF:-1 tvg-id="SAKSHI_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧News", Sakshi TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sakshi%20TV.m3u8
+#EXTINF:-1 tvg-id="ALANKAR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", Alankar
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Alankar.m3u8
+#EXTINF:-1 tvg-id="COLORS_KANNADA_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", Colors Kannada HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Kannada%20HD.m3u8
+#EXTINF:-1 tvg-id="COLORS_KANNADA_CINEMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Colors Kannada Cinema
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Kannada%20Cinema.m3u8
+#EXTINF:-1 tvg-id="COLORS_SUPER" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Colors Super
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Super.m3u8
+#EXTINF:-1 tvg-id="425" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11680-j9khxjoo-v1/imageContent-11680-j9khxjoo-m1.jpg" group-title="AIRTEL🧧Regional", Raj Musix
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Raj%20Musix.m3u8
+#EXTINF:-1 tvg-id="STAR_SUVARNA_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Star Suvarna HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Suvarna%20HD.m3u8
+#EXTINF:-1 tvg-id="STAR_SUVARNA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", STAR SUVARNA
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/STAR%20SUVARNA.m3u8
+#EXTINF:-1 tvg-id="UDAYA_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", Udaya HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Udaya%20HD.m3u8
+#EXTINF:-1 tvg-id="UDAYA_COMEDY" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_COMEDY/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", Udaya Comedy
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Udaya%20Comedy.m3u8
+#EXTINF:-1 tvg-id="UDAYA_MOVIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MOVIES/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", UDAYA MOVIES
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/UDAYA%20MOVIES.m3u8
+#EXTINF:-1 tvg-id="DD_CHANDANA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", DD Chandana
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Chandana.m3u8
+#EXTINF:-1 tvg-id="342" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RKANN_BoxCover-v2/RKANN_BoxCover.png" group-title="AIRTEL🧧Regional", R Kannada
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/R%20Kannada.m3u8
+#EXTINF:-1 tvg-id="PUBLIC_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", Public TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Public%20TV.m3u8
+#EXTINF:-1 tvg-id="ZEE_KANNADA_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Zee Kannada HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Kannada%20HD.m3u8
+#EXTINF:-1 tvg-id="COLORS_MARATHI_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Colors Marathi HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Marathi%20HD.m3u8
+#EXTINF:-1 tvg-id="SONY_MARATHI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Sony Marathi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sony%20Marathi.m3u8
+#EXTINF:-1 tvg-id="DD_SAHYADRI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAHYADRI/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", DD Sahyadri
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Sahyadri.m3u8
+#EXTINF:-1 tvg-id="TV9_MARATHI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", TV9 Marathi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/TV9%20Marathi.m3u8
+#EXTINF:-1 tvg-id="192" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-799-j5m7jg34-v2/imageContent-799-j5m7jg34-m2.jpg" group-title="AIRTEL🧧Regional", Fakt Marathi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Fakt%20Marathi.m3u8
+#EXTINF:-1 tvg-id="CHARDIKLA_TIME_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", Chardikla Time TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Chardikla%20Time%20TV.m3u8
+#EXTINF:-1 tvg-id="DD_PUNJABI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_PUNJABI/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", DD Punjabi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Punjabi.m3u8
+#EXTINF:-1 tvg-id="791" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48802-k4m7nz2w-v1/imageContent-48802-k4m7nz2w-m1.jpg" group-title="AIRTEL🧧Regional", Fateh TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Fateh%20TV.m3u8
+#EXTINF:-1 tvg-id="366" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INWPUB_BoxCover-v2/INWPUB_BoxCover.png" group-title="AIRTEL🧧Regional", India News Punjab
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/India%20News%20Punjab.m3u8
+#EXTINF:-1 tvg-id="MH_ONE_SHRADDHA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", MH One Shraddha
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MH%20One%20Shraddha.m3u8
+#EXTINF:-1 tvg-id="PITAARA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", Pitaara
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Pitaara.m3u8
+#EXTINF:-1 tvg-id="PTC_PUNJABI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", PTC Punjabi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/PTC%20Punjabi.m3u8
+#EXTINF:-1 tvg-id="PTC_SIMRAN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_SIMRAN/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", PTC Simran
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/PTC%20Simran.m3u8
+#EXTINF:-1 tvg-id="571" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-68738-kywk7u6g-v1/imageContent-68738-kywk7u6g-m1.png" group-title="AIRTEL🧧Regional", Tata Play Punjab De Rang
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Tata%20Play%20Punjab%20De%20Rang.m3u8
+#EXTINF:-1 tvg-id="ZEE_PUNJAB_HARYANA_HIMACHAL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Zee Punjab Haryana Himachal
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Punjab%20Haryana%20Himachal.m3u8
+#EXTINF:-1 tvg-id="ZEE_PUNJABI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJABI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Zee Punjabi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Punjabi.m3u8
+#EXTINF:-1 tvg-id="BHAKTI_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHAKTI_TV/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", Bhakti TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Bhakti%20TV.m3u8
+#EXTINF:-1 tvg-id="ETV_CINEMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_CINEMA/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", ETV Cinema
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ETV%20Cinema.m3u8
+#EXTINF:-1 tvg-id="GEMINI_COMEDY" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_COMEDY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Gemini Comedy
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Gemini%20Comedy.m3u8
+#EXTINF:-1 tvg-id="STAR_MAA_MOVIES_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Star Maa Movies HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Maa%20Movies%20HD.m3u8
+#EXTINF:-1 tvg-id="STAR_MAA_GOLD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_GOLD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", STAR MAA GOLD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/STAR%20MAA%20GOLD.m3u8
+#EXTINF:-1 tvg-id="STAR_MAA_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", Star MAA HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20MAA%20HD.m3u8
+#EXTINF:-1 tvg-id="497" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11910-j9l58n8w-v2/imageContent-11910-j9l58n8w-m5.jpg" group-title="AIRTEL🧧Regional", VTV News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/VTV%20News.m3u8
+#EXTINF:-1 tvg-id="ETV_PLUS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_PLUS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", ETV PLUS
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ETV%20PLUS.m3u8
+#EXTINF:-1 tvg-id="ZEE_CINEMALU_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Zee Cinemalu HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Cinemalu%20HD.m3u8
+#EXTINF:-1 tvg-id="ZEE_TELUGU_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Zee Telugu HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Telugu%20HD.m3u8
+#EXTINF:-1 tvg-id="GEMINI_LIFE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_LIFE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Gemini Life
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Gemini%20Life.m3u8
+#EXTINF:-1 tvg-id="ETV_LIFE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", ETV Life
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ETV%20Life.m3u8
+#EXTINF:-1 tvg-id="320" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11327-j9jot000-v2/imageContent-11327-j9jot000-m2.jpg" group-title="AIRTEL🧧Regional", TV5 News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/TV5%20News.m3u8
+#EXTINF:-1 tvg-id="266" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17565-jclrkakg-v1/imageContent-17565-jclrkakg-m1.jpg" group-title="AIRTEL🧧Regional", 10 TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/10%20TV.m3u8
+#EXTINF:-1 tvg-id="DD_SAPTAGIRI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", DD Saptagiri
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Saptagiri.m3u8
+#EXTINF:-1 tvg-id="VISSA_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Regional", Vissa TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vissa%20TV.m3u8
+#EXTINF:-1 tvg-id="STAR_MAA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Regional", Star Maa
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Maa.m3u8
+#EXTINF:-1 tvg-id="STAR_SPORTS_1_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Sports", Star Sports 1 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Sports%201%20HD.m3u8
+#EXTINF:-1 tvg-id="STAR_SPORTS_1_HD_HINDI" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Sports", Star Sports 1 HD Hindi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Sports%201%20HD%20Hindi.m3u8
+#EXTINF:-1 tvg-id="STAR_SPORTS_2_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Sports", Star Sports 2 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Sports%202%20HD.m3u8
+#EXTINF:-1 tvg-id="STAR_SPORTS_2_HINDI_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD/images/LOGO_HD/image.png" group-title="AIRTEL🧧Sports", Star Sports 2 Hindi HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Sports%202%20Hindi%20HD.m3u8
+#EXTINF:-1 tvg-id="STAR_SPORTS_3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="AIRTEL🧧Sports", Star Sports 3
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Sports%203.m3u8
+#EXTINF:-1 tvg-id="STAR_SPORTS_SELECT_1_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Sports", Star Sports Select 1 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Sports%20Select%201%20HD.m3u8
+#EXTINF:-1 tvg-id="STAR_SPORTS_SELECT_2_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Sports", Star Sports Select 2 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Sports%20Select%202%20HD.m3u8
+#EXTINF:-1 tvg-id="SONY_SPORTS_TEN_1_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Sports", SONY SPORTS TEN 1 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SONY%20SPORTS%20TEN%201%20HD.m3u8
+#EXTINF:-1 tvg-id="SONY_SPORTS_TEN_2_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Sports", SONY SPORTS TEN 2 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SONY%20SPORTS%20TEN%202%20HD.m3u8
+#EXTINF:-1 tvg-id="464" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11785-j9kynnm0-v3/imageContent-11785-j9kynnm0-m3.jpg" group-title="AIRTEL🧧Sports", SONY SPORTS TEN 3 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SONY%20SPORTS%20TEN%203%20HD.m3u8
+#EXTINF:-1 tvg-id="SONY_SPORTS_TEN_5_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="AIRTEL🧧Sports", SONY SPORTS TEN 5 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SONY%20SPORTS%20TEN%205%20HD.m3u8
+#EXTINF:-1 tvg-id="SPORTS18SYMHYP3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18SYMHYP3/images/LANDSCAPE_169_HD/image.png" group-title="AIRTEL🧧Sports", Star Sports 2 Tamil
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Sports%202%20Tamil.m3u8
+#EXTINF:-1 tvg-id="FUSS_BALL_TV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/2026_FIFA_World_Cup_emblem.svg" group-title="AIRTEL🧧Sports", FussBallTv 1 4K UHD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FussBallTv%201%204K%20UHD.m3u8
+#EXTINF:-1 tvg-id="FUSS_BALL_TV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/2026_FIFA_World_Cup_emblem.svg" group-title="AIRTEL🧧Sports", FussBallTv 2 4K UHD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FussBallTv%202%204K%20UHD.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/2026_FIFA_World_Cup_emblem.svg" group-title="AIRTEL🧧Sports", Fox HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Fox%20HD.m3u8
+#EXTINF:-1 tvg-id="ZEE_CAFE_HD" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png" group-title="AIRTEL🧧Sports", Unite8 Sports 1 Hindi HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Unite8%20Sports%201%20Hindi%20HD.m3u8
+#EXTINF:-1 tvg-id="AND_FLIX_HD" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite2hd_wdpxkw.png" group-title="AIRTEL🧧Sports", Unite8 Sports 2 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Unite8%20Sports%202%20HD.m3u8
+#EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movies", like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",24 Hour Free Movies (720p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/like%20Gecko)%20Chrome%2F145.0.0.0%20Safari%2F537.36%20Edg%2F145.0.0.0%22%20group-title%3D%22Movies%22%2C24%20Hour%20Free%20Movies%20(720p).m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ro@SD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies", Bollywood HD (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Bollywood%20HD%20(1080p).m3u8
+#EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies", Charge! (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Charge!%20(1080p).m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png" group-title="Movies", Colors Cineplex HD (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Cineplex%20HD%20(1080p).m3u8
+#EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment", like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",Colors HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/like%20Gecko)%20Chrome%2F130.0.0.0%20Safari%2F537.36%22%20group-title%3D%22Entertainment%22%2CColors%20HD.m3u8
+#EXTINF:-1 tvg-id="DDNews.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png" group-title="News", DD News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20News.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/like%20Gecko)%20Chrome%2F149.0.0.0%20Safari%2F537.3%22%20group-title%3D%22Kids%22%2CDisney%20Channel.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.hu@SD" tvg-logo="https://i.imgur.com/aOa73uT.png" group-title="Kids", like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/like%20Gecko)%20Chrome%2F130.0.0.0%20Safari%2F537.36%22%20group-title%3D%22Kids%22%2CDisney%20Channel.m3u8
+#EXTINF:-1 tvg-id="ErosUniverseBollywoodCinema.np@SD" tvg-logo="https://ui-avatars.com/api/?name=Eros%20Univers&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Undefined", Eros Universe Bollywood Cinema
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Eros%20Universe%20Bollywood%20Cinema.m3u8
+#EXTINF:-1 tvg-id="ErosUniverseEntertainment.np@SD" tvg-logo="https://ui-avatars.com/api/?name=Eros%20Univers&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Undefined", Eros Universe Entertainment
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Eros%20Universe%20Entertainment.m3u8
+#EXTINF:-1 tvg-id="GreenGoldTV.np@SD" tvg-logo="https://ui-avatars.com/api/?name=Green%20Gold%20T&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Undefined", Green Gold TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Green%20Gold%20TV.m3u8
+#EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALINGA_TV/images/LOGO_HD/image.png" group-title="News", Kalinga TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Kalinga%20TV.m3u8
+#EXTINF:-1 tvg-id="LionsgatePlay.np@HD" tvg-logo="https://ui-avatars.com/api/?name=Lionsgate%20Pl&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Undefined", Lionsgate Play
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Lionsgate%20Play.m3u8
+#EXTINF:-1 tvg-id="MadeInHollywood.us@SD" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Movies", Made in Hollywood
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Made%20in%20Hollywood.m3u8
+#EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" tvg-logo="https://ui-avatars.com/api/?name=Manoranjan%20P&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Entertainment", Manoranjan Prime
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Manoranjan%20Prime.m3u8
+#EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="Movies", Mix Hollywood (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Mix%20Hollywood%20(1080p).m3u8
+#EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies", Movies Thriller (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Movies%20Thriller%20(1080p).m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us@AU" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies", MovieSphere AU (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MovieSphere%20AU%20(1080p).m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us@UK" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies", MovieSphere UK (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MovieSphere%20UK%20(1080p).m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.uk@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies", MyTime Movie Network (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MyTime%20Movie%20Network%20(1080p).m3u8
+#EXTINF:-1 tvg-id="NHBollyFlix.np@SD" tvg-logo="https://ui-avatars.com/api/?name=NH%20BollyFlix&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Undefined", NH BollyFlix
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NH%20BollyFlix.m3u8
+#EXTINF:-1 tvg-id="NHBollyRaga.np@SD" tvg-logo="https://ui-avatars.com/api/?name=NH%20BollyRaga&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Undefined", NH BollyRaga
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NH%20BollyRaga.m3u8
+#EXTINF:-1 tvg-id="OdishaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540" group-title="Culture", Odisha TV (720p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Odisha%20TV%20(720p).m3u8
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies", Paramount Movie Channel
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Paramount%20Movie%20Channel.m3u8
+#EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Movies", Paramount+ Picks
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Paramount%2B%20Picks.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedy.us@CA" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" group-title="Comedy", Pluto TV Comedy
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Pluto%20TV%20Comedy.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRomance.de@DACH" tvg-logo="https://images.pluto.tv/channels/5dc287ce3086a20009f5024c/colorLogoPNG.png" group-title="Movies;Series", Pluto TV Romance
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Pluto%20TV%20Romance.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies", Rakuten Top Movies UK (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Rakuten%20Top%20Movies%20UK%20(1080p).m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies", Rakuten TV Action Movies UK (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Rakuten%20TV%20Action%20Movies%20UK%20(1080p).m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies", Rakuten TV Comedy Movies UK (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Rakuten%20TV%20Comedy%20Movies%20UK%20(1080p).m3u8
+#EXTINF:-1 tvg-id="RevryHer.us@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533646/images/logo_20231219_221435_68.png" group-title="Movies", Revry Her (720p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Revry%20Her%20(720p).m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Universal%20Ac&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Undefined", Universal Action (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Universal%20Action%20(1080p).m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Universal%20Mo&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Undefined", Universal Monsters (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Universal%20Monsters%20(1080p).m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Vevo%20Rock&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Undefined", Vevo Rock
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vevo%20Rock.m3u8
+#EXTINF:-1 tvg-id="ZeeTVCanada.ca@SD" tvg-logo="https://i.imgur.com/mARKUZ9.png" group-title="Undefined", Zee TV Canada (1080p)
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20TV%20Canada%20(1080p).m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBCS_Thumbnail-v1/EKMBCS_Thumbnail.png" group-title="Movies", Baiscope TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Baiscope%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" group-title="News", Ekamra Bharat Odia
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ekamra%20Bharat%20Odia.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Movies", Ekamra Cinema
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ekamra%20Cinema.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Manoranjan.png" group-title="Entertainment", Ekamra Manoranjan
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ekamra%20Manoranjan.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" group-title="Music", Ekamra Musiq
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ekamra%20Musiq.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" group-title="Entertainment", Ekamra Nilach Akra
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ekamra%20Nilach%20Akra.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" group-title="Devotional", Ekamra Paramatma
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ekamra%20Paramatma.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" group-title="Entertainment", Jatra Ekamra
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Jatra%20Ekamra.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" group-title="Entertainment", One Paschima
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/One%20Paschima.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Rang%20Rangoli&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Entertainment", Rang Rangoli
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Rang%20Rangoli.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Sai%20Ekamra&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Devotional", Sai Ekamra
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sai%20Ekamra.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="Business", CNBC TV18 Prime
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/CNBC%20TV18%20Prime.m3u8
+#EXTINF:-1 tvg-id="175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="Devotional", Aastha
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Aastha.m3u8
+#EXTINF:-1 tvg-id="185" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndPicturesHD.png" group-title="Movies", And Pictures HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/And%20Pictures%20HD.m3u8
+#EXTINF:-1 tvg-id="204" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Sports.m3u8
+#EXTINF:-1 tvg-id="248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="Music", MTV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MTV.m3u8
+#EXTINF:-1 tvg-id="279" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="Entertainment", Colors Rishtey
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Rishtey.m3u8
+#EXTINF:-1 tvg-id="413" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemalu.png" group-title="Movies", Zee Cinemalu
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Cinemalu.m3u8
+#EXTINF:-1 tvg-id="440" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9XJalwa.png" group-title="Music", 9X Jalwa
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/9X%20Jalwa.m3u8
+#EXTINF:-1 tvg-id="473" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmol.png" group-title="Entertainment", Anmol TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Anmol%20TV.m3u8
+#EXTINF:-1 tvg-id="528" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png" group-title="Entertainment", DD India
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20India.m3u8
+#EXTINF:-1 tvg-id="533" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="Entertainment", Raj Pariwar
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Raj%20Pariwar.m3u8
+#EXTINF:-1 tvg-id="536" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="Entertainment", DD Madhya Pradesh
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Madhya%20Pradesh.m3u8
+#EXTINF:-1 tvg-id="540" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png" group-title="Entertainment", DD Uttar Pradesh
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Uttar%20Pradesh.m3u8
+#EXTINF:-1 tvg-id="583" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Infotainment", DD Kisan
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Kisan.m3u8
+#EXTINF:-1 tvg-id="594" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional", Aastha Bhajan
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Aastha%20Bhajan.m3u8
+#EXTINF:-1 tvg-id="684" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Movies", Sun Gemini Life
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sun%20Gemini%20Life.m3u8
+#EXTINF:-1 tvg-id="696" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18odia.png" group-title="News", News18 Odia
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/News18%20Odia.m3u8
+#EXTINF:-1 tvg-id="712" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_urdu.png" group-title="Entertainment", DD urdu
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20urdu.m3u8
+#EXTINF:-1 tvg-id="716" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kashir.png" group-title="Entertainment", DD Kashir
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Kashir.m3u8
+#EXTINF:-1 tvg-id="718" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="News", Kanak News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Kanak%20News.m3u8
+#EXTINF:-1 tvg-id="722" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeSarthak.png" group-title="Entertainment", Zee Sarthak
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Sarthak.m3u8
+#EXTINF:-1 tvg-id="729" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="Entertainment", Sun Gemini Comedy
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sun%20Gemini%20Comedy.m3u8
+#EXTINF:-1 tvg-id="737" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music", Raj Music Telugu
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Raj%20Music%20Telugu.m3u8
+#EXTINF:-1 tvg-id="751" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tarang_Music.png" group-title="Music", Tarang Music
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Tarang%20Music.m3u8
+#EXTINF:-1 tvg-id="773" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_Music.png" group-title="Music", Public Music
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Public%20Music.m3u8
+#EXTINF:-1 tvg-id="786" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Music", Kappa TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Kappa%20TV.m3u8
+#EXTINF:-1 tvg-id="866" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Entertainment", Jio Exclusive HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Jio%20Exclusive%20HD.m3u8
+#EXTINF:-1 tvg-id="883" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="Movies", Oscar Movies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Oscar%20Movies.m3u8
+#EXTINF:-1 tvg-id="889" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="Sports", Jio Sports HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Jio%20Sports%20HD.m3u8
+#EXTINF:-1 tvg-id="898" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Music", Sun Gemini Music HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sun%20Gemini%20Music%20HD.m3u8
+#EXTINF:-1 tvg-id="899" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="Movies", Sun Gemini Movies HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sun%20Gemini%20Movies%20HD.m3u8
+#EXTINF:-1 tvg-id="919" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anjan_TV.png" group-title="Entertainment", Anjan TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Anjan%20TV.m3u8
+#EXTINF:-1 tvg-id="962" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="Music", Boogle Bollywood
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Boogle%20Bollywood.m3u8
+#EXTINF:-1 tvg-id="963" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arre.png" group-title="Entertainment", Arre HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Arre%20HD.m3u8
+#EXTINF:-1 tvg-id="1104" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="Movies", Star Movies HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Movies%20HD.m3u8
+#EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Movies", Star Movies Select HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Movies%20Select%20HD.m3u8
+#EXTINF:-1 tvg-id="1145" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music", MTV HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MTV%20HD.m3u8
+#EXTINF:-1 tvg-id="1154" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="Movies", Star Gold 2
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Gold%202.m3u8
+#EXTINF:-1 tvg-id="1158" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment", Colors Infinity HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Infinity%20HD.m3u8
+#EXTINF:-1 tvg-id="1319" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCafeHD.png" group-title="Sports", Unite8 Sports 1 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Unite8%20Sports%201%20HD.m3u8
+#EXTINF:-1 tvg-id="1401" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="Movies", Romedy Now
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Romedy%20Now.m3u8
+#EXTINF:-1 tvg-id="1471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="Infotainment", History TV18
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/History%20TV18.m3u8
+#EXTINF:-1 tvg-id="1481" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Argus_TV.png" group-title="News", Argus News
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Argus%20News.m3u8
+#EXTINF:-1 tvg-id="1598" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="Lifestyle", FTV HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FTV%20HD.m3u8
+#EXTINF:-1 tvg-id="1665" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" group-title="Movies", ETV Cinema HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ETV%20Cinema%20HD.m3u8
+#EXTINF:-1 tvg-id="1834" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment", Green Chillies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Green%20Chillies.m3u8
+#EXTINF:-1 tvg-id="1956" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="Entertainment", Sidharth TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sidharth%20TV.m3u8
+#EXTINF:-1 tvg-id="1957" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_Gold.png" group-title="Movies", Sidharth Gold
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sidharth%20Gold.m3u8
+#EXTINF:-1 tvg-id="1961" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="Entertainment", Shemaroo TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Shemaroo%20TV.m3u8
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports", Star Sports Khel
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Sports%20Khel.m3u8
+#EXTINF:-1 tvg-id="2078" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="Entertainment", Shemaroo Umang
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Shemaroo%20Umang.m3u8
+#EXTINF:-1 tvg-id="2230" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" group-title="Music", Jio Specials HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Jio%20Specials%20HD.m3u8
+#EXTINF:-1 tvg-id="2258" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" group-title="Entertainment", Animax
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Animax.m3u8
+#EXTINF:-1 tvg-id="2751" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" group-title="Music", Saga Music Haryanvi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Saga%20Music%20Haryanvi.m3u8
+#EXTINF:-1 tvg-id="2753" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music", YRF Music
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/YRF%20Music.m3u8
+#EXTINF:-1 tvg-id="2774" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Power_Kids_TV.png" group-title="Kids", Power Kids TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Power%20Kids%20TV.m3u8
+#EXTINF:-1 tvg-id="2779" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Sports", Red Bull TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Red%20Bull%20TV.m3u8
+#EXTINF:-1 tvg-id="2854" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" group-title="Entertainment", KCM
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/KCM.m3u8
+#EXTINF:-1 tvg-id="2917" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_Gold.png" group-title="Devotional", Sadhna Gold
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Sadhna%20Gold.m3u8
+#EXTINF:-1 tvg-id="3028" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHStyle_Icon.png" group-title="Entertainment", BH OTT India Fest
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/BH%20OTT%20India%20Fest.m3u8
+#EXTINF:-1 tvg-id="3069" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Captain.png" group-title="Entertainment", Captain
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Captain.m3u8
+#EXTINF:-1 tvg-id="3074" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrfgn.png" group-title="Music", Shemaroo Filmy Gaane
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Shemaroo%20Filmy%20Gaane.m3u8
+#EXTINF:-1 tvg-id="3075" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png" group-title="Movies", Shemaroo Bollywood
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Shemaroo%20Bollywood.m3u8
+#EXTINF:-1 tvg-id="3143" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahaa_Max.png" group-title="Entertainment", Mahaa Max
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Mahaa%20Max.m3u8
+#EXTINF:-1 tvg-id="3231" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Apex_Entertainment.png" group-title="Entertainment", Apex Entertainment
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Apex%20Entertainment.m3u8
+#EXTINF:-1 tvg-id="3267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Kiran.png" group-title="Entertainment", Star Kiran
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Kiran.m3u8
+#EXTINF:-1 tvg-id="3338" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" group-title="Movies", NH BollyGold
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NH%20BollyGold.m3u8
+#EXTINF:-1 tvg-id="3356" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png" group-title="Movies", Rock TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Rock%20TV.m3u8
+#EXTINF:-1 tvg-id="3382" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png" group-title="Entertainment", EPIC TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/EPIC%20TV.m3u8
+#EXTINF:-1 tvg-id="3383" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png" group-title="Entertainment", Epic Bharat
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Epic%20Bharat.m3u8
+#EXTINF:-1 tvg-id="3385" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" group-title="Kids", Epic Kids
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Epic%20Kids.m3u8
+#EXTINF:-1 tvg-id="3533" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png" group-title="Entertainment", Dice Media
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Dice%20Media.m3u8
+#EXTINF:-1 tvg-id="3534" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/fltrcopy.png" group-title="Entertainment", FilterCopy
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FilterCopy.m3u8
+#EXTINF:-1 tvg-id="3559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Music.png" group-title="Music", ETV Music
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ETV%20Music.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="https://ui-avatars.com/api/?name=Manoranjan%20G&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Manoranjan Grand
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Manoranjan%20Grand.m3u8
+#EXTINF:-1 tvg-id="21" tvg-logo="https://ui-avatars.com/api/?name=Shemaroo%20Jos&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Shemaroo Josh
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Shemaroo%20Josh.m3u8
+#EXTINF:-1 tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NTV_%28Bangladesh%29_logo.svg/512px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Live", Manoranjan TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Manoranjan%20TV.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="https://ui-avatars.com/api/?name=Colors%20Infin&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Colors Infinity
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Colors%20Infinity.m3u8
+#EXTINF:-1 tvg-id="46" tvg-logo="https://ui-avatars.com/api/?name=Goldmines%202&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Goldmines 2
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Goldmines%202.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo="https://ui-avatars.com/api/?name=Manoranjan%20M&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Manoranjan Movies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Manoranjan%20Movies.m3u8
+#EXTINF:-1 tvg-id="48" tvg-logo="https://ui-avatars.com/api/?name=Maha%20Movie&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Maha Movie
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Maha%20Movie.m3u8
+#EXTINF:-1 tvg-id="52" tvg-logo="https://ui-avatars.com/api/?name=Goldmines%20Bo&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Goldmines Bollywood
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Goldmines%20Bollywood.m3u8
+#EXTINF:-1 tvg-id="54" tvg-logo="https://ui-avatars.com/api/?name=All%20Time%20Mov&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", All Time Movies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/All%20Time%20Movies.m3u8
+#EXTINF:-1 tvg-id="117" tvg-logo="https://ui-avatars.com/api/?name=DD%20News%20HD&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", DD News HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20News%20HD.m3u8
+#EXTINF:-1 tvg-id="119" tvg-logo="https://ui-avatars.com/api/?name=DD%20India%20HD&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", DD India HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20India%20HD.m3u8
+#EXTINF:-1 tvg-id="166" tvg-logo="https://ui-avatars.com/api/?name=Divya&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Divya
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Divya.m3u8
+#EXTINF:-1 tvg-id="213" tvg-logo="https://ui-avatars.com/api/?name=Studio%20One%20P&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Studio One Plus
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Studio%20One%20Plus.m3u8
+#EXTINF:-1 tvg-id="257" tvg-logo="https://ui-avatars.com/api/?name=Anmol%20Cinema&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Anmol Cinema 2
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Anmol%20Cinema%202.m3u8
+#EXTINF:-1 tvg-id="271" tvg-logo="https://ui-avatars.com/api/?name=Anmol%20Cinema&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Anmol Cinema
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Anmol%20Cinema.m3u8
+#EXTINF:-1 tvg-id="280" tvg-logo="https://ui-avatars.com/api/?name=DD%20Sports%20HD&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", DD Sports HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Sports%20HD.m3u8
+#EXTINF:-1 tvg-id="332" tvg-logo="https://ui-avatars.com/api/?name=FTV&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", FTV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FTV.m3u8
+#EXTINF:-1 tvg-id="384" tvg-logo="https://ui-avatars.com/api/?name=DD%20Odia&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", DD Odia
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Odia.m3u8
+#EXTINF:-1 tvg-id="469" tvg-logo="https://ui-avatars.com/api/?name=Epic%20Music&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Epic Music
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Epic%20Music.m3u8
+#EXTINF:-1 tvg-id="576" tvg-logo="https://ui-avatars.com/api/?name=DD%20Uttarakha&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", DD Uttarakhand
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Uttarakhand.m3u8
+#EXTINF:-1 tvg-id="577" tvg-logo="https://ui-avatars.com/api/?name=DD%20Chhattisg&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", DD Chhattisgarh
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20Chhattisgarh.m3u8
+#EXTINF:-1 tvg-id="583" tvg-logo="https://ui-avatars.com/api/?name=MoviePlex&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", MoviePlex
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MoviePlex.m3u8
+#EXTINF:-1 tvg-id="584" tvg-logo="https://ui-avatars.com/api/?name=Goldmines%20Ac&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Goldmines Action
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Goldmines%20Action.m3u8
+#EXTINF:-1 tvg-id="628" tvg-logo="https://ui-avatars.com/api/?name=Vedic&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Vedic
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vedic.m3u8
+#EXTINF:-1 tvg-id="631" tvg-logo="https://ui-avatars.com/api/?name=Subharti%20TV&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Subharti TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Subharti%20TV.m3u8
+#EXTINF:-1 tvg-id="667" tvg-logo="https://ui-avatars.com/api/?name=MBC%20TV&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", MBC TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MBC%20TV.m3u8
+#EXTINF:-1 tvg-id="708" tvg-logo="https://ui-avatars.com/api/?name=Pasand%20TV&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Pasand TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Pasand%20TV.m3u8
+#EXTINF:-1 tvg-id="709" tvg-logo="https://ui-avatars.com/api/?name=Rengoni&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", Rengoni
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Rengoni.m3u8
+#EXTINF:-1 tvg-id="771" tvg-logo="https://ui-avatars.com/api/?name=7S%20Music&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Live", 7S Music
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/7S%20Music.m3u8
+#EXTINF:-1 tvg-id="CAAJ40000077N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ40000077N_20260701T010156SQUARE.png" group-title="Live", FilmRise Free Movies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FilmRise%20Free%20Movies.m3u8
+#EXTINF:-1 tvg-id="CAAJ2700014EE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20260421T140944SQUARE.png" group-title="Live", FilmRise Action
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FilmRise%20Action.m3u8
+#EXTINF:-1 tvg-id="CAAJ27000159K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000159K_20251125T191326SQUARE.png" group-title="Live", FilmRise Western
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FilmRise%20Western.m3u8
+#EXTINF:-1 tvg-id="CAAJ2700008QA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700008QA_20251125T191321SQUARE.png" group-title="Live", FilmRise Classic TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FilmRise%20Classic%20TV.m3u8
+#EXTINF:-1 tvg-id="CAAJ27000079E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000079E_20260421T140937SQUARE.png" group-title="Live", FilmRise True Crime
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FilmRise%20True%20Crime.m3u8
+#EXTINF:-1 tvg-id="CABA3700001DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700001DB_20260804T045940SQUARE.png" group-title="Live", Always Funny Videos
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Always%20Funny%20Videos.m3u8
+#EXTINF:-1 tvg-id="CABD1700002R4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20260707T040110SQUARE.png" group-title="Live", Conan O'Brien TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Conan%20O'Brien%20TV.m3u8
+#EXTINF:-1 tvg-id="CA35000044I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000044I_20260303T094706SQUARE.png" group-title="Live", FilmRise Horror
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FilmRise%20Horror.m3u8
+#EXTINF:-1 tvg-id="CABD1200038NZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20260512T070156SQUARE.png" group-title="Live", XITE Hits
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/XITE%20Hits.m3u8
+#EXTINF:-1 tvg-id="CABB2600018T4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20260512T070154SQUARE.png" group-title="Live", XITE 90s Throwback
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/XITE%2090s%20Throwback.m3u8
+#EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20260609T034546SQUARE.png" group-title="Live", XITE Summer
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/XITE%20Summer.m3u8
+#EXTINF:-1 tvg-id="CABB2600004RZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600004RZ_20260421T140500SQUARE.png" group-title="Live", XITE Just Chill
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/XITE%20Just%20Chill.m3u8
+#EXTINF:-1 tvg-id="CABC52000165E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20260303T094846SQUARE.png" group-title="Live", Vevo Country
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vevo%20Country.m3u8
+#EXTINF:-1 tvg-id="CABC52000180Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20260303T094849SQUARE.png" group-title="Live", Vevo Pop
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vevo%20Pop.m3u8
+#EXTINF:-1 tvg-id="ESBD230000289" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png" group-title="Live", Vevo Retro
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vevo%20Retro.m3u8
+#EXTINF:-1 tvg-id="GBBC2300002GG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20260622T064035SQUARE.png" group-title="Live", America's Got Talent
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/America's%20Got%20Talent.m3u8
+#EXTINF:-1 tvg-id="GBBC2300001X5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20260528T054034SQUARE.png" group-title="Live", American Idol
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/American%20Idol.m3u8
+#EXTINF:-1 tvg-id="GB800002OP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB800002OP_20260407T040228SQUARE.png" group-title="Live", &TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/%26TV.m3u8
+#EXTINF:-1 tvg-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Live", Vevo '90s & '00s
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vevo%20'90s%20%26%20'00s.m3u8
+#EXTINF:-1 tvg-id="IN38000072R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260805T004037SQUARE.png" group-title="Live", The Movie Club
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/The%20Movie%20Club.m3u8
+#EXTINF:-1 tvg-id="IN40000100Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260805T004043SQUARE.png" group-title="Live", The Movie Club+2
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/The%20Movie%20Club%2B2.m3u8
+#EXTINF:-1 tvg-id="IN21000014R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20260623T013323SQUARE.png" group-title="Live", Zee Cine Classic
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Cine%20Classic.m3u8
+#EXTINF:-1 tvg-id="IN2100005T2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100005T2_20260623T013351SQUARE.png" group-title="Live", Zee South Flix
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20South%20Flix.m3u8
+#EXTINF:-1 tvg-id="IN3800010SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20260623T015040SQUARE.png" group-title="Live", Hollywood Desi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Hollywood%20Desi.m3u8
+#EXTINF:-1 tvg-id="IN2100002GD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260701T005108SQUARE.png" group-title="Live", Zee Comedy Nation
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Comedy%20Nation.m3u8
+#EXTINF:-1 tvg-id="IN3600006RT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20260623T014707SQUARE.png" group-title="Live", Comedy King
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Comedy%20King.m3u8
+#EXTINF:-1 tvg-id="IN2100003OJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100003OJ_20260805T004056SQUARE.png" group-title="Live", Zee Dil Se
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Dil%20Se.m3u8
+#EXTINF:-1 tvg-id="IN2100004C4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100004C4_20260623T013340SQUARE.png" group-title="Live", Zee Horror Nights
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Zee%20Horror%20Nights.m3u8
+#EXTINF:-1 tvg-id="IN3800002VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20260623T013409SQUARE.png" group-title="Live", The Lallantop
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/The%20Lallantop.m3u8
+#EXTINF:-1 tvg-id="IN4600009F9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20260623T015044SQUARE.png" group-title="Live", Hooray Kids
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Hooray%20Kids.m3u8
+#EXTINF:-1 tvg-id="IN4600007TC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20260623T015050SQUARE.png" group-title="Live", Hooray Rhymes
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Hooray%20Rhymes.m3u8
+#EXTINF:-1 tvg-id="IN1600009NL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20260805T003957SQUARE.png" group-title="Live", HISTORY TV18 - Hindi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/HISTORY%20TV18%20-%20Hindi.m3u8
+#EXTINF:-1 tvg-id="USBB3200030CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20260421T133614SQUARE.png" group-title="Live", Universal Movies
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Universal%20Movies.m3u8
+#EXTINF:-1 tvg-id="US18000133I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000133I_20260707T035813SQUARE.png" group-title="Live", E! Keeping Up
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/E!%20Keeping%20Up.m3u8
+#EXTINF:-1 tvg-id="US3500004M7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500004M7_20260421T142034SQUARE.png" group-title="Live", FilmRise Anime
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/FilmRise%20Anime.m3u8
+#EXTINF:-1 tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20260303T094208SQUARE.png" group-title="Live", Vevo '90s
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vevo%20'90s.m3u8
+#EXTINF:-1 tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20260303T094214SQUARE.png" group-title="Live", Vevo 2K
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vevo%202K.m3u8
+#EXTINF:-1 tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20260303T094211SQUARE.png" group-title="Live", Vevo 2010s
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vevo%202010s.m3u8
+#EXTINF:-1 tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20260303T094219SQUARE.png" group-title="Live", Vevo Hip-Hop
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Vevo%20Hip-Hop.m3u8
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://i.ibb.co/vCyZF28R/SET-LOGO-HD.png" group-title="âSONYLIVâ", SONY TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SONY%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Live", & Pictures
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/%26%20Pictures.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="âHINDI MOVIESâ", fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="âHINDI MOVIESâ", Zing
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/fl_lossy%2Cq_auto%2Ch_250%2Cw_250%2Fhttps%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-11993-j9luua9c-v1%2FimageContent-11993-j9luua9c-m1.png%22%20group-title%3D%22%C3%A2%C2%94%C2%83HINDI%20MOVIES%C3%A2%C2%94%C2%83%22%2C%20Zing.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="âHINDIâ", fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="âHINDIâ", Zee Anmol
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/fl_lossy%2Cq_auto%2Ch_250%2Cw_250%2Fhttps%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-11969-j9luigc0-v2%2FimageContent-11969-j9luigc0-m2.png%22%20group-title%3D%22%C3%A2%C2%94%C2%83HINDI%C3%A2%C2%94%C2%83%22%2C%20Zee%20Anmol.m3u8
+#EXTINF:-1 tvg-id="EvergreenClassic.in" tvg-logo="https://i.ibb.co/Bz2xw1n/unnamed.png" group-title="âHINDI MOVIESâ", EVERGREEN CLASSIC
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/EVERGREEN%20CLASSIC.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bz2xw1n/unnamed.png" group-title="âHINDI MOVIESâ", Tata Play Classic Tv
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Tata%20Play%20Classic%20Tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j7DGj2S/images-22.jpg" group-title="âHINDI ENTERTAINMENTâ", Ishara
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Ishara.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zV2Yw2z1/channels4-profile.jpg" group-title="âHINDI ENTERTAINMENTâ", NAZARA
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NAZARA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dwnfZn5X/images-25.jpg" group-title="âHINDI ENTERTAINMENTâ", group-title="âHINDI ENTERTAINMENTâ" ,SHEMAROO TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/group-title%3D%22%C3%A2%C2%94%C2%83HINDI%20ENTERTAINMENT%C3%A2%C2%94%C2%83%22%20%2CSHEMAROO%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39WJ28Nq/star-sports-1-hindi-500x500.webp" group-title="âSPORTSâ", Star Sports 1 Hindi
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Star%20Sports%201%20Hindi.m3u8
+#EXTINF:-1 tvg-id="1985" tvg-logo="https://i.ibb.co/Nn9s6HvH/images-34.jpg" group-title="âSPORTSâ", group-title="âSPORTSâ" ,DD SPORTS 1.0
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/group-title%3D%22%C3%A2%C2%94%C2%83SPORTS%C3%A2%C2%94%C2%83%22%20%2CDD%20SPORTS%201.0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Rvb05K1/channels4-profile-1.jpg" group-title="âORIYA SDâ", Nandighosha TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Nandighosha%20TV.m3u8
+#EXTINF:-1 tvg-id="ts1207" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMMNR_Thumbnail-v1/EKMMNR_Thumbnail.png" group-title="âORIYA SDâ", fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMMNR_Thumbnail-v1/EKMMNR_Thumbnail.png" group-title="âORIYA SDâ",Ekamra Manoranjan
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/fl_lossy%2Cq_auto%2Ch_250%2Cw_250%2Fhttps%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FEKMMNR_Thumbnail-v1%2FEKMMNR_Thumbnail.png%22%20group-title%3D%22%C3%A2%C2%94%C2%83ORIYA%20SD%C3%A2%C2%94%C2%83%22%2CEkamra%20Manoranjan.m3u8
+#EXTINF:-1 tvg-id="ts1198" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMCYN_Thumbnail-v1/EKMCYN_Thumbnail.png" group-title="âORIYA SDâ", fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMCYN_Thumbnail-v1/EKMCYN_Thumbnail.png" group-title="âORIYA SDâ",Ekamra Cinema
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/fl_lossy%2Cq_auto%2Ch_250%2Cw_250%2Fhttps%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FEKMCYN_Thumbnail-v1%2FEKMCYN_Thumbnail.png%22%20group-title%3D%22%C3%A2%C2%94%C2%83ORIYA%20SD%C3%A2%C2%94%C2%83%22%2CEkamra%20Cinema.m3u8
+#EXTINF:-1 tvg-id="ts1196" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBHO_Thumbnail-v1/EKMBHO_Thumbnail.png" group-title="âORIYA SDâ", fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBHO_Thumbnail-v1/EKMBHO_Thumbnail.png"group-title="âORIYA SDâ" ,Ekamra Bharat Odia
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/fl_lossy%2Cq_auto%2Ch_250%2Cw_250%2Fhttps%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FEKMBHO_Thumbnail-v1%2FEKMBHO_Thumbnail.png%22group-title%3D%22%C3%A2%C2%94%C2%83ORIYA%20SD%C3%A2%C2%94%C2%83%22%20%2CEkamra%20Bharat%20Odia.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LzWbY9wb/images-1.png" group-title="âORIYA SDâ", TARANG TV
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/TARANG%20TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spbwnyVj/b37f9c88d6bc2b2288a0f2140569a112.jpg" group-title="âBHOJPURIâ", Dabangg
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/Dabangg.m3u8
+#EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://i.ibb.co/vCy2jyCd/CTQ28-Lp-WEAABE41.png" group-title="âENGLISHâ", tvg-id="NoEPG" tvg-logo="https://i.ibb.co/vCy2jyCd/CTQ28-Lp-WEAABE41.png" tvg-name="Movies Now"  group-title="âENGLISHâ", Movies Now
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/tvg-id%3D%22NoEPG%22%20tvg-logo%3D%22https%3A%2F%2Fi.ibb.co%2FvCy2jyCd%2FCTQ28-Lp-WEAABE41.png%22%20tvg-name%3D%22Movies%20Now%22%20%20group-title%3D%22%C3%A2%C2%94%C2%83ENGLISH%C3%A2%C2%94%C2%83%22%2C%20Movies%20Now.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMB8Wf5g/images.png" group-title="âEKTV DISHTVâ", DD NATIONAL
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DD%20NATIONAL.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMB8Wf5g/images.png" group-title="âEKTV DISHTVâ", NAXATRA NEWS
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NAXATRA%20NEWS.m3u8
+#EXTINF:-1 tvg-id="SAB.HD." tvg-logo="https://wallpapers.com/images/hd/sony-sab-television-channel-logo-zer5x8nmlbgnbujk.jpg" group-title="âTATA PLAY PREMIUMâ", SAB HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SAB%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7b38e4f12ac8a22b416f2c15029921cb.png" group-title="âTATA PLAY PREMIUMâ", DIsney Channel HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/DIsney%20Channel%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="âAIRTEL-X-STREAMâ", ZEE BOLLYBOOD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ZEE%20BOLLYBOOD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="âAIRTEL-X-STREAMâ", SONY SPORTS TEN 4 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SONY%20SPORTS%20TEN%204%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="âAIRTEL-X-STREAMâ", SONY ENTERTAINMENT HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SONY%20ENTERTAINMENT%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="âAIRTEL-X-STREAMâ", NICK HD PLUS
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NICK%20HD%20PLUS.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="âAIRTEL-X-STREAMâ", NATIONAL GEO WILD HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NATIONAL%20GEO%20WILD%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="âAIRTEL-X-STREAMâ", EPIC PARIVAAR
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/EPIC%20PARIVAAR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="âAIRTEL-X-STREAMâ", SUN GEMINI TV HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SUN%20GEMINI%20TV%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="âAIRTEL-X-STREAMâ", MINIPLEX HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MINIPLEX%20HD.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", EROSNOW HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/EROSNOW%20HD.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", ALT BALAJI HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ALT%20BALAJI%20HD.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", ZEE5 HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/ZEE5%20HD.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", NETFLIX HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/NETFLIX%20HD.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", MXPLAYER HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/MXPLAYER%20HD.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", HOTSTAR HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/HOTSTAR%20HD.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", SONYLIV HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/SONYLIV%20HD.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png" group-title="âPREIMUM OTTâ", AMAZON HD
+#EXTVLCOPT:http-referrer=https://bdixiptvbd.com/
+https://toffe-scraper.up.railway.app/api/play/AMAZON%20HD.m3u8
