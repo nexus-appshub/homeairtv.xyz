@@ -168,10 +168,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjg5cvnVMmZ1AvphNTIEZIbMjfF8RznUxPAHiG-9glnUUtqDkdtZ4E18BAH2FuRnwfLQ-R7BCLNtotKXQ4KiEqoIyusbPOBfTIJlJILMRLNIVoPqWNADlcyc9A6fdteSQDuVlFH51P885seQizhb4Q1mUVfCRz87GZMut5ziPK6l4wlVyXzAgtuGcjJScbw" group-title="Entertainment", Jalsha Movies
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
- 
+https://toffe-scraper.up.railway.app/api/play/Jalsha%20Movies.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5m9yGNnqjxKSwhExMYy6yfu5I5_h9nZ_5qLPVYz8sm_eoFIHhtpV_S_L-SDEBS_AZ-2TAFdI9nmHk4058Nl9Na3Htt2oBOOYxgzwfgUsZtKLHUWAmOeck0_GGr2hfXAyI_ebwPioyUY7k9fl2pSnTJbRbjmjz3USqa1rGjgvIl6LHRcsO7Qc8aDOOs3CN" group-title="Entertainment", Star Plus
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
- 
+https://toffe-scraper.up.railway.app/api/play/Star%20Plus.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/66.png" group-title="Entertainment", COLORS BANGLA
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/COLORS%20BANGLA.m3u8
@@ -192,14 +192,17 @@ https://toffe-scraper.up.railway.app/api/play/Discovery%20Bangla.m3u8
 https://toffe-scraper.up.railway.app/api/play/National%20Geographic.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pCXvxyz/20240823_022553.png" group-title="Movies", Star Gold
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
+https://toffe-scraper.up.railway.app/api/play/Star%20Gold.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg_J2N2bl6PhBZ_VxfDxMJaj6r2y3vMXFF8daMYNqH8RGSx0t9E93MVH4ddcnISgZCcP8NUip9HcONtzYxtBNLh5GYA8L46QPL-07L5Hfh2F1-ZvkJiBsYcgfaZiujvAAj2gz6buLA9m3D-Rt2QamODzfWVl5i1X7f-OXKOKRo4AZfktDTEciHqPSu2tIMw" group-title="Entertainment", Star Gold 2
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/Star%20Gold%202.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfEjh2jabLKHxc4dDA_yHDC3NoJkmsrrCMxyadqFkGZGdd8AON5typmuDVsZCLBl9TLjeYhkyfV7eVz0kiQ4wgl10B6gEg6pwR6Yk_2QBAm-X2BYPH0RrkleBz9cV8k-EYf4hEQynj194rX5stXOJ3hzQ-oP3AqI73BLx_yIFZdelBvmjaw6moGmPu0uLG" group-title="Kids", HungamaTV
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
- #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/starmovies.png" group-title="Movies", Star Movies
+https://toffe-scraper.up.railway.app/api/play/HungamaTV.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/starmovies.png" group-title="Movies", Star Movies
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
- 
+https://toffe-scraper.up.railway.app/api/play/Star%20Movies.m3u8
+
 
 #EXTINF:-1 tvg-id="019de785-3993-7ccc-8bc0-184c2c761c69" tvg-name="Thikana" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b9a8bdbfcea2fb4656204d06f615682a_playmist_thikana400x400.jpg" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
