@@ -171,7 +171,7 @@ http://202.70.146.135:8000/play/a04p/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Family",Zee Bangla HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/JALSHA.MOVIES.HD1787247417.png?v=1" group-title="Bangla", JALSHA MOVIES HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/JALSHA.MOVIES.HD1787247417.png?v=1" group-title="Movies", JALSHA MOVIES HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/JALSHA%20MOVIES%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5m9yGNnqjxKSwhExMYy6yfu5I5_h9nZ_5qLPVYz8sm_eoFIHhtpV_S_L-SDEBS_AZ-2TAFdI9nmHk4058Nl9Na3Htt2oBOOYxgzwfgUsZtKLHUWAmOeck0_GGr2hfXAyI_ebwPioyUY7k9fl2pSnTJbRbjmjz3USqa1rGjgvIl6LHRcsO7Qc8aDOOs3CN" group-title="Family", Star Plus
@@ -181,10 +181,10 @@ https://toffe-scraper.up.railway.app/api/play/Star%20Plus.m3u8
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/COLORS%20BANGLA.m3u8
 #=============00============
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Colors%20Bangla1664976841.png?v=1" group-title="Bangla", COLORS BANGLA HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Colors%20Bangla1664976841.png?v=1" group-title="Family", COLORS BANGLA HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/COLORS%20BANGLA%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CloursBangla1787280897.png?v=1" group-title="Bangla", Colors HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CloursBangla1787280897.png?v=1" group-title="Family", Colors HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/CloursBangla.m3u8
 
@@ -209,13 +209,13 @@ https://toffe-scraper.up.railway.app/api/play/National%20Geographic.m3u8
 https://toffe-scraper.up.railway.app/api/play/Star%20Gold.m3u8
 
 =======
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.GOLD.HD1787247495.png?v=1" group-title="Hindi", STAR GOLD HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.GOLD.HD1787247495.png?v=1" group-title="Movies", STAR GOLD HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20GOLD%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%20SELECT%20HD1745043508.png?v=1" group-title="Hindi", STAR GOLD SEL HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%20SELECT%20HD1745043508.png?v=1" group-title="Movies", STAR GOLD SEL HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20GOLD%20SEL%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%202%20HD1745043441.png?v=1" group-title="Hindi", STAR GOLD2 HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%202%20HD1745043441.png?v=1" group-title="Movies", STAR GOLD2 HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20GOLD2%20HD.m3u8
 ========
@@ -231,7 +231,7 @@ https://toffe-scraper.up.railway.app/api/play/HungamaTV.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="Kids", SUPER HUNGAMA
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SUPER%20HUNGAMA.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONIC1787249865.png?v=1" group-title="Kids", SONIC
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONIC1787249865.png?v=1" group-title="Family", SONIC
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SONIC.m3u8
 ======
@@ -241,10 +241,10 @@ https://toffe-scraper.up.railway.app/api/play/SONIC.m3u8
 https://toffe-scraper.up.railway.app/api/play/Star%20Movies.m3u8
 
 ======
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.HD1787277311.png?v=1" group-title="English", STAR MOVIES HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.HD1787277311.png?v=1" group-title="Movies", STAR MOVIES HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20MOVIES%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.SEL.HD1787277362.png?v=1" group-title="English", STAR MOVIES SEL HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.SEL.HD1787277362.png?v=1" group-title="Movies", STAR MOVIES SEL HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20MOVIES%20SEL%20HD.m3u8
 
@@ -1094,97 +1094,97 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
 #=============111111=========================================================
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/guides/bd.epg.xml"
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/9XM_logo.svg/512px-9XM_logo.svg.png" group-title="Others", 9XM MUSIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/9XM_logo.svg/512px-9XM_logo.svg.png" group-title="Teens", 9XM MUSIC
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/9XM%20MUSIC.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/A.SPORTS.HD1787251107.png?v=1" group-title="Sports", A SPORTS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/A%20SPORTS%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ALJAZEERA.HD1787251303.png?v=1" group-title="English", ALJAZEERA HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ALJAZEERA.HD1787251303.png?v=1" group-title="Family", ALJAZEERA HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ALJAZEERA%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/AND%20FLIX%20HD1745040018.png?v=1" group-title="English", AND FLIX HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/AND%20FLIX%20HD1745040018.png?v=1" group-title="Family", AND FLIX HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/AND%20FLIX%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/AND.PRIVE.HD1787249363.png?v=1" group-title="English", AND PRIVE HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/AND.PRIVE.HD1787249363.png?v=1" group-title="Family", AND PRIVE HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/AND%20PRIVE%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ANIMAL.PLANET.HD1787247856.png?v=1" group-title="English", ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ANIMAL.PLANET.HD1787247856.png?v=1" group-title="Family", ANIMAL PLANET HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ANIMAL%20PLANET%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ANT.PICTURS.HD1787247141.png?v=1" group-title="Hindi", ANT PICTURS HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ANT.PICTURS.HD1787247141.png?v=1" group-title="Family", ANT PICTURS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ANT%20PICTURS%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ATN.BANGLA.HD1787251520.png?v=1" group-title="Bangla", ATN BANGLA HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ATN.BANGLA.HD1787251520.png?v=1" group-title="Family", ATN BANGLA HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ATN%20BANGLA%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ATN.NEWS.HD1787250789.png?v=1" group-title="Bangla", ATN NEWS HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ATN.NEWS.HD1787250789.png?v=1" group-title="News", ATN NEWS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ATN%20NEWS%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/AXN%20HD1745045171.png?v=1" group-title="English", AXN HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/AXN%20HD1745045171.png?v=1" group-title="Family", AXN HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/AXN%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/BBC.Earth.HD1787251963.png?v=1" group-title="English", BBC Earth HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/BBC.Earth.HD1787251963.png?v=1" group-title="International", BBC Earth HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/BBC%20Earth%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BBC%20NEWS&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Others", BBC NEWS
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BBC%20NEWS&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="News", BBC NEWS
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/BBC%20NEWS.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/BOISHAKHI1787201225.png?v=1" group-title="Bangla", BOISHAKHI
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/BOISHAKHI1787201225.png?v=1" group-title="Family", BOISHAKHI
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/BOISHAKHI.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/BTV_HD1787200850.png?v=1" group-title="Bangla", BTV HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/BTV_HD1787200850.png?v=1" group-title="Family", BTV HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/BTV%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CARTOON_NETW1787203454.png?v=1" group-title="Kids", Cartoon Network
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/Cartoon%20Network.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CHANNEL.24.HD1787251435.png?v=1" group-title="Bangla", CHANNEL 24 HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CHANNEL.24.HD1787251435.png?v=1" group-title="Family", CHANNEL 24 HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/CHANNEL%2024%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CHANNEL.I.HD1787251478.png?v=1" group-title="Bangla", CHANNEL I HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CHANNEL.I.HD1787251478.png?v=1" group-title="Family", CHANNEL I HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/CHANNEL%20I%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/COLORS.BANGLA.CINEMA1787250010.png?v=1" group-title="Bangla", COLORS BANGLA CINEMA
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/COLORS.BANGLA.CINEMA1787250010.png?v=1" group-title="Movies", COLORS BANGLA CINEMA
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/COLORS%20BANGLA%20CINEMA.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Colors%20Bangla1664976841.png?v=1" group-title="Bangla", COLORS BANGLA HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Colors%20Bangla1664976841.png?v=1" group-title="Family", COLORS BANGLA HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/COLORS%20BANGLA%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/COLORS.CINEPLEX.HD1787247267.png?v=1" group-title="Hindi", COLORS CINEPLEX HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/COLORS.CINEPLEX.HD1787247267.png?v=1" group-title="Movies", COLORS CINEPLEX HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/COLORS%20CINEPLEX%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CloursBangla1787280897.png?v=1" group-title="Bangla", CloursBangla
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CloursBangla1787280897.png?v=1" group-title="Family", CloursBangla
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/CloursBangla.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DBC1787200975.png?v=1" group-title="Bangla", DBC
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DBC1787200975.png?v=1" group-title="Family", DBC
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/DBC.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DEEPTO%20TV1787199327.png?v=1" group-title="Bangla", DEEPTO TV
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DEEPTO%20TV1787199327.png?v=1" group-title="Family", DEEPTO TV
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/DEEPTO%20TV.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DISCOVERY.HD1787247584.png?v=1" group-title="English", DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DISCOVERY.HD1787247584.png?v=1" group-title="Family", DISCOVERY HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/DISCOVERY%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DURANTA.TV.HD1787251927.png?v=1" group-title="Kids", DURANTA TV HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DURANTA.TV.HD1787251927.png?v=1" group-title="Family", DURANTA TV HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/DURANTA%20TV%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DW.NEWS.HD1787250654.png?v=1" group-title="English", DW NEWS HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DW.NEWS.HD1787250654.png?v=1" group-title="News", DW NEWS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/DW%20NEWS%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/EKHON1787246900.png?v=1" group-title="Bangla", EKHON
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/EKHON1787246900.png?v=1" group-title="Family", EKHON
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/EKHON.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Ekattor1787201833.png?v=1" group-title="Bangla", Ekattor
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Ekattor1787201833.png?v=1" group-title="Family", Ekattor
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/Ekattor.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ENTER10.BANGLA1787251342.png?v=1" group-title="Bangla", ENTER10 BANGLA
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ENTER10.BANGLA1787251342.png?v=1" group-title="Family", ENTER10 BANGLA
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ENTER10%20BANGLA.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ETV.BAL.BHARAT1787250391.png?v=1" group-title="Kids", ETV BAL BHARAT
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ETV.BAL.BHARAT1787250391.png?v=1" group-title="Family", ETV BAL BHARAT
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ETV%20BAL%20BHARAT.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ETV1787199496.png?v=1" group-title="Bangla", ETV
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ETV1787199496.png?v=1" group-title="Family", ETV
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ETV.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/EUROSPORTS.HD1787249195.png?v=1" group-title="Sports", EUROSPORTS HD
@@ -1193,70 +1193,70 @@ https://toffe-scraper.up.railway.app/api/play/EUROSPORTS%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/FAST.SPORTS.HD1787251225.png?v=1" group-title="Sports", FAST SPORTS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/FAST%20SPORTS%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/GAZI.TV.HD1787250540.png?v=1" group-title="Bangla", GAZI TV HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/GAZI.TV.HD1787250540.png?v=1" group-title="Family", GAZI TV HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/GAZI%20TV%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/GEO.NEWS.HD1787251006.png?v=1" group-title="Urdu", GEO NEWS HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/GEO.NEWS.HD1787251006.png?v=1" group-title="News", GEO NEWS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/GEO%20NEWS%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=GOLF%20SPORTS&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Sports", GOLF SPORTS
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/GOLF%20SPORTS.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/History1787203947.png?v=1" group-title="English", History
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/History1787203947.png?v=1" group-title="Family", History
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/History.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/HUM.MASALA.TV1787251053.png?v=1" group-title="Urdu", HUM MASALA TV
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/HUM.MASALA.TV1787251053.png?v=1" group-title="Family", HUM MASALA TV
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/HUM%20MASALA%20TV.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/HUNGAMA1787250329.png?v=1" group-title="Kids", HUNGAMA
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/HUNGAMA.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/INDEPENDENT.TV1787251656.png?v=1" group-title="Bangla", INDEPENDENT TV
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/INDEPENDENT.TV1787251656.png?v=1" group-title="Family", INDEPENDENT TV
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/INDEPENDENT%20TV.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/JALSHA.MOVIES.HD1787247417.png?v=1" group-title="Bangla", JALSHA MOVIES HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/JALSHA.MOVIES.HD1787247417.png?v=1" group-title="Movies", JALSHA MOVIES HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/JALSHA%20MOVIES%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/JAMUNA.TV1787251696.png?v=1" group-title="Bangla", JAMUNA TV
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/JAMUNA.TV1787251696.png?v=1" group-title="Family", JAMUNA TV
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/JAMUNA%20TV.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=LOVE%20NATURE&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Others", LOVE NATURE
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=LOVE%20NATURE&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Family", LOVE NATURE
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/LOVE%20NATURE.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Lotus.TV.HD1787277037.png?v=1" group-title="Bangla", Lotus TV HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Lotus.TV.HD1787277037.png?v=1" group-title="International", Lotus TV HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/Lotus%20TV%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MADANI.TV.HD1787276847.png?v=1" group-title="Religious", MADANI TV HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/MADANI%20TV%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MASRANGA.TV.HD1787251612.png?v=1" group-title="Bangla", MASRANGA TV HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MASRANGA.TV.HD1787251612.png?v=1" group-title="Family", MASRANGA TV HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/MASRANGA%20TV%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MN.PLUS.HD1787248914.png?v=1" group-title="English", MN PLUS HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MN.PLUS.HD1787248914.png?v=1" group-title="International", MN PLUS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/MN%20PLUS%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MNX.HD1787248731.png?v=1" group-title="English", MNX HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MNX.HD1787248731.png?v=1" group-title="Family", MNX HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/MNX%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MOVIES.NOW.HD1787277205.png?v=1" group-title="English", MOVIES NOW HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MOVIES.NOW.HD1787277205.png?v=1" group-title="Movies", MOVIES NOW HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/MOVIES%20NOW%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/MTV_India_logo.svg/512px-MTV_India_logo.svg.png" group-title="Others", MTV INDIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/MTV_India_logo.svg/512px-MTV_India_logo.svg.png" group-title="Teens", MTV INDIA
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/MTV%20INDIA.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Music_India_logo.png/512px-Music_India_logo.png" group-title="Others", MUSIC INDIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Music_India_logo.png/512px-Music_India_logo.png" group-title="Teens", MUSIC INDIA
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/MUSIC%20INDIA.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NAGORIK.TV.HD1787250507.png?v=1" group-title="Bangla", NAGORIK TV HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NAGORIK.TV.HD1787250507.png?v=1" group-title="Family", NAGORIK TV HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/NAGORIK%20TV%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NATGEO.HD1787247811.png?v=1" group-title="English", NATGEO HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NATGEO.HD1787247811.png?v=1" group-title="Family", NATGEO HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/NATGEO%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NATGEO.WILD.HD1787247661.png?v=1" group-title="English", NATGEO WILD HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NATGEO.WILD.HD1787247661.png?v=1" group-title="Family", NATGEO WILD HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/NATGEO%20WILD%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=NEWS%2024&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Others", NEWS 24
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=NEWS%2024&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="News", NEWS 24
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/NEWS%2024.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NICK1787249933.png?v=1" group-title="Kids", NICK
@@ -1265,7 +1265,7 @@ https://toffe-scraper.up.railway.app/api/play/NICK.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NICK.JR1787250430.png?v=1" group-title="Kids", NICK JR
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/NICK%20JR.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Ntv1664826430.png?v=1" group-title="Bangla", NTV HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Ntv1664826430.png?v=1" group-title="Family", NTV HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/NTV%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/PEACE.TV.BANGLA.HD1787277064.png?v=1" group-title="Religious", PEACE TV BANGLA HD
@@ -1277,34 +1277,34 @@ https://toffe-scraper.up.railway.app/api/play/POGO.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/PTV-SPORTS-HD1787250903.png?v=1" group-title="Sports", PTV SPORTS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/PTV%20SPORTS%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ROMEDY.NOW1787277291.png?v=1" group-title="English", ROMEDY NOW
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ROMEDY.NOW1787277291.png?v=1" group-title="Movies", ROMEDY NOW
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ROMEDY%20NOW.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=SANGEET%20BANG&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Bangla", SANGEET BANGLA
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=SANGEET%20BANG&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Family", SANGEET BANGLA
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SANGEET%20BANGLA.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SOMOY.TV.HD1787251571.png?v=1" group-title="Bangla", SOMOY TV HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SOMOY.TV.HD1787251571.png?v=1" group-title="Family", SOMOY TV HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SOMOY%20TV%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONIC1787249865.png?v=1" group-title="Kids", SONIC
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONIC1787249865.png?v=1" group-title="Family", SONIC
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SONIC.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/sony%20sports%205%20hd.png?v=1" group-title="Sports", SONY SPORTS 5HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SONY%20SPORTS%205HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.AAT1787249799.png?v=1" group-title="Bangla", SONY AAT
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.AAT1787249799.png?v=1" group-title="Family", SONY AAT
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SONY%20AAT.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/S_BBC_EARTH1787204265.png?v=1" group-title="English", Sony BBC Earth
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/S_BBC_EARTH1787204265.png?v=1" group-title="International", Sony BBC Earth
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/Sony%20BBC%20Earth.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY_ENT1787203266.png?v=1" group-title="Hindi", Sony Entertainment TV
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY_ENT1787203266.png?v=1" group-title="Family", Sony Entertainment TV
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/Sony%20Entertainment%20TV.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.MAX.HD1787247545.png?v=1" group-title="Hindi", SONY MAX HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.MAX.HD1787247545.png?v=1" group-title="Movies", SONY MAX HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SONY%20MAX%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.PIX.HD1787248600.png?v=1" group-title="English", SONY PIX HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.PIX.HD1787248600.png?v=1" group-title="Movies", SONY PIX HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SONY%20PIX%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.SPORTS.1HD1787251839.png?v=1" group-title="Sports", SONY SPORTS 1HD
@@ -1319,34 +1319,34 @@ https://toffe-scraper.up.railway.app/api/play/SONY%20SPORTS%204.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.SPORTS2.HD1787248311.png?v=1" group-title="Sports", SONY SPORTS2 HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SONY%20SPORTS2%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.YAY1787250860.png?v=1" group-title="Kids", SONY YAY
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.YAY1787250860.png?v=1" group-title="Family", SONY YAY
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SONY%20YAY.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR-SPORTS.31787248490.png?v=1" group-title="Sports", STAR SPORTS 3
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20SPORTS%203.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.BHARAT.HD1787250714.png?v=1" group-title="Hindi", STAR BHARAT HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.BHARAT.HD1787250714.png?v=1" group-title="Family", STAR BHARAT HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20BHARAT%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.GOLD.HD1787247495.png?v=1" group-title="Hindi", STAR GOLD HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.GOLD.HD1787247495.png?v=1" group-title="Movies", STAR GOLD HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20GOLD%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%20SELECT%20HD1745043508.png?v=1" group-title="Hindi", STAR GOLD SEL HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%20SELECT%20HD1745043508.png?v=1" group-title="Movies", STAR GOLD SEL HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20GOLD%20SEL%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%202%20HD1745043441.png?v=1" group-title="Hindi", STAR GOLD2 HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%202%20HD1745043441.png?v=1" group-title="Movies", STAR GOLD2 HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20GOLD2%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.JALSHA.HD1787248682.png?v=1" group-title="Bangla", STAR JALSHA HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.JALSHA.HD1787248682.png?v=1" group-title="Family", STAR JALSHA HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20JALSHA%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.HD1787277311.png?v=1" group-title="English", STAR MOVIES HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.HD1787277311.png?v=1" group-title="Movies", STAR MOVIES HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20MOVIES%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.SEL.HD1787277362.png?v=1" group-title="English", STAR MOVIES SEL HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.SEL.HD1787277362.png?v=1" group-title="Movies", STAR MOVIES SEL HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20MOVIES%20SEL%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.PLUS.HD1787247742.png?v=1" group-title="Hindi", STAR PLUS HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.PLUS.HD1787247742.png?v=1" group-title="International", STAR PLUS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20PLUS%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.SPORTS-SEL1.HD1787248189.png?v=1" group-title="Sports", STAR SPORTS SEL1 HD
@@ -1361,7 +1361,7 @@ https://toffe-scraper.up.railway.app/api/play/STAR%20SPORTS1%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.SPORTS2.HD1787248269.png?v=1" group-title="Sports", STAR SPORTS2 HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20SPORTS2%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/S_BANGLA1787204380.png?v=1" group-title="Bangla", Sun Bangla
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/S_BANGLA1787204380.png?v=1" group-title="Family", Sun Bangla
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/Sun%20Bangla.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="Kids", SUPER HUNGAMA
@@ -1370,37 +1370,37 @@ https://toffe-scraper.up.railway.app/api/play/SUPER%20HUNGAMA.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/T-SPORTS-HD1787252188.png?v=1" group-title="Sports", T SPORTS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/T%20SPORTS%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/TLC1787203377.png?v=1" group-title="English", TLC
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/TLC1787203377.png?v=1" group-title="Family", TLC
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/TLC.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/TRAVELXP.HD1787252013.png?v=1" group-title="English", TRAVELXP HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/TRAVELXP.HD1787252013.png?v=1" group-title="Family", TRAVELXP HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/TRAVELXP%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=UNITE8%201%20HD&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Others", UNITE8 1 HD
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=UNITE8%201%20HD&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Family", UNITE8 1 HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/UNITE8%201%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/XPLOR.HD1787276990.png?v=1" group-title="English", XPLOR HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/XPLOR.HD1787276990.png?v=1" group-title="Family", XPLOR HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/XPLOR%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZEE.BANGLA.CINEMA1787249701.png?v=1" group-title="Bangla", ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZEE.BANGLA.CINEMA1787249701.png?v=1" group-title="Movies", ZEE BANGLA CINEMA
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ZEE%20BANGLA%20CINEMA.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Z_BANGLA1787204320.png?v=1" group-title="Bangla", Zee Bangla
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Z_BANGLA1787204320.png?v=1" group-title="Family", Zee Bangla
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/Zee%20Bangla.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZEE%20CAFE%20HD1745040102.png?v=1" group-title="English", ZEE CAFE HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZEE%20CAFE%20HD1745040102.png?v=1" group-title="Family", ZEE CAFE HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ZEE%20CAFE%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Z_CINEMA_HD1787276799.png?v=1" group-title="Hindi", Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Z_CINEMA_HD1787276799.png?v=1" group-title="Movies", Zee Cinema HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/Zee%20Cinema%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZEE1787203548.png?v=1" group-title="Hindi", ZEE
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZEE1787203548.png?v=1" group-title="Family", ZEE
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ZEE.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZING.MUSIC1787250465.png?v=1" group-title="Hindi", ZING MUSIC
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZING.MUSIC1787250465.png?v=1" group-title="Music", ZING MUSIC
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ZING%20MUSIC.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZOOM.MUSIC1787249504.png?v=1" group-title="Hindi", ZOOM MUSIC
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZOOM.MUSIC1787249504.png?v=1" group-title="Teens", ZOOM MUSIC
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/ZOOM%20MUSIC.m3u8
 
