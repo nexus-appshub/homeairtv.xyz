@@ -201,7 +201,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-id="jalshamovieshd" tvg-name="JALSHA MOVIES HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", JALSHA MOVIES HD
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
-https://homair-tv-production.up.railway.app/api/stream/eyJ1cmwiOiJodHRwczovL3R2Lm1vdmllbWFzdGkubmV0Ojg0NDMvSkFMU0hBLk1PVklFUy5IRC9pbmRleC5tM3U4P3Rva2VuPTAyOTJiMmNjMjZiMmQxMDRhZDcyNjBhZDY5YzY3OTAyNzMzMzU4ZDktNDRiM2Q0ZmJkMGM5MmQxNjMxNGJlYjUzMTc2NjdhMDYtMTc5MTUwMzkyNC0xNzkxNDYwNDI0IiwiY2hhbm5lbCI6IkpBTFNIQSBNT1ZJRVMgSEQiLCJvcmlnaW4iOiIiLCJoZWFkZXJzIjp7IlJlZmVyZXIiOiJodHRwczovL3R2Lm1vdmllbWFzdGkubmV0L2FwcC8iLCJPcmlnaW4iOiJodHRwczovL3R2Lm1vdmllbWFzdGkubmV0IiwiVXNlci1BZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjUuMC4wLjAgU2FmYXJpLzUzNy4zNiJ9fQ.m3u8
+https://homair-tv-production.up.railway.app/api/play/JALSHA%20MOVIES%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5m9yGNnqjxKSwhExMYy6yfu5I5_h9nZ_5qLPVYz8sm_eoFIHhtpV_S_L-SDEBS_AZ-2TAFdI9nmHk4058Nl9Na3Htt2oBOOYxgzwfgUsZtKLHUWAmOeck0_GGr2hfXAyI_ebwPioyUY7k9fl2pSnTJbRbjmjz3USqa1rGjgvIl6LHRcsO7Qc8aDOOs3CN" group-title="Family", Star Plus
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/Star%20Plus.m3u8
