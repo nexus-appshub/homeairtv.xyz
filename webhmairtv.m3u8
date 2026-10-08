@@ -80,11 +80,11 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTVLCOPT:http-referrer=https://toffeelive.com/
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL3Byb2QtbGluZWFyLW1lZGlhLnRvZmZlZWxpdmUuY29tL2Nkbi9saXZlL2V1cm9fc3BvcnRzX2hkL3BsYXlsaXN0Lm0zdTg_ZWRnZS1jYWNoZS10b2tlbj1FeHBpcmVzPTE3OTA0Mzg0MzR-U3RhcnRzPTE3OTA0MzQ4MzR-VVJMUHJlZml4PWFIUjBjSE02THk5d2NtOWtMV3hwYm1WaGNpMXRaV1JwWVM1MGIyWm1aV1ZzYVhabExtTnZiUX5EYXRhPWV5SnpkV0p6WTNKcFltVnlYMmxrSWpvaU1tWXlObUV5Wm1ZdE9EUmtZUzAwTnpSaUxXSmlOMkV0TWpGbFkyVmhaVEl5TkRCbUluMH5TaWduYXR1cmU9UDZtSndpcjdWOTFUTTI4d1EtYkI5UFZhQkFhdFJDMGVVb0FMSGpKdWlackVqcDBjQVpCWHlNdjh2Zm55eUIzVF94d2FzYVRrNGJHSXF6b29fZ0dKQUEiLCJyZWZlcmVyIjoiaHR0cHM6Ly90b2ZmZWVsaXZlLmNvbS8iLCJjaGFubmVsIjoiRXVyb3Nwb3J0IEhEIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJVc2VyLUFnZW50IjoiVG9mZmVlIChMaW51eDtBbmRyb2lkIDE0KSBBbmRyb2lkWE1lZGlhMy8xLjEuMS82NDEwMzg5OC80ZDJlYzliOGM3NTM0YWRjIiwiQWNjZXB0IjoiKi8qIiwiQWNjZXB0LUxhbmd1YWdlIjoiZW4tVVMsZW47cT0wLjkiLCJTZWMtQ2gtVWEiOiJcIk5vdCBBKEJyYW5kXCI7dj1cIjk5XCIsIFwiR29vZ2xlIENocm9tZVwiO3Y9XCIxMjFcIiwgXCJDaHJvbWl1bVwiO3Y9XCIxMjFcIiIsIlNlYy1DaC1VYS1Nb2JpbGUiOiI_MCIsIlNlYy1DaC1VYS1QbGF0Zm9ybSI6IlwiV2luZG93c1wiIiwiU2VjLUZldGNoLURlc3QiOiJlbXB0eSIsIlNlYy1GZXRjaC1Nb2RlIjoiY29ycyIsIlNlYy1GZXRjaC1TaXRlIjoiY3Jvc3Mtc2l0ZSIsIlJlZmVyZXIiOiJodHRwczovL3RvZmZlZWxpdmUuY29tLyIsIk9yaWdpbiI6Imh0dHBzOi8vdG9mZmVlbGl2ZS5jb20iLCJ1c2VyLWFnZW50IjoiVG9mZmVlIChMaW51eDtBbmRyb2lkIDE0KSBBbmRyb2lkWE1lZGlhMy8xLjEuMS82NDEwMzg5OC80ZDJlYzliOGM3NTM0YWRjIiwiY2xpZW50LWFwaS1oZWFkZXIiOiJhbmdNMWFYQ0hRTG1tU1c2Y0RscFhNRDZ0TGR3bmhNb1VlYUJCRkttZDk4Ylg2VnJhZTV4Q01ibTRnZzArdTMzcm54ZUdRRFpOcjJHRDF0VzBjV3dLRXBXaW1ObEdxWFZRR2hwaUlCejFKRnhOK094WGNRcWFNUHJqd1VoQ3lJNW1PMURHeU52MTgrWjJFcG1IdFZuTHpWOVNyR3NRV3U0b1JLanhFOFFJTXNSczZMcnZMNmhXR1BsT0dRa2UvcWI1UXhRWk5ldFB6STM5akhoWDdaaTJYckNNSVQ0YStnazJXdTFjM3dJeWJ3a3FrblBjVHA0QmoxY0VGM1ErcTFkVjA1U0JoenBFRGZvUjJCTHlRNmRWM0x2bVk2TU5LeGJVamJ5N2hNc2czNWxGbDJEZjJtWnNyN0MyNzMwOXcvcVdpOGxMWERqQjdCMU1veklHS244cnczYlhZNVlsclBLQkt6dHlpaXNBalFRaTdrYzVJU1h5R1N3Um1oY2l3a2NpdWl0c1NMMExscUhZNy9Ra2toNzFFdGFLM1hFZ1ZwTGRIOHpSQ3NUd2Z1MWlJVlBpRHdUeWN1dUJ5NFhXa2NObmQwaUxCMzV5ZnRRcGlMOEhmcE8yalFuckF3emVQeHN6SjdtZXdWRytNMFAvcXlUQkQ1Mk5rUFI4dVcwQVptREtwNUxIVENHZjdzcWxkRHpwWnZVK2dzU2R2dHNCVWNtSHpqSU5HRW95WGs9In19.m3u8
 
-======
+#======
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/T-SPORTS-HD1787252188.png?v=1" group-title="Sports", T SPORTS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/T%20SPORTS%20HD.m3u8
-======
+#======
 
 #EXTINF:-1 tvg-id="019de785-39bc-7bd5-b9e5-bab23ceba9ea" tvg-name="PTV Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="Sports",PTV Sports
 https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8
@@ -171,9 +171,9 @@ http://202.70.146.135:8000/play/a04p/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Family",Zee Bangla HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/JALSHA.MOVIES.HD1787247417.png?v=1" group-title="Bangla", JALSHA MOVIES HD
-#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
-https://toffe-scraper.up.railway.app/api/play/JALSHA%20MOVIES%20HD.m3u8
+#EXTINF:-1 tvg-id="jalshamovieshd" tvg-name="JALSHA MOVIES HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", JALSHA MOVIES HD
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
+https://homair-tv-production.up.railway.app/api/play/JALSHA%20MOVIES%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5m9yGNnqjxKSwhExMYy6yfu5I5_h9nZ_5qLPVYz8sm_eoFIHhtpV_S_L-SDEBS_AZ-2TAFdI9nmHk4058Nl9Na3Htt2oBOOYxgzwfgUsZtKLHUWAmOeck0_GGr2hfXAyI_ebwPioyUY7k9fl2pSnTJbRbjmjz3USqa1rGjgvIl6LHRcsO7Qc8aDOOs3CN" group-title="Family", Star Plus
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/Star%20Plus.m3u8
@@ -181,14 +181,26 @@ https://toffe-scraper.up.railway.app/api/play/Star%20Plus.m3u8
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/COLORS%20BANGLA.m3u8
 #=============00============
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Colors%20Bangla1664976841.png?v=1" group-title="Bangla", COLORS BANGLA HD
-#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
-https://toffe-scraper.up.railway.app/api/play/COLORS%20BANGLA%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CloursBangla1787280897.png?v=1" group-title="Bangla", Colors HD
-#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
-https://toffe-scraper.up.railway.app/api/play/CloursBangla.m3u8
+#EXTINF:-1 tvg-id="colorsbanglahd" tvg-name="COLORS BANGLA HD" tvg-logo="https://tv.moviemasti.net/assets/images/Colors%20Bangla1664976841.png?v=1" group-title="HomAir TV", COLORS BANGLA HD
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
+https://homair-tv-production.up.railway.app/api/play/COLORS%20BANGLA%20HD.m3u8
+#EXTINF:-1 tvg-id="cloursbangla" tvg-name="CloursBangla" tvg-logo="https://tv.moviemasti.net/assets/images/CloursBangla1787280897.png?v=1" group-title="HomAir TV", Colors Bangla
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
+https://homair-tv-production.up.railway.app/api/play/CloursBangla.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD" tvg-name="Colors Bangla HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Colors_Bangla_logo.svg/512px-Colors_Bangla_logo.svg.png" group-title="HomAir TV", Colors Bangla HD (1080p)
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-tv-production.up.railway.app/api/play/Colors%20Bangla%20HD%20(1080p).m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-name="Colors Bangla (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Colors_Bangla_logo.svg/512px-Colors_Bangla_logo.svg.png" group-title="HomAir TV", Colors Bangla (576p)
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-tv-production.up.railway.app/api/play/Colors%20Bangla%20(576p).m3u8
+#EXTINF:-1 tvg-id="ColorsMENA.in@HD" tvg-name="Colors MENA HD (720p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", Colors MENA HD (720p)
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-tv-production.up.railway.app/api/play/Colors%20MENA%20HD%20(720p).m3u8
+#EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD" tvg-name="Colors Rishtey Americas (396p)" tvg-logo="https://ui-avatars.com/api/?name=Colors%20Risht&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Colors Rishtey Americas (396p)
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-tv-production.up.railway.app/api/play/Colors%20Rishtey%20Americas%20(396p).m3u8
 
-============================
+#============================
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="Family", Dangal TV
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/Dangal%20TV.m3u8
@@ -208,7 +220,7 @@ https://toffe-scraper.up.railway.app/api/play/National%20Geographic.m3u8
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/Star%20Gold.m3u8
 
-=======
+#=======
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.GOLD.HD1787247495.png?v=1" group-title="Hindi", STAR GOLD HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20GOLD%20HD.m3u8
@@ -218,7 +230,7 @@ https://toffe-scraper.up.railway.app/api/play/STAR%20GOLD%20SEL%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%202%20HD1745043441.png?v=1" group-title="Hindi", STAR GOLD2 HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20GOLD2%20HD.m3u8
-========
+#========
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg_J2N2bl6PhBZ_VxfDxMJaj6r2y3vMXFF8daMYNqH8RGSx0t9E93MVH4ddcnISgZCcP8NUip9HcONtzYxtBNLh5GYA8L46QPL-07L5Hfh2F1-ZvkJiBsYcgfaZiujvAAj2gz6buLA9m3D-Rt2QamODzfWVl5i1X7f-OXKOKRo4AZfktDTEciHqPSu2tIMw" group-title="Movies", Star Gold 2
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
@@ -227,20 +239,23 @@ https://toffe-scraper.up.railway.app/api/play/Star%20Gold%202.m3u8
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/HungamaTV.m3u8
 
-=====
+#=====
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="Kids", SUPER HUNGAMA
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/SUPER%20HUNGAMA.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONIC1787249865.png?v=1" group-title="Kids", SONIC
-#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
-https://toffe-scraper.up.railway.app/api/play/SONIC.m3u8
-======
+#EXTINF:-1 tvg-id="sonic" tvg-name="SONIC" tvg-logo="https://tv.moviemasti.net/assets/images/SONIC1787249865.png?v=1" group-title="HomAir TV", SONIC
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
+https://homair-tv-production.up.railway.app/api/play/SONIC.m3u8
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-name="Sonic (576p)" tvg-logo="https://ui-avatars.com/api/?name=Sonic%20(576p)&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", Sonic (576p)
+#EXTVLCOPT:http-referrer=https://www.yupptv.com/
+https://homair-tv-production.up.railway.app/api/play/Sonic%20(576p).m3u8
+#======
 
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/starmovies.png" group-title="Movies", Star Movies
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/Star%20Movies.m3u8
 
-======
+#======
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.HD1787277311.png?v=1" group-title="English", STAR MOVIES HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20MOVIES%20HD.m3u8
@@ -248,7 +263,7 @@ https://toffe-scraper.up.railway.app/api/play/STAR%20MOVIES%20HD.m3u8
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20MOVIES%20SEL%20HD.m3u8
 
-==  
+#==  
 
 #EXTINF:-1 tvg-id="019de785-3993-7ccc-8bc0-184c2c761c69" tvg-name="Thikana" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b9a8bdbfcea2fb4656204d06f615682a_playmist_thikana400x400.jpg" group-title="Family",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
