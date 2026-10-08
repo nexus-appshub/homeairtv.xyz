@@ -2175,6 +2175,302 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF
 
 #===========================================Rangdhonu=======================================================================
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/guides/bd.epg.xml"
+
+#EXTINF:-1 tvg-id="9xmmusic" tvg-name="9XM MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/9XM_logo.svg/512px-9XM_logo.svg.png" group-title="HomAir TV", 9XM MUSIC
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/9XM%20MUSIC.m3u8
+#EXTINF:-1 tvg-id="asportshd" tvg-name="A SPORTS HD" tvg-logo="https://tv.moviemasti.net/assets/images/A.SPORTS.HD1787251107.png?v=1" group-title="HomAir TV", A SPORTS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/A%20SPORTS%20HD.m3u8
+#EXTINF:-1 tvg-id="aljazeerahd" tvg-name="ALJAZEERA HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", ALJAZEERA HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ALJAZEERA%20HD.m3u8
+#EXTINF:-1 tvg-id="andprivehd" tvg-name="AND PRIVE HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", AND PRIVE HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/AND%20PRIVE%20HD.m3u8
+#EXTINF:-1 tvg-id="animalplanethd" tvg-name="ANIMAL PLANET HD" tvg-logo="https://tv.moviemasti.net/assets/images/ANIMAL.PLANET.HD1787247856.png?v=1" group-title="HomAir TV", ANIMAL PLANET HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ANIMAL%20PLANET%20HD.m3u8
+#EXTINF:-1 tvg-id="antpicturshd" tvg-name="ANT PICTURS HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", ANT PICTURS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ANT%20PICTURS%20HD.m3u8
+#EXTINF:-1 tvg-id="atnbanglahd" tvg-name="ATN BANGLA HD" tvg-logo="https://tv.moviemasti.net/assets/images/ATN.BANGLA.HD1787251520.png?v=1" group-title="HomAir TV", ATN BANGLA HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ATN%20BANGLA%20HD.m3u8
+#EXTINF:-1 tvg-id="atnnewshd" tvg-name="ATN NEWS HD" tvg-logo="https://tv.moviemasti.net/assets/images/ATN.NEWS.HD1787250789.png?v=1" group-title="HomAir TV", ATN NEWS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ATN%20NEWS%20HD.m3u8
+#EXTINF:-1 tvg-id="axnhd" tvg-name="AXN HD" tvg-logo="https://tv.moviemasti.net/assets/images/AXN%20HD1745045171.png?v=1" group-title="HomAir TV", AXN HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/AXN%20HD.m3u8
+#EXTINF:-1 tvg-id="bbcearthhd" tvg-name="BBC Earth HD" tvg-logo="https://tv.moviemasti.net/assets/images/BBC.Earth.HD1787251963.png?v=1" group-title="HomAir TV", BBC Earth HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/BBC%20Earth%20HD.m3u8
+#EXTINF:-1 tvg-id="bbcnews" tvg-name="BBC NEWS" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", BBC NEWS
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/BBC%20NEWS.m3u8
+#EXTINF:-1 tvg-id="boishakhi" tvg-name="BOISHAKHI" tvg-logo="https://tv.moviemasti.net/assets/images/BOISHAKHI1787201225.png?v=1" group-title="HomAir TV", BOISHAKHI
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/BOISHAKHI.m3u8
+#EXTINF:-1 tvg-id="btvhd" tvg-name="BTV HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", BTV HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/BTV%20HD.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://tv.moviemasti.net/assets/images/CARTOON_NETW1787203454.png?v=1" group-title="HomAir TV", Cartoon Network
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/Cartoon%20Network.m3u8
+#EXTINF:-1 tvg-id="channel24hd" tvg-name="CHANNEL 24 HD" tvg-logo="https://tv.moviemasti.net/assets/images/CHANNEL.24.HD1787251435.png?v=1" group-title="HomAir TV", CHANNEL 24 HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/CHANNEL%2024%20HD.m3u8
+#EXTINF:-1 tvg-id="channelihd" tvg-name="CHANNEL I HD" tvg-logo="https://tv.moviemasti.net/assets/images/CHANNEL.I.HD1787251478.png?v=1" group-title="HomAir TV", CHANNEL I HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/CHANNEL%20I%20HD.m3u8
+#EXTINF:-1 tvg-id="colorsbanglacinema" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://tv.moviemasti.net/assets/images/COLORS.BANGLA.CINEMA1787250010.png?v=1" group-title="HomAir TV", COLORS BANGLA CINEMA
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/COLORS%20BANGLA%20CINEMA.m3u8
+#EXTINF:-1 tvg-id="colorsbanglahd" tvg-name="COLORS BANGLA HD" tvg-logo="https://tv.moviemasti.net/assets/images/Colors%20Bangla1664976841.png?v=1" group-title="HomAir TV", COLORS BANGLA HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/COLORS%20BANGLA%20HD.m3u8
+#EXTINF:-1 tvg-id="colorscineplexhd" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://tv.moviemasti.net/assets/images/COLORS.CINEPLEX.HD1787247267.png?v=1" group-title="HomAir TV", COLORS CINEPLEX HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/COLORS%20CINEPLEX%20HD.m3u8
+#EXTINF:-1 tvg-id="cloursbangla" tvg-name="CloursBangla" tvg-logo="https://tv.moviemasti.net/assets/images/CloursBangla1787280897.png?v=1" group-title="HomAir TV", CloursBangla
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/CloursBangla.m3u8
+#EXTINF:-1 tvg-id="dbc" tvg-name="DBC" tvg-logo="https://tv.moviemasti.net/assets/images/DBC1787200975.png?v=1" group-title="HomAir TV", DBC
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/DBC.m3u8
+#EXTINF:-1 tvg-id="deeptotv" tvg-name="DEEPTO TV" tvg-logo="https://tv.moviemasti.net/assets/images/DEEPTO%20TV1787199327.png?v=1" group-title="HomAir TV", DEEPTO TV
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/DEEPTO%20TV.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" tvg-name="DISCOVERY HD" tvg-logo="https://tv.moviemasti.net/assets/images/DISCOVERY.HD1787247584.png?v=1" group-title="HomAir TV", DISCOVERY HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/DISCOVERY%20HD.m3u8
+#EXTINF:-1 tvg-id="durantatvhd" tvg-name="DURANTA TV HD" tvg-logo="https://tv.moviemasti.net/assets/images/DURANTA.TV.HD1787251927.png?v=1" group-title="HomAir TV", DURANTA TV HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/DURANTA%20TV%20HD.m3u8
+#EXTINF:-1 tvg-id="dwnewshd" tvg-name="DW NEWS HD" tvg-logo="https://tv.moviemasti.net/assets/images/DW.NEWS.HD1787250654.png?v=1" group-title="HomAir TV", DW NEWS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/DW%20NEWS%20HD.m3u8
+#EXTINF:-1 tvg-id="ekhon" tvg-name="EKHON" tvg-logo="https://tv.moviemasti.net/assets/images/EKHON1787246900.png?v=1" group-title="HomAir TV", EKHON
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/EKHON.m3u8
+#EXTINF:-1 tvg-id="ekattor" tvg-name="Ekattor" tvg-logo="https://tv.moviemasti.net/assets/images/Ekattor1787201833.png?v=1" group-title="HomAir TV", Ekattor
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/Ekattor.m3u8
+#EXTINF:-1 tvg-id="enter10bangla" tvg-name="ENTER10 BANGLA" tvg-logo="https://tv.moviemasti.net/assets/images/ENTER10.BANGLA1787251342.png?v=1" group-title="HomAir TV", ENTER10 BANGLA
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ENTER10%20BANGLA.m3u8
+#EXTINF:-1 tvg-id="etvbalbharat" tvg-name="ETV BAL BHARAT" tvg-logo="https://tv.moviemasti.net/assets/images/ETV.BAL.BHARAT1787250391.png?v=1" group-title="HomAir TV", ETV BAL BHARAT
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ETV%20BAL%20BHARAT.m3u8
+#EXTINF:-1 tvg-id="etv" tvg-name="ETV" tvg-logo="https://tv.moviemasti.net/assets/images/ETV1787199496.png?v=1" group-title="HomAir TV", ETV
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ETV.m3u8
+#EXTINF:-1 tvg-id="eurosportshd" tvg-name="EUROSPORTS HD" tvg-logo="https://tv.moviemasti.net/assets/images/EUROSPORTS.HD1787249195.png?v=1" group-title="HomAir TV", EUROSPORTS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/EUROSPORTS%20HD.m3u8
+#EXTINF:-1 tvg-id="gazitvhd" tvg-name="GAZI TV HD" tvg-logo="https://tv.moviemasti.net/assets/images/GAZI.TV.HD1787250540.png?v=1" group-title="HomAir TV", GAZI TV HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/GAZI%20TV%20HD.m3u8
+#EXTINF:-1 tvg-id="geonewshd" tvg-name="GEO NEWS HD" tvg-logo="https://tv.moviemasti.net/assets/images/GEO.NEWS.HD1787251006.png?v=1" group-title="HomAir TV", GEO NEWS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/GEO%20NEWS%20HD.m3u8
+#EXTINF:-1 tvg-id="golfsports" tvg-name="GOLF SPORTS" tvg-logo="https://ui-avatars.com/api/?name=GOLF%20SPORTS&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", GOLF SPORTS
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/GOLF%20SPORTS.m3u8
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://tv.moviemasti.net/assets/images/History1787203947.png?v=1" group-title="HomAir TV", History
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/History.m3u8
+#EXTINF:-1 tvg-id="hummasalatv" tvg-name="HUM MASALA TV" tvg-logo="https://tv.moviemasti.net/assets/images/HUM.MASALA.TV1787251053.png?v=1" group-title="HomAir TV", HUM MASALA TV
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/HUM%20MASALA%20TV.m3u8
+#EXTINF:-1 tvg-id="hungama" tvg-name="HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/HUNGAMA1787250329.png?v=1" group-title="HomAir TV", HUNGAMA
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/HUNGAMA.m3u8
+#EXTINF:-1 tvg-id="independenttv" tvg-name="INDEPENDENT TV" tvg-logo="https://tv.moviemasti.net/assets/images/INDEPENDENT.TV1787251656.png?v=1" group-title="HomAir TV", INDEPENDENT TV
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/INDEPENDENT%20TV.m3u8
+#EXTINF:-1 tvg-id="jalshamovieshd" tvg-name="JALSHA MOVIES HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", JALSHA MOVIES HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/JALSHA%20MOVIES%20HD.m3u8
+#EXTINF:-1 tvg-id="jamunatv" tvg-name="JAMUNA TV" tvg-logo="https://tv.moviemasti.net/assets/images/JAMUNA.TV1787251696.png?v=1" group-title="HomAir TV", JAMUNA TV
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/JAMUNA%20TV.m3u8
+#EXTINF:-1 tvg-id="lovenature" tvg-name="LOVE NATURE" tvg-logo="https://ui-avatars.com/api/?name=LOVE%20NATURE&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", LOVE NATURE
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/LOVE%20NATURE.m3u8
+#EXTINF:-1 tvg-id="lotustvhd" tvg-name="Lotus TV HD" tvg-logo="https://tv.moviemasti.net/assets/images/Lotus.TV.HD1787277037.png?v=1" group-title="HomAir TV", Lotus TV HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/Lotus%20TV%20HD.m3u8
+#EXTINF:-1 tvg-id="madanitvhd" tvg-name="MADANI TV HD" tvg-logo="https://tv.moviemasti.net/assets/images/MADANI.TV.HD1787276847.png?v=1" group-title="HomAir TV", MADANI TV HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/MADANI%20TV%20HD.m3u8
+#EXTINF:-1 tvg-id="masrangatvhd" tvg-name="MASRANGA TV HD" tvg-logo="https://tv.moviemasti.net/assets/images/MASRANGA.TV.HD1787251612.png?v=1" group-title="HomAir TV", MASRANGA TV HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/MASRANGA%20TV%20HD.m3u8
+#EXTINF:-1 tvg-id="mnplushd" tvg-name="MN PLUS HD" tvg-logo="https://tv.moviemasti.net/assets/images/MN.PLUS.HD1787248914.png?v=1" group-title="HomAir TV", MN PLUS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/MN%20PLUS%20HD.m3u8
+#EXTINF:-1 tvg-id="mnxhd" tvg-name="MNX HD" tvg-logo="https://tv.moviemasti.net/assets/images/MNX.HD1787248731.png?v=1" group-title="HomAir TV", MNX HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/MNX%20HD.m3u8
+#EXTINF:-1 tvg-id="moviesnowhd" tvg-name="MOVIES NOW HD" tvg-logo="https://tv.moviemasti.net/assets/images/MOVIES.NOW.HD1787277205.png?v=1" group-title="HomAir TV", MOVIES NOW HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/MOVIES%20NOW%20HD.m3u8
+#EXTINF:-1 tvg-id="mtvindia" tvg-name="MTV INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/MTV_India_logo.svg/512px-MTV_India_logo.svg.png" group-title="HomAir TV", MTV INDIA
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/MTV%20INDIA.m3u8
+#EXTINF:-1 tvg-id="musicindia" tvg-name="MUSIC INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Music_India_logo.png/512px-Music_India_logo.png" group-title="HomAir TV", MUSIC INDIA
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/MUSIC%20INDIA.m3u8
+#EXTINF:-1 tvg-id="nagoriktvhd" tvg-name="NAGORIK TV HD" tvg-logo="https://tv.moviemasti.net/assets/images/NAGORIK.TV.HD1787250507.png?v=1" group-title="HomAir TV", NAGORIK TV HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/NAGORIK%20TV%20HD.m3u8
+#EXTINF:-1 tvg-id="natgeohd" tvg-name="NATGEO HD" tvg-logo="https://tv.moviemasti.net/assets/images/NATGEO.HD1787247811.png?v=1" group-title="HomAir TV", NATGEO HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/NATGEO%20HD.m3u8
+#EXTINF:-1 tvg-id="natgeowildhd" tvg-name="NATGEO WILD HD" tvg-logo="https://tv.moviemasti.net/assets/images/NATGEO.WILD.HD1787247661.png?v=1" group-title="HomAir TV", NATGEO WILD HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/NATGEO%20WILD%20HD.m3u8
+#EXTINF:-1 tvg-id="news24" tvg-name="NEWS 24" tvg-logo="https://ui-avatars.com/api/?name=NEWS%2024&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", NEWS 24
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/NEWS%2024.m3u8
+#EXTINF:-1 tvg-id="nick" tvg-name="NICK" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", NICK
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/NICK.m3u8
+#EXTINF:-1 tvg-id="nickjr" tvg-name="NICK JR" tvg-logo="https://tv.moviemasti.net/assets/images/NICK.JR1787250430.png?v=1" group-title="HomAir TV", NICK JR
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/NICK%20JR.m3u8
+#EXTINF:-1 tvg-id="peacetvbanglahd" tvg-name="PEACE TV BANGLA HD" tvg-logo="https://tv.moviemasti.net/assets/images/PEACE.TV.BANGLA.HD1787277064.png?v=1" group-title="HomAir TV", PEACE TV BANGLA HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/PEACE%20TV%20BANGLA%20HD.m3u8
+#EXTINF:-1 tvg-id="pogo" tvg-name="POGO" tvg-logo="https://tv.moviemasti.net/assets/images/POGO1787250174.png?v=1" group-title="HomAir TV", POGO
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/POGO.m3u8
+#EXTINF:-1 tvg-id="ptvsportshd" tvg-name="PTV SPORTS HD" tvg-logo="https://tv.moviemasti.net/assets/images/PTV-SPORTS-HD1787250903.png?v=1" group-title="HomAir TV", PTV SPORTS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/PTV%20SPORTS%20HD.m3u8
+#EXTINF:-1 tvg-id="romedynow" tvg-name="ROMEDY NOW" tvg-logo="https://tv.moviemasti.net/assets/images/ROMEDY.NOW1787277291.png?v=1" group-title="HomAir TV", ROMEDY NOW
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ROMEDY%20NOW.m3u8
+#EXTINF:-1 tvg-id="sangeetbangla" tvg-name="SANGEET BANGLA" tvg-logo="https://ui-avatars.com/api/?name=SANGEET%20BANG&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", SANGEET BANGLA
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SANGEET%20BANGLA.m3u8
+#EXTINF:-1 tvg-id="somoytvhd" tvg-name="SOMOY TV HD" tvg-logo="https://tv.moviemasti.net/assets/images/SOMOY.TV.HD1787251571.png?v=1" group-title="HomAir TV", SOMOY TV HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SOMOY%20TV%20HD.m3u8
+#EXTINF:-1 tvg-id="sonic" tvg-name="SONIC" tvg-logo="https://tv.moviemasti.net/assets/images/SONIC1787249865.png?v=1" group-title="HomAir TV", SONIC
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SONIC.m3u8
+#EXTINF:-1 tvg-id="sonysports5hd" tvg-name="SONY SPORTS 5HD" tvg-logo="https://tv.moviemasti.net/assets/images/sony%20sports%205%20hd.png?v=1" group-title="HomAir TV", SONY SPORTS 5HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SONY%20SPORTS%205HD.m3u8
+#EXTINF:-1 tvg-id="sonyaat" tvg-name="SONY AAT" tvg-logo="https://tv.moviemasti.net/assets/images/SONY.AAT1787249799.png?v=1" group-title="HomAir TV", SONY AAT
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SONY%20AAT.m3u8
+#EXTINF:-1 tvg-id="sonybbcearth" tvg-name="Sony BBC Earth" tvg-logo="https://tv.moviemasti.net/assets/images/S_BBC_EARTH1787204265.png?v=1" group-title="HomAir TV", Sony BBC Earth
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/Sony%20BBC%20Earth.m3u8
+#EXTINF:-1 tvg-id="sonyentertainmenttv" tvg-name="Sony Entertainment TV" tvg-logo="https://tv.moviemasti.net/assets/images/SONY_ENT1787203266.png?v=1" group-title="HomAir TV", Sony Entertainment TV
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/Sony%20Entertainment%20TV.m3u8
+#EXTINF:-1 tvg-id="sonymaxhd" tvg-name="SONY MAX HD" tvg-logo="https://tv.moviemasti.net/assets/images/SONY.MAX.HD1787247545.png?v=1" group-title="HomAir TV", SONY MAX HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SONY%20MAX%20HD.m3u8
+#EXTINF:-1 tvg-id="sonypixhd" tvg-name="SONY PIX HD" tvg-logo="https://tv.moviemasti.net/assets/images/SONY.PIX.HD1787248600.png?v=1" group-title="HomAir TV", SONY PIX HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SONY%20PIX%20HD.m3u8
+#EXTINF:-1 tvg-id="sonysports1hd" tvg-name="SONY SPORTS 1HD" tvg-logo="https://tv.moviemasti.net/assets/images/SONY.SPORTS.1HD1787251839.png?v=1" group-title="HomAir TV", SONY SPORTS 1HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SONY%20SPORTS%201HD.m3u8
+#EXTINF:-1 tvg-id="sonysports3" tvg-name="SONY SPORTS 3" tvg-logo="https://tv.moviemasti.net/assets/images/SONY.SPORTS.31787248363.png?v=1" group-title="HomAir TV", SONY SPORTS 3
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SONY%20SPORTS%203.m3u8
+#EXTINF:-1 tvg-id="sonysports4" tvg-name="SONY SPORTS 4" tvg-logo="https://tv.moviemasti.net/assets/images/SONY.SPORTS.41787251884.png?v=1" group-title="HomAir TV", SONY SPORTS 4
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SONY%20SPORTS%204.m3u8
+#EXTINF:-1 tvg-id="sonysports2hd" tvg-name="SONY SPORTS2 HD" tvg-logo="https://tv.moviemasti.net/assets/images/SONY.SPORTS2.HD1787248311.png?v=1" group-title="HomAir TV", SONY SPORTS2 HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SONY%20SPORTS2%20HD.m3u8
+#EXTINF:-1 tvg-id="sonyyay" tvg-name="SONY YAY" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", SONY YAY
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SONY%20YAY.m3u8
+#EXTINF:-1 tvg-id="starsports3" tvg-name="STAR SPORTS 3" tvg-logo="https://tv.moviemasti.net/assets/images/STAR-SPORTS.31787248490.png?v=1" group-title="HomAir TV", STAR SPORTS 3
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20SPORTS%203.m3u8
+#EXTINF:-1 tvg-id="starbharathd" tvg-name="STAR BHARAT HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", STAR BHARAT HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20BHARAT%20HD.m3u8
+#EXTINF:-1 tvg-id="stargoldhd" tvg-name="STAR GOLD HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.GOLD.HD1787247495.png?v=1" group-title="HomAir TV", STAR GOLD HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20GOLD%20HD.m3u8
+#EXTINF:-1 tvg-id="stargoldselhd" tvg-name="STAR GOLD SEL HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%20SELECT%20HD1745043508.png?v=1" group-title="HomAir TV", STAR GOLD SEL HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20GOLD%20SEL%20HD.m3u8
+#EXTINF:-1 tvg-id="starjalshahd" tvg-name="STAR JALSHA HD" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", STAR JALSHA HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20JALSHA%20HD.m3u8
+#EXTINF:-1 tvg-id="starmovieshd" tvg-name="STAR MOVIES HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.HD1787277311.png?v=1" group-title="HomAir TV", STAR MOVIES HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20MOVIES%20HD.m3u8
+#EXTINF:-1 tvg-id="starmoviesselhd" tvg-name="STAR MOVIES SEL HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.SEL.HD1787277362.png?v=1" group-title="HomAir TV", STAR MOVIES SEL HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20MOVIES%20SEL%20HD.m3u8
+#EXTINF:-1 tvg-id="starplushd" tvg-name="STAR PLUS HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.PLUS.HD1787247742.png?v=1" group-title="HomAir TV", STAR PLUS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20PLUS%20HD.m3u8
+#EXTINF:-1 tvg-id="starsportssel1hd" tvg-name="STAR SPORTS SEL1 HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.SPORTS-SEL1.HD1787248189.png?v=1" group-title="HomAir TV", STAR SPORTS SEL1 HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20SPORTS%20SEL1%20HD.m3u8
+#EXTINF:-1 tvg-id="starsports" tvg-name="STAR SPORTS" tvg-logo="https://tv.moviemasti.net/assets/images/STAR_SPORTS1787204187.png?v=1" group-title="HomAir TV", STAR SPORTS
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20SPORTS.m3u8
+#EXTINF:-1 tvg-id="starsports1hd" tvg-name="STAR SPORTS1 HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.SPORTS1.HD1787248425.png?v=1" group-title="HomAir TV", STAR SPORTS1 HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20SPORTS1%20HD.m3u8
+#EXTINF:-1 tvg-id="starsports2hd" tvg-name="STAR SPORTS2 HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.SPORTS2.HD1787248269.png?v=1" group-title="HomAir TV", STAR SPORTS2 HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20SPORTS2%20HD.m3u8
+#EXTINF:-1 tvg-id="sunbangla" tvg-name="Sun Bangla" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", Sun Bangla
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/Sun%20Bangla.m3u8
+#EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="HomAir TV", SUPER HUNGAMA
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/SUPER%20HUNGAMA.m3u8
+#EXTINF:-1 tvg-id="tsportshd" tvg-name="T SPORTS HD" tvg-logo="https://tv.moviemasti.net/assets/images/T-SPORTS-HD1787252188.png?v=1" group-title="HomAir TV", T SPORTS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/T%20SPORTS%20HD.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://tv.moviemasti.net/assets/images/TLC1787203377.png?v=1" group-title="HomAir TV", TLC
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/TLC.m3u8
+#EXTINF:-1 tvg-id="travelxphd" tvg-name="TRAVELXP HD" tvg-logo="https://tv.moviemasti.net/assets/images/TRAVELXP.HD1787252013.png?v=1" group-title="HomAir TV", TRAVELXP HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/TRAVELXP%20HD.m3u8
+#EXTINF:-1 tvg-id="unite81hd" tvg-name="UNITE8 1 HD" tvg-logo="https://ui-avatars.com/api/?name=UNITE8%201%20HD&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="HomAir TV", UNITE8 1 HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/UNITE8%201%20HD.m3u8
+#EXTINF:-1 tvg-id="xplorhd" tvg-name="XPLOR HD" tvg-logo="https://tv.moviemasti.net/assets/images/XPLOR.HD1787276990.png?v=1" group-title="HomAir TV", XPLOR HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/XPLOR%20HD.m3u8
+#EXTINF:-1 tvg-id="zeebanglacinema" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://tv.moviemasti.net/assets/images/ZEE.BANGLA.CINEMA1787249701.png?v=1" group-title="HomAir TV", ZEE BANGLA CINEMA
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ZEE%20BANGLA%20CINEMA.m3u8
+#EXTINF:-1 tvg-id="zeebangla" tvg-name="Zee Bangla" tvg-logo="https://tv.moviemasti.net/assets/images/Z_BANGLA1787204320.png?v=1" group-title="HomAir TV", Zee Bangla
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/Zee%20Bangla.m3u8
+#EXTINF:-1 tvg-id="zeecinemahd" tvg-name="Zee Cinema HD" tvg-logo="https://tv.moviemasti.net/assets/images/Z_CINEMA_HD1787276799.png?v=1" group-title="HomAir TV", Zee Cinema HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/Zee%20Cinema%20HD.m3u8
+#EXTINF:-1 tvg-id="zee" tvg-name="ZEE" tvg-logo="https://tv.moviemasti.net/assets/images/ZEE1787203548.png?v=1" group-title="HomAir TV", ZEE
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ZEE.m3u8
+#EXTINF:-1 tvg-id="zingmusic" tvg-name="ZING MUSIC" tvg-logo="https://tv.moviemasti.net/assets/images/ZING.MUSIC1787250465.png?v=1" group-title="HomAir TV", ZING MUSIC
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ZING%20MUSIC.m3u8
+#EXTINF:-1 tvg-id="zoommusic" tvg-name="ZOOM MUSIC" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="HomAir TV", ZOOM MUSIC
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/ZOOM%20MUSIC.m3u8
  
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629845642.png" group-title="Family", BTV
