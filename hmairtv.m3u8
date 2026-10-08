@@ -293,9 +293,15 @@ https://toffe-scraper.up.railway.app/api/play/Star%20Movies.m3u8
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.HD1787277311.png?v=1" group-title="English", STAR MOVIES HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://toffe-scraper.up.railway.app/api/play/STAR%20MOVIES%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.SEL.HD1787277362.png?v=1" group-title="English", STAR MOVIES SEL HD
+#EXTINF:-1 tvg-id="starmovieshd" tvg-name="STAR MOVIES HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.HD1787277311.png?v=1" group-title="HomAir TV", STAR MOVIES HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
-https://toffe-scraper.up.railway.app/api/play/STAR%20MOVIES%20SEL%20HD.m3u8
+https://homair-tv-production.up.railway.app/api/play/STAR%20MOVIES%20HD.m3u8
+#EXTINF:-1 tvg-id="starmoviesselhd" tvg-name="STAR MOVIES SEL HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.SEL.HD1787277362.png?v=1" group-title="HomAir TV", STAR MOVIES SEL HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20MOVIES%20SEL%20HD.m3u8
+#EXTINF:-1 tvg-id="starplushd" tvg-name="STAR PLUS HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.PLUS.HD1787247742.png?v=1" group-title="HomAir TV", STAR PLUS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20PLUS%20HD.m3u8
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://i.imgur.com/hbotv.png" group-title="HomAir TV", HBO
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://homair-tv-production.up.railway.app/api/play/HBO.m3u8
