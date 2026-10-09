@@ -203,8 +203,9 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 https://homair-tv-production.up.railway.app/api/play/JALSHA%20MOVIES%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5m9yGNnqjxKSwhExMYy6yfu5I5_h9nZ_5qLPVYz8sm_eoFIHhtpV_S_L-SDEBS_AZ-2TAFdI9nmHk4058Nl9Na3Htt2oBOOYxgzwfgUsZtKLHUWAmOeck0_GGr2hfXAyI_ebwPioyUY7k9fl2pSnTJbRbjmjz3USqa1rGjgvIl6LHRcsO7Qc8aDOOs3CN" group-title="Family", Star Plus
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://toffe-scraper.up.railway.app/api/play/Star%20Plus.m3u8
+#EXTINF:-1 tvg-id="starplushd" tvg-name="STAR PLUS HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.PLUS.HD1787247742.png?v=1" group-title="Hindi", STAR PLUS HD
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/STAR%20PLUS%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/66.png" group-title="Family", COLORS BANGLA
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/COLORS%20BANGLA.m3u8
