@@ -61,10 +61,7 @@ https://media.hmair.xyz/api/play/Sony%20Ten%20Sports%201%20HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png", Sony Ten Sports 2 HD
 #EXTVLCOPT:http-referrer=https://toffeelive.com/
 https://media.hmair.xyz/api/play/Sony%20Ten%20Sports%202%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjbXNl3qwLHjQWF9x95z8F0KXwR7kmx-8HSphs6w2nDy1YvNUFPqAB16TPPotG2OIPyy-FdgVHE8jipV-6i6MowbZuuYXenajQGeJU6UQB-omlWRNdybmW39C2uk2iiO3TQkAv2pFL91-SW32-yQkxwXhbN4mQWEi-Gt3mEbnHcCXPCzjjc5O6L0lCiOzMI" group-title="Sports", Sony Sports TEN 3
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://toffe-scraper.up.railway.app/api/play/Sony%20Sports%20TEN%203.m3u8
-
+ 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/SONY%20SPORTS%20TEN%204.jpg", Sony Sports 4
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
 https://media.hmair.xyz/api/play/All%20Channels%20(Server%2044).m3u8
@@ -133,12 +130,7 @@ https://homair-tv-production.up.railway.app/api/play/beIN%20Sports%20Premium%201
 #EXTINF:-1 tvg-id="beinsportsenglish" tvg-name="beIN Sports English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BeIN_Sports_1_logo.svg/512px-BeIN_Sports_1_logo.svg.png" group-title="Sports", beIN Sports English
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://homair-tv-production.up.railway.app/api/play/beIN%20Sports%20English.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgrdJvoOBmQsYvgrj4rKvt-MWxVC1Tr_d8Vg6NVDiH4X3ygIHLO_tGmYiUQpq16NJZF55Jl5p-5Cj_vvUA7cABueVFoizKzicTXkPotmLKe2UTijsXxOeFD9bR3ChvuVV6zDTn9MrJGszXPNmw5iUc8WeVgvqwH3-GfQQwc26sBuEVhyyllsqMF6jnOeWkX" group-title="Sports", A Sports
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://toffe-scraper.up.railway.app/api/play/A%20Sports.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiyvKz4cWN2hXi4QFYbwDyfqiJwy_V1GU2ZySYwE9W8hhpea9Q3T1t5E-haL78c1YrxQKEJUufdXXiMKzal1HBk3phkeLleph77TRgv_Nsc_SsTYsdLSEn8iQJzjPrydL5dUJjXT0sIZWQlznj6iM2XUQw75AKBO6cY9mG6ZFxjagfUCRsm9hNgtbTF_fOT" group-title="International", India vs. Brazil
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://toffe-scraper.up.railway.app/api/play/India%20vs.%20Brazil.m3u8
+
 #EXTINF:-1 tvg-id="asportshd" tvg-name="A SPORTS HD" tvg-logo="https://tv.moviemasti.net/assets/images/A.SPORTS.HD1787251107.png?v=1" group-title="Sports", A SPORTS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://homair-tv-production.up.railway.app/api/play/A%20SPORTS%20HD.m3u8
@@ -206,9 +198,7 @@ https://homair-tv-production.up.railway.app/api/play/JALSHA%20MOVIES%20HD.m3u8
 #EXTINF:-1 tvg-id="starplushd" tvg-name="STAR PLUS HD" tvg-logo="https://tv.moviemasti.net/assets/images/STAR.PLUS.HD1787247742.png?v=1" group-title="International", STAR PLUS HD
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
 https://homair-tv-production.up.railway.app/api/play/STAR%20PLUS%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/66.png" group-title="Family", COLORS BANGLA
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://toffe-scraper.up.railway.app/api/play/COLORS%20BANGLA.m3u8
+ 
 #=============00============
 #EXTINF:-1 tvg-id="colorsbanglahd" tvg-name="COLORS BANGLA HD" tvg-logo="https://tv.moviemasti.net/assets/images/Colors%20Bangla1664976841.png?v=1" group-title="Family", COLORS BANGLA HD
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
@@ -270,14 +260,14 @@ https://toffe-scraper.up.railway.app/api/play/STAR%20GOLD2%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg_J2N2bl6PhBZ_VxfDxMJaj6r2y3vMXFF8daMYNqH8RGSx0t9E93MVH4ddcnISgZCcP8NUip9HcONtzYxtBNLh5GYA8L46QPL-07L5Hfh2F1-ZvkJiBsYcgfaZiujvAAj2gz6buLA9m3D-Rt2QamODzfWVl5i1X7f-OXKOKRo4AZfktDTEciHqPSu2tIMw" group-title="Movies", Star Gold 2
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://toffe-scraper.up.railway.app/api/play/Star%20Gold%202.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfEjh2jabLKHxc4dDA_yHDC3NoJkmsrrCMxyadqFkGZGdd8AON5typmuDVsZCLBl9TLjeYhkyfV7eVz0kiQ4wgl10B6gEg6pwR6Yk_2QBAm-X2BYPH0RrkleBz9cV8k-EYf4hEQynj194rX5stXOJ3hzQ-oP3AqI73BLx_yIFZdelBvmjaw6moGmPu0uLG" group-title="Kids", HungamaTV
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://toffe-scraper.up.railway.app/api/play/HungamaTV.m3u8
+#EXTINF:-1 tvg-id="hungama" tvg-name="HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/HUNGAMA1787250329.png?v=1" group-title="Kids", HUNGAMA
+#EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
+https://homair-tv-production.up.railway.app/api/play/HUNGAMA.m3u8
 
 #=====
-#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="Kids", SUPER HUNGAMA
+#EXTINF:-1 tvg-id="superhungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="Kids", SUPER HUNGAMA
 #EXTVLCOPT:http-referrer=https://tv.moviemasti.net/app/#/live
-https://toffe-scraper.up.railway.app/api/play/SUPER%20HUNGAMA.m3u8
+https://homair-tv-production.up.railway.app/api/play/SUPER%20HUNGAMA.m3u8
 #EXTINF:-1 tvg-id="sonic" tvg-name="SONIC" tvg-logo="https://tv.moviemasti.net/assets/images/SONIC1787249865.png?v=1" group-title="Family", SONIC
 #EXTVLCOPT:http-referrer=https://www.yupptv.com/livetv
 https://homair-tv-production.up.railway.app/api/play/SONIC.m3u8
@@ -286,9 +276,7 @@ https://homair-tv-production.up.railway.app/api/play/SONIC.m3u8
 https://homair-tv-production.up.railway.app/api/play/Sonic%20(576p).m3u8
 #======
 
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/starmovies.png" group-title="Movies", Star Movies
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://toffe-scraper.up.railway.app/api/play/Star%20Movies.m3u8
+
 
 #======
 #EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.HD1787277311.png?v=1" group-title="Movies", STAR MOVIES HD
