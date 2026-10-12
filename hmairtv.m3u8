@@ -49,7 +49,7 @@ https://media.hmair.xyz/api/play/Toffee%20TV.m3u8
 #EXTVLCOPT:http-referrer=https://toffeelive.com/
 https://media.hmair.xyz/api/play/Toffee%20Movies.m3u8 
 #EXTINF:-1 tvg-id="Homai Live" tvg-name="UEFA NATIONS LEAGUE"  tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="Sports",  Homair Sport 1
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+https://homair-tv-production.up.railway.app/api/play/STAR%20NEWS.m3u8
 
 #EXTINF:-1 tvg-name="UEFA NATIONS LEAGUE" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="Sports", Homair Sport 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
