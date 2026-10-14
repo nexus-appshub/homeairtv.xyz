@@ -360,8 +360,7 @@ https://homair-tv-production.up.railway.app/api/play/CloursBangla.m3u8
 https://homair-tv-production.up.railway.app/api/play/Colors%20MENA%20HD%20(720p).m3u8
 #EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD" tvg-name="Colors Rishtey Americas (396p)" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" tvg-language="English" group-title="International",Colors Rishtey Americas (396p)
 https://homair-tv-production.up.railway.app/api/play/Colors%20Rishtey%20Americas%20(396p).m3u8
-#EXTINF:-1 tvg-id="starutsav" tvg-name="Star Utsav" tvg-logo="https://i.imgur.com/H1jhHDl.png" tvg-language="English" group-title="Family",Star Utsav
-https://homair-tv-production.up.railway.app/api/play/Star%20Utsav.m3u8
+
 #EXTINF:-1 tvg-id="starutsavmovies" tvg-name="Star Utsav Movies" tvg-logo="https://i.imgur.com/k5QHfH2.png" tvg-language="English" group-title="Movies",Star Utsav Movies
 https://homair-tv-production.up.railway.app/api/play/Star%20Utsav%20Movies.m3u8
 #EXTINF:-1 tvg-name="HUM Sitaray" tvg-logo="https://assets-prod.services.toffeelive.com/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" tvg-language="English" group-title="Family",HUM Sitaray
@@ -1172,8 +1171,8 @@ https://homair-tv-production.up.railway.app/api/play/Star%20Bharat.m3u8
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://homair-tv-production.up.railway.app/api/play/Star%20Bharat%20HD.m3u8
 #EXTINF:-1 tvg-id="starutsav" tvg-name="Star Utsav" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="Family", Star Utsav
-#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
-https://homair-tv-production.up.railway.app/api/play/Star%20Utsav.m3u8
+#EXTVLCOPT:http-referrer=https://ranapkz.site/
+https://homair-tv-production.up.railway.app/api/play/RanaPKZ%20Channel%20(943925).m3u8
 #EXTINF:-1 tvg-id="starutsavmovies" tvg-name="Star Utsav Movies" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="Movies", Star Utsav Movies
 #EXTVLCOPT:http-referrer=https://www.rangdhonu.live
 https://homair-tv-production.up.railway.app/api/play/Star%20Utsav%20Movies.m3u8
