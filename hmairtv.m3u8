@@ -75,7 +75,7 @@ https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3960-7cad-a051-6b707a28890b" tvg-name="Deepto TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_ebcb173e194bfeede20303e348b80999_playmist_deepto_tv_400x400.jpg" tvg-language="English" group-title="Family",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-id="samitv1280x720" tvg-name="Samitv [1280x720]" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png" group-title="Video Quality", Samitv 
+#EXTINF:-1 tvg-id="samitv1280x720" tvg-name="Samitv [1280x720]" tvg-logo="https://pub-b6d03c1f15fe43a0a04728217ba1bff4.r2.dev/WhatsApp%20Image%202026-10-17%20at%2012.47.01%20AM.jpeg" group-title="Video Quality", Samitv 
 #EXTVLCOPT:http-referrer=http://103.238.115.159:8080/samitv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://bdix.ottking.top:8082/Sami-TV/video.m3u8?token=Sami-TV
